@@ -1,0 +1,568 @@
+# R markdown
+
+## Headings
+
+Every chapter should have a first-level heading marked by `#`. A second-level heading has two of `#`, a third-level heading three of them and so on until six. Here's how to write a first-level heading followed by a second-level heading:
+
+````markdown
+# <first-level heading>
+
+## <second-level heading>
+
+````
+
+The caption for references must be unnumbered so i did with the corresponding command:
+
+````{verbatim label = "caption", language = "markdown"}
+# References {.unnumbered}
+
+````
+
+The latter result can be achieved using a shorter form:
+
+````{verbatim label = "caption-unnumbered", language = "markdown"}
+# References {-}
+
+````
+
+## Paragraphs
+
+Paragraphs are separated by two line-breaks:
+
+````{verbatim label = "paragraph"}
+<one paragraph>
+
+<next paragraph>
+
+````
+
+## Italics
+
+Text can be turned to italics using asterisks around it:
+
+````markdown
+*<text in italics>*
+
+````
+
+*\<text in italics\>*
+
+## Superscript
+
+```{verbatim label = "rmd-superscript", language = "rmarkdown"}
+2^2^
+  
+```
+
+2^2^
+
+## Color
+
+```{verbatim label = "render-color", language = "r"}
+render_color(color = "008000", text = "10 \\cdot V")
+
+```
+
+This text is `r render_color(color = "008000", text = "colored")`.
+
+## Code
+
+### As a block
+
+Code blocks can be marked by three ticks following by braces containing metadata. The first metadata is the language. i've used so far `r` and `bash`:
+
+````{verbatim label = "bash-ssh-keygen", lang = "bash"}
+```{bash eval = FALSE}
+ssh-keygen
+
+```
+
+````
+
+i keep an empty line at the end of the code block content because if i want to use a keyboard shortcut for commenting out it only works if the last line is empty.
+
+If the language is `r render_nonmath_LaTeX_string_universal("\\LaTeX{}")` or `r render_nonmath_LaTeX_string_universal("\\LaTeX{}")` then the language must not only be in lowercase but have a preceding `=` [@riederer_611]:
+
+````{verbatim, lang = "latex"}
+```{=latex eval = FALSE}
+\onecolumn
+
+```
+
+````
+
+There are some options that can be used for code blocks or chunks in addition to them mentioned in the general [configuration](#knitr) part:
+
+`eval`
+: Shall the code be executed or not or what lines of the code should be executed?
+
+If i want to show a code-block without rendering it, i use a `verbatim` block as a wrapper around it:
+
+`````{verbatim label = "verbatim"}
+````{verbatim label = "onecolumn-example", lang = "latex"}
+```{=latex eval = FALSE}
+\onecolumn
+
+```
+
+````
+
+`````
+
+For `verbatim` to work, it has to have at least one more backtick than the outermost inner block [@riederer_56].
+
+### Inline
+
+The inline code must be between ticks:
+
+````{verbatim label = "inline-code", lang = "markdown"}
+i show how to display `<inline code>`.
+
+````
+
+i show how to display `<inline code>`.
+
+## Quoting
+
+For quoting, i use `>` at the beginning of each line of the quote.
+
+````{verbatim label = "single-line-quote"}
+> <the quoted text>
+
+````
+
+> \<the quoted text\>
+
+It's also possible to do a multi-line quote by adding two spaces at the end of each line which means a line break [@markdown]:
+
+```{verbatim label = "multi-line-quote", language = "markdown"}
+> <first line of the quote>  
+<second line of the quote>
+
+```
+
+> \<first line of the quote>  
+\<second line of the quote>
+
+Another way of multiline quoting is to inclue `>` in front of each row:
+
+```{verbatim label = "multi-line-quote-with-angular-brackets", language = "markdown"}
+> <first line of the quote>  
+<second line of the quote>
+>
+> <fourth line of the quote>
+
+```
+
+> \<first line of the quote>  
+\<second line of the quote>
+>
+> \<fourth line of the quote>
+
+A quote with the author:
+
+```{verbatim label = "quote-with-author"}
+> All on konstantne. Siis ma... Midagi läheb sealt läbi, aga siis peab mõtlema, mis, mis kurat sealt läbi läheb.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- Tõnu Laas')`
+```
+
+> All on konstantne. Siis ma... Midagi läheb sealt läbi, aga siis peab mõtlema, mis, mis kurat sealt läbi läheb.
+
+`r librarian::shelf(c("tufte"));   tufte::quote_footer('--- Tõnu Laas')`
+
+\onecolumn
+
+## Escaping
+
+If a character must be escaped then a backslash can be used right in front of it (example\ (@escaping-asterisk)).
+
+\multicolsbegin
+
+(@escaping-asterisk) `*\**`
+
+\columnbreak
+
+*\**
+
+\multicolsend
+
+The following additional characters must be escaped:
+
+1. *\_*,
+
+2. *\@*,
+
+3. *\&*.
+
+If the number is an ordinal then in Estonian, there is a period after the scalar which the parser recognizes as the period for a list element. For that not happen, the period must be preceded by a backslash (example (@escaping-period)).
+
+\multicolsbegin
+
+(@escaping-period) `1961\. a sätestati...`
+
+\columnbreak
+
+1961\. a sätestati...
+
+\multicolsend
+
+\pagebreak
+
+## Non-breaking space
+
+In the example (@example-of-breaking-space), the name will be broken if it does not fit into the line.
+
+(@example-of-breaking-space)
+
+  ```{verbatim label="example-of-breaking-space"}
+  The name of one of my companies out of many is MTÜ Eesti Kõrgkoolitennise Liit.
+  
+  ```
+
+  The name of one of my companies out of many is MTÜ Eesti Kõrgkoolitennise Liit.
+
+\pagebreak
+
+In the example (@example-of-non-breaking-space), the name will not be broken if it does not fit into the line using `&nbsp`[@how-whitespace-preserved].
+
+(@example-of-non-breaking-space)
+
+  ```{verbatim label="example-of-non-breaking-space"}
+  The name of one of my companies out of many is MTÜ&nbsp;Eesti&nbsp;Kõrgkoolitennise&nbsp;Liit.
+  
+  ```
+
+  The name of one of my companies out of many is MTÜ&nbsp;Eesti&nbsp;Kõrgkoolitennise&nbsp;Liit.
+
+In the example (@example-of-non-breaking-space-backslash), the name will not be broken if it does not fit into the line using `\ `[@rmarkdown].
+
+(@example-of-non-breaking-space-backslash)
+
+  ```{verbatim label="example-of-non-breaking-space-backslash"}
+  The name of one of my companies out of many is MTÜ\ Eesti\ Kõrgkoolitennise\ Liit.
+  
+  ```
+
+  The name of one of my companies out of many is MTÜ\ Eesti\ Kõrgkoolitennise\ Liit.
+
+Non-breaking spaces do not work with *multicols*.
+
+## Referencing
+
+### Common reference
+
+A target for a common reference:
+
+````markdown
+[]{#<label-for-target>}
+
+````
+
+A link for a common target:
+
+````markdown
+[<link text>](#<label-for-target>)
+
+````
+
+\onecolumn
+
+### External reference
+
+#### Preparation and common use cases
+
+For having an external reference, i put its *Bib`r render_nonmath_LaTeX_string_universal("\\TeX{}")`* block into *references.bib*. i seldom create it manually. Instead, i use the help of MyBib [@a1970_] where i *Start a new project* for every project, *Add Citation*, *Download References* as *Bib`r render_nonmath_LaTeX_string_universal("\\TeX{}")`*, copy the lastly added reference from the downloaded file into *references.bib* so that the items there are listed alphabetically. Another such helper is BibGuru [@noauthor_undated_tf].
+
+As there's a problem to display emojis and they appear seldom then i only use the emoji-able font *Symbola* that can't italics nor bold only for strings that contain emojis. External references can contain them. This is why all the external references will be rendered using *Symbola*. For that, i created a function called `render_with_emojis` that can't handle references directly but over inner reference because of the corresponding *bookdown* restriction. Therefore, for every record in the list of external references, i also created an inner reference into the end of the file *references.Rmd* like this:
+
+```{verbatim label = "example-of-inner-reference-for-external-reference"}
+(ref:<identifier-of-inner-reference-in-snake-case>) @<identifier-of-external-reference-as-is>
+
+```
+
+The identifier of the inner reference isn't allowed to contain underscores. Between every inner reference, at least one empty line must be.
+
+For inline referencing, wherever i wanted to have a reference to that reference record i called `render_with_emojis` and fed it with a value for `text` as the identifier of the internal reference in parenthesis if the reference is direct and in double parenthesis if indirect:
+
+````{verbatim label = "external-reference"}
+i use MyBib `r render_with_emojis("((ref:<identifier-of-inner-reference-in-snake-case>))")`.
+
+`r render_with_emojis("(ref:<identifier-of-inner-reference-in-snake-case>)")` automates creating references.
+
+````
+
+As i am using numeric referencing now, the identifier is not textual, so i use the short version for referencing whereas the identifier is the one in the BIB-file as `render_with_emojis` does not do the job in this case:
+
+````{verbatim label = "external-reference-short"}
+i use MyBib [@<identifier-of-inner-reference-in-snake-case>].
+
+@<identifier-of-inner-reference-in-snake-case> automates creating references.
+
+````
+
+If the exact location in the source is necessary to refer to then it can be added to the reference part in the short version by separating it from the identifier with a comma and preceding it with *p. * which is short for *page* or *pages*. One can also use the corresponding short in another language. For minutes in a video, the short could be *min*. The rule:
+
+````{verbatim label = "external-reference-short-with-location"}
+i use MyBib [@<identifier-of-inner-reference-in-snake-case>(p. <range>)].
+
+@<identifier-of-inner-reference-in-snake-case>(p. <range>) automates creating references.
+
+````
+
+For example:
+
+A surprising piece of data is this [@haynes_2014_crc(p. 6)].
+
+*CRC Handbook of Chemistry and Physics, 95th Edition*[@haynes_2014_crc(p. 6)] represents some suprising pieces of data.
+
+We can use a comma instead of parentheses for the page range however that would confuse the reader as in the output commas a also used to separate multiple references.
+
+#### Multiple references
+
+Multiple references can be used with a semicolon[@riederer_45]:
+
+```{verbatim label="multiple-references"}
+I use the help of bibliography generators [@a1970_; @noauthor_undated_tf].
+
+```
+
+I use the help of bibliography generators [@a1970_; @noauthor_undated_tf].
+
+#### Reference in the caption
+
+Referencing in the caption works just fine if the figure is upright. If the figure is at a different angle the whole caption must be written out as a reference before[@xie_22]: 
+
+````{verbatim label = "external-reference-in-figure-caption"}
+Joonisel \@ref(fig:cities) leheküljel `r render_pageref(reference = "fig:cities")` on näidatud gravitatsioonist põhjustatud kiirendus eri piirkondades Maal.
+
+(ref:caption-for-cities) Gravitatsioonist põhjustatud kiirendus eri Maa paigus[@elert_2019_glenn].
+
+```{r label = "cities", echo = FALSE, fig.cap = "(ref:caption-for-cities)", echo = FALSE, out.extra="angle = 90", out.width=".92\\textheight"}
+include_external_graphics("rmd/g.png")
+
+```
+
+````
+Joonisel \@ref(fig:cities) leheküljel `r render_pageref(reference = "fig:cities")` on näidatud gravitatsioonist põhjustatud kiirendus eri piirkondades Maal.
+
+(ref:caption-for-cities) Gravitatsioonist põhjustatud kiirendus eri Maa paigus[@elert_2019_glenn].
+
+```{r label = "cities", echo = FALSE, fig.cap = "(ref:caption-for-cities)", echo = FALSE, out.extra="angle = 90", out.width=".92\\textheight"}
+include_external_graphics("rmd/g.png")
+
+```
+
+## Tables
+
+```{verbatim label = "table-left-alignment", language = "rmarkdown"}
+Võrdlen tabelis \@ref(tab:base-10-base-1) kümnendsüsteemi arve ühendsüsteemi arvudega.
+
+| Baas 10 | Baas 1 |
+|---------|--------|
+| 1       | 1      |
+| 2       | 11     |
+| 3       | 111    |
+| 4       | 1111   |
+
+: (\#tab:base-10-base-1) Kümnendsüsteemi ja ühendsüsteemi arvud
+
+```
+
+Võrdlen tabelis \@ref(tab:base-10-base-1) kümnendsüsteemi arve ühendsüsteemi arvudega.
+
+| Baas 10 | Baas 1 |
+|---------|--------|
+| 1       | 1      |
+| 2       | 11     |
+| 3       | 111    |
+| 4       | 1111   |
+
+: (\#tab:base-10-base-1) Kümnendsüsteemi ja ühendsüsteemi arvud.
+
+```{verbatim label = "table-right-alignment", language = "rmarkdown"}
+Kolmendsüsteemis on kasutuses kolm võimalikku erinevat numbrit, nt 0, 1 ja 2. Võrdlen tabelis \@ref(tab:bases-10-2-3) eri baaside arve.
+
+| Baas 10 | Baas 2 | Baas 3 |
+|--------:|-------:|-------:|
+|       0 |      0 |      0 |
+|       1 |      1 |      1 |
+|       2 |     10 |      2 |
+|       3 |     11 |     10 |
+|       4 |    100 |     11 |
+|       5 |    101 |     12 |
+|       6 |    110 |     20 |
+|       7 |    111 |     21 |
+|       8 |   1000 |     22 |
+|       9 |   1001 |    100 |
+
+: (\#tab:bases-10-2-3)Kümnend-, kahend- ja kolmendsüsteemi arvud
+
+```
+
+Kolmendsüsteemis on kasutuses kolm võimalikku erinevat numbrit, nt 0, 1 ja 2. Võrdlen tabelis \@ref(tab:bases-10-2-3) eri baaside arve.
+
+| Baas 10 | Baas 2 | Baas 3 |
+|--------:|-------:|-------:|
+|       0 |      0 |      0 |
+|       1 |      1 |      1 |
+|       2 |     10 |      2 |
+|       3 |     11 |     10 |
+|       4 |    100 |     11 |
+|       5 |    101 |     12 |
+|       6 |    110 |     20 |
+|       7 |    111 |     21 |
+|       8 |   1000 |     22 |
+|       9 |   1001 |    100 |
+
+: (\#tab:bases-10-2-3)Kümnend-, kahend- ja kolmendsüsteemi arvud.
+
+```{verbatim label = "table-middle-aligntment", language = "rmarkdown"}
+| Second bit | First bit |
+|:----------:|:---------:|
+|     0      |     0     |
+|     0      |     1     |
+|     1      |     0     |
+|     1      |     1     |
+
+: (\#tab:base-2)For representing a larger number, more bits on the left are needed. 0 and 1 can still be displayed using two bits while the second bit having 0-s. Once the first bit is full the second bit starts with 1 and the first bit starts over
+
+Taken from the table \@ref(tab:base-2) there are four combinations altogether possible using two bits.
+
+```
+
+Taken from the table \@ref(tab:base-2) there are four combinations altogether possible using two bits.
+
+| Second bit | First bit |
+|:----------:|:---------:|
+|     0      |     0     |
+|     0      |     1     |
+|     1      |     0     |
+|     1      |     1     |
+
+: (\#tab:base-2)For representing a larger number, more bits on the left are needed. 0 and 1 can still be displayed using two bits while the second bit having 0-s. Once the first bit is full the second bit starts with 1 and the first bit starts over
+
+## Equations
+
+Equations can be inserted in math mode, id est between double bug signs if in a block or single bug signes if inline:
+
+```{verbatim label = "equation-block"}
+$$\frac{t_\text{d}}{}$$
+
+```
+
+$$\frac{t_\text{d}}{}$$
+
+```{verbatim label = "equation-inline", language = "markdown"}
+The same equation inline: $\frac{t_\text{d}}{}$.
+
+```
+
+The same equation inline: $\frac{t_\text{d}}{}$.
+
+\pagebreak
+
+## Lists
+
+In the example (@lists-with-holes), a comment between two list items ends the list and starts a new one[@lists]. This way, it is possible to create a non-continuous list.
+
+(@lists-with-holes) A list with holes:
+
+    ```{verbatim label = "ordered-list-out-of-order", language="markdown"}
+    7. Korrutage \qty{4,079e2}{\m} \qty{0,057e-1}{\m}'ga, võttes arvesse olulisi numbreid.
+    
+    <!-- -->
+    
+    9. Väikeste nurkade $u$ korral on $\mathrm{sin}(u)$ arvväärtus ligikaudu sama, mis $\mathrm{tan}(u)$ arvväärtus.
+    Leia suurim nurk, mille puhul siinus ja tangens langevad kokku kahe tüvenumbri piires.
+    
+    ```
+
+    7. Korrutage \qty{4,079e2}{\m} \qty{0,057e-1}{\m}'ga, võttes arvesse olulisi numbreid.
+
+    <!-- -->
+
+    9. Väikeste nurkade $u$ korral on $\mathrm{sin}(u)$ arvväärtus ligikaudu sama, mis $\mathrm{tan}(u)$ arvväärtus.
+    Leia suurim nurk, mille puhul siinus ja tangens langevad kokku kahe tüvenumbri piires.
+
+\pagebreak
+
+In the example (@lists-without-holes), the list is continuous no matter what identifier is in front of the second item.
+
+(@lists-without-holes) A continuous list:
+
+    ```{verbatim label = "ordered-list-in-order", language="markdown"}
+    7. Korrutage \qty{4,079e2}{\m} \qty{0,057e-1}{\m}'ga, võttes arvesse olulisi numbreid.
+    
+    9. Väikeste nurkade $u$ korral on $\mathrm{sin}(u)$ arvväärtus ligikaudu sama, mis $\mathrm{tan}(u)$ arvväärtus.
+    Leia suurim nurk, mille puhul siinus ja tangens langevad kokku kahe tüvenumbri piires.
+    
+    ```
+    
+    7. Korrutage \qty{4,079e2}{\m} \qty{0,057e-1}{\m}'ga, võttes arvesse olulisi numbreid.
+    
+    9. Väikeste nurkade $u$ korral on $\mathrm{sin}(u)$ arvväärtus ligikaudu sama, mis $\mathrm{tan}(u)$ arvväärtus.
+    Leia suurim nurk, mille puhul siinus ja tangens langevad kokku kahe tüvenumbri piires.
+
+\pagebreak
+
+## Examples
+
+Examples can be made as seen in the example (@examples)[@lists].
+
+(@examples) An example of an example:
+
+    ```{verbatim label="examples", language="markdown"}
+    In the example (@examples-example), it is possible to see an example.
+    
+    (@examples-example) This is an example.
+    
+    ```
+    
+    In the example (@examples-example), it is possible to see an example.
+    
+    (@examples-example) This is an example.
+
+\pagebreak
+
+## Exercises[@xie_22]
+
+\multicolsbegin
+```{verbatim label="exercise", language="markdown"}
+::: {.exercise #dynamics-task-20240303-1 name="Kolme vektori suurus ja suund."}
+Tee kindlaks kolme vektori
+$$\overrightarrow{\bf{V}_1} = 4,0 \hat{\bf{i}} - 8,0 \hat{\bf{j}},$$
+$$\overrightarrow{\bf{V}_2} = \hat{\bf{i}} + \hat{\bf{j}} \text{ ja}$$
+$$\overrightarrow{\bf{V}_3} = -2,0 \hat{\bf{i}} + 4,0 \hat{\bf{j}}$$
+suurus ja suund!
+
+Tee kindlaks $\overrightarrow{\bf{V}_1} - \overrightarrow{\bf{V}_2} + \overrightarrow{\bf{V}_3}$.
+:::
+```
+
+\columnbreak
+
+::: {.exercise #dynamics-task-20240303-1 name="Kolme vektori suurus ja suund."}
+Tee kindlaks kolme vektori
+$$\overrightarrow{\bf{V}_1} = 4,0 \hat{\bf{i}} - 8,0 \hat{\bf{j}},$$
+$$\overrightarrow{\bf{V}_2} = \hat{\bf{i}} + \hat{\bf{j}} \text{ ja}$$
+$$\overrightarrow{\bf{V}_3} = -2,0 \hat{\bf{i}} + 4,0 \hat{\bf{j}}$$
+suurus ja suund!
+
+Tee kindlaks $\overrightarrow{\bf{V}_1} - \overrightarrow{\bf{V}_2} + \overrightarrow{\bf{V}_3}$.
+:::
+\multicolsend
+
+## Captions
+
+Captions of figures, exercises, examples etc can be changed by adding the specific translations into *\_bookdown.yml* (@caption-translations).
+
+(@caption-translations)
+
+```{verbatim label="caption-translations", language="YAML"}
+language:
+  label:
+    exr: 'Ülesanne '
+    fig: 'Joonis '
+
+```

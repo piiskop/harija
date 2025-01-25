@@ -1,0 +1,471 @@
+---
+author:
+  - name: 'peacecop kalmer:'
+bibliography: presentation.bib
+csl: ../../apa-numeric-superscript-brackets.csl
+title: |
+    | Individual experiences with
+    | chlorine dioxide solution
+    | (CDS)
+output-file: presentation.html
+format:
+  revealjs:
+    incremental: false
+    multiplex:
+      url: 'http://manual-for-rstudio.ons.ee:1948/'
+      secret: "16759825730498538629"
+      socketId: "f3edf0ff0d09982e"
+
+---
+
+## *Quarto*
+
+```{r label="preamble"}
+#' This function displays external graphics by making the appropriate conversion aforehead.
+#' 
+#' @param path the path to the image file
+include_external_graphics = function(path) {
+
+  if (knitr::is_latex_output() && ("pdf" != xfun::file_ext(path))) {
+    output = xfun::with_ext(path, 'pdf')
+    
+    if ("svg" == xfun::file_ext(path)) {
+      system2('rsvg-convert', c('-f', 'pdf', '-a', '-o', shQuote(c(output, path))))
+    } else {
+      system(paste('gm convert ', path, ' ', output), intern = FALSE, ignore.stdout = FALSE, ignore.stderr = FALSE, wait = TRUE)
+    }
+    
+  } else {
+    output = path
+  }
+  
+  knitr::include_graphics(output)
+}
+
+```
+
+- does not link between files,
+- every presentation is separate,
+- looks so much better than *bookdown*-presentations.
+
+What version of *Quarto* do I have[@how]?
+
+```
+quarto check
+
+```
+
+## Setup
+
+1. For every presentation a subfolder inside the subfolder *qmd*.
+
+2. Link to the presentation in *js.js*:
+
+```
+  let nameOfPresentation = "<name-of-presentation>";
+  createLink(div, "presentation-" + nameOfPresentation, nameOfPresentation + ".html", "<The title of the presentation>");
+
+```
+
+## Preparing for remote controlling
+
+1. Cloning *multiplex* [@a2023_multiplex].
+
+2.  In the *multiplex*'s folder:
+
+    ```
+    npm install reveal-multiplex
+    
+    ```
+    
+3.  Creating the service:
+
+    ```
+    sudo emacs /etc/systemd/system/multiplex.service
+    
+    ```
+    
+4.  Starting the server:
+
+    ```
+    sudo systemctl start multiplex.service
+    
+    ```
+
+5. Directing traffic to port 1948 into the server machine.
+
+## Remote controlling
+
+1.  Configuring:
+
+    ```
+    format:
+  revealjs:
+    multiplex:
+      url: 'http://manual-for-rstudio.tennis24.ee:1948/'
+      secret: "16759825730498538629"
+      socketId: "f3edf0ff0d09982e"
+      
+    ```
+
+2. Opening the main presentation HyperText Markup Language file for the audience.
+
+3. Opening the file with the ending "-speaker.html" for remote controlling.
+
+## Metadata: author
+
+```
+    author:
+      - name: <the name of the first author>
+      - name: '<the name of the second author>'
+    <further names if necessary>
+
+```
+
+## Metadata: title
+
+```
+title: |
+    | <first line of the title>
+    | <second line of the title>
+
+```
+
+## Metadata: output file
+
+```
+    output-file: ../../_book/<the-name-of-the-output-file>.html
+
+```
+
+## Metadata: format
+
+```
+    format:
+      revealjs:
+        incremental: true
+        self-contained: true
+
+```
+
+`incremental: true` displays list items one by one [@quarto]
+
+`self-contained: false` results with missing files or undated content
+
+## Table
+
+```
+| Product | Price |
+|---------|-----:|
+| SET: NaClO2 Mouth Rinse and HCl Hair Rinse      | 25.00   |
+| DMSO (DIMETHYLSULFOXIDE)     | 24.00  |
+
+: The reagents for making CDS with their prices were bought on 2021/05/04.
+
+```
+
+| Product | Price |
+|---------|-----:|
+| SET: NaClO2 Mouth Rinse and HCl Hair Rinse      | 25.00   |
+| DMSO (DIMETHYLSULFOXIDE)     | 24.00  |
+
+: The reagents for making CDS with their prices were bought on 2021/05/04.
+
+## Figures
+
+With a caption:
+
+```
+![Pillikeel ja lainepikkus.](vibstr1.gif)
+
+```
+
+![Pillikeel ja lainepikkus.](vibstr1.gif)
+
+Without a caption:
+
+```
+![](vibstr1.gif)
+
+```
+
+![](vibstr1.gif)
+
+## Managing external references
+
+A separate BIB-file in the subfolder of the presentation with records like this:
+
+```
+@misc{silent,
+  title = {Silent Teacher},
+  url = {https://silentteacher.toxicode.fr/},
+  urldate = {2022-09-29},
+  organization = {silentteacher.toxicode.fr}
+}
+
+```
+
+In the metadata:
+
+```
+    bibliography: <the-name-of-the-presentation>.bib
+
+```
+
+A reference:
+
+```
+@quarto
+
+```
+
+@quarto
+
+```
+[@quarto]
+
+```
+
+[@quarto]
+
+```
+[@quarto(p. 41)]
+
+```
+
+[@quarto(p. 41)]
+
+## List of references at the end
+
+````
+[<The name of the main site>](/)
+
+## External references
+
+```{=tex}
+\hyphenpenalty=10000
+\fontspec{Symbola}
+
+```
+
+````
+
+## List
+
+```
+-   no instructions:
+
+    - no formulas,
+  
+    - no theorems,
+
+-   no explanations
+
+```
+
+-   no instructions:
+
+    - no formulas,
+  
+    - no theorems,
+
+-   no explanations
+
+## Quantities
+
+- Comma without braces causes a space is not inside braces a space would be added[@a2022_l, lk 146; @a2019_how] (@quantities-incorrect).
+
+    (@quantities-incorrect) An example of incorrect punctuation:
+    
+      :::: {layout="[ 60, 40 ]"}
+      
+      ::: {#quantities-1}
+  
+      ```
+      $$30,0^{\circ} \ne 30^{\circ}$$
+      
+      ```
+      
+      :::
+
+      ::: {#quantities-2}
+      
+      $$30,0^{\circ} \ne 30^{\circ}$$
+      
+      :::
+      
+      ::::
+
+- Comma with braces causes no space (@quantities-correct).
+
+    (@quantities-correct) An example of correct punctuation:
+
+      :::: {layout="[ 60, 40 ]"}
+      
+      ::: {#quantities-3}
+  
+      ```
+      $$30{,}0^{\circ} \ne 30^{\circ}$$
+      
+      ```
+      :::
+
+      ::: {#quantities-4}
+      
+      $$30{,}0^{\circ} \ne 30^{\circ}$$
+      :::
+      
+      ::::
+
+## Columns
+
+Column layout (@columns)[@quarto-block-layout].
+
+(@columns) An example of column layout:
+
+:::: {layout="[50, 50]"}
+
+::: {#columns-1}
+
+```
+:::: {layout="[ 60, 40 ]"}
+
+::: {#columns-3}
+first column
+
+:::
+
+::: {#columns-4}
+second column
+
+:::
+
+::::
+
+```
+
+:::
+
+::: {#columns-2}
+:::: {layout="[ 60, 40 ]"}
+
+::: {#columns-3}
+first column
+
+:::
+
+::: {#columns-4}
+second column
+
+:::
+
+::::
+
+:::
+
+::::
+
+## Translations[@quarto]
+
+- for built-in strings
+
+- file *<2-letter language code>.yml*
+
+- as metadata: `language: <file name>`
+
+## Non-breaking hyphen off
+
+Non-breaking hyphen (@non-breaking-hyphen-false)[@insert].
+
+(@non-breaking-hyphen-false) An example of a breaking hyphen.
+
+:::: {layout="[50, 50]"}
+
+::: {#columns-1}
+
+    ``{r label="fig-f-orbitals-example-hyphen-off", eval=FALSE, fig.cap="Nende olemasolu on oluline d-ploki elementide omaduste mõistmiseks. Tumedam värv tähistab positiivset[@atkins_2010_chemical(lk 30)]."}
+    include_external_graphics("f-orbitaalid.svg")
+
+    ``
+
+:::
+
+::: {#columns-2}
+
+```{r label="fig-f-orbitals-hyphen-off", echo=FALSE, fig.cap="Nende olemasolu on oluline d-ploki elementide omaduste mõistmiseks. Tumedam värv tähistab positiivset[@atkins_2010_chemical(lk 30)]."}
+include_external_graphics("f-orbitaalid.svg")
+
+```
+
+:::
+
+::::
+
+## Non-breaking hyphen on
+
+Non-breaking hyphen (@non-breaking-hyphen-true)[@insert].
+
+(@non-breaking-hyphen-true) An example of a breaking hyphen.
+
+:::: {layout="[50, 50]"}
+
+::: {#columns-1}
+
+    ``{r label="fig-f-orbitals-example-hyphen-on", eval=FALSE, fig.cap="Nende olemasolu on oluline d\u2011ploki elementide omaduste mõistmiseks. Tumedam värv tähistab positiivset[@atkins_2010_chemical(lk 30)]."}
+    include_external_graphics("f-orbitaalid.svg")
+
+    ``
+
+:::
+
+::: {#columns-2}
+
+```{r label="fig-f-orbitals-hyphen-on", echo=FALSE, fig.cap="Nende olemasolu on oluline d\u2011ploki elementide omaduste mõistmiseks. Tumedam värv tähistab positiivset[@atkins_2010_chemical(lk 30)]."}
+include_external_graphics("f-orbitaalid.svg")
+
+```
+
+:::
+
+::::
+
+## Equation
+
+Equation (@equation)[@quarto-equations].
+
+(@equation) An example of an equation.
+
+:::: {layout="[50, 50]"}
+
+::: {#columns-1}
+
+    Keha kiirendus on võrdeline kehale mõjuva jõuga ja pöördvõrdeline keha massiga[@ekoolikottee] (@eq-newton-ii).
+    
+    $$
+    \vec{\bf{a}} = \frac{\vec{\bf{F}}}{m}
+    $${#eq-newton-ii}
+
+:::
+
+::: {#columns-2}
+
+
+Keha kiirendus on võrdeline kehale mõjuva jõuga ja pöördvõrdeline keha massiga[@ekoolikottee] (@eq-newton-ii).
+
+$$
+\vec{\bf{a}} = \frac{\vec{\bf{F}}}{m}
+$${#eq-newton-ii}
+
+:::
+
+::::
+
+## External references
+
+```{=tex}
+\hyphenpenalty=10000
+\fontspec{Symbola}
+
+```
+
+[Manual for RStudio Server](/)

@@ -1,0 +1,147 @@
+\usepackage{cancel}
+\usepackage{coffee4}
+\usepackage[version=4]{mhchem}
+
+\usepackage{fvextra} % needed for code wrapping
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+\setCJKmonofont{Noto Sans Mono CJK SC}
+
+\usepackage{listings}
+\lstloadlanguages{TeX}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{mystyle}{
+  backgroundcolor=\color{backcolour},   
+  commentstyle=\color{codegreen},
+  keywordstyle=\color{magenta},
+  numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\ttfamily\footnotesize,
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=left,                    
+  numbersep=5pt,                  
+  showspaces=true,                
+  showstringspaces=true,
+  showtabs=true,                  
+  tabsize=2
+}
+\lstset{style=mystyle}
+\lstnewenvironment{TeXlstlisting}[2]{
+	\lstset{
+		caption=#1,
+		label=#2,
+		language=[LaTeX]TeX
+	}
+}{}
+
+% Only displaying the list if there's an item available for that
+\usepackage{xassoccnt}
+\NewTotalDocumentCounter{totalfigures}
+\NewTotalDocumentCounter{totaltables}
+\NewTotalDocumentCounter{totallistings}
+\DeclareAssociatedCounters{lstlisting}{totallistings}
+\DeclareAssociatedCounters{figure}{totalfigures}
+\DeclareAssociatedCounters{table}{totaltables}
+\makeatletter
+\renewcommand{\TotalValue}[1]{%
+  \value{xassoccnt@total@#1}%
+}
+\let\@@latex@@listoffigures\listoffigures
+\let\@@latex@@listoftables\listoftables
+\let\@@latex@@lstlistoflistings\lstlistoflistings
+\renewcommand{\listoffigures}{%
+  \ifnum\TotalValue{totalfigures} > 0 
+  \@@latex@@listoffigures%
+  \fi
+}
+\renewcommand{\listoftables}{%
+  \ifnum\TotalValue{totaltables} > 0 
+  \@@latex@@listoftables%
+  \fi
+}
+\renewcommand{\lstlistoflistings}{%
+  \ifnum\TotalValue{totallistings} > 0 
+  \@@latex@@lstlistoflistings%
+  \fi
+}
+\makeatother
+
+\usepackage{elements}
+\usepackage{modiagram}
+\usepackage{chemfig}
+\usepackage{fdsymbol} % for nequal
+\usepackage{circuitikz}
+
+\pretolerance 16384
+
+\usepackage{gensymb} % \celsius
+
+\usepackage{siunitx}
+\sisetup{
+  input-decimal-markers = {.,},
+  output-decimal-marker = {.},
+  separate-uncertainty-units = repeat
+}
+% For "retain-explicit-decimal-marker"
+\ExplSyntaxOn
+\keys_define:nn { siunitx }
+  { retain-explicit-decimal-marker .bool_set:N = \l__siunitx_number_explicit_decimal_bool }
+\cs_gset_protected:Npn \__siunitx_number_parse_loop_main_end:NN #1#2
+  {
+    \tl_if_empty:NT \l__siunitx_number_partial_tl
+      {
+        \bool_if:NTF #2
+          { \tl_set:Nn \l__siunitx_number_partial_tl { 0 } }
+          {
+            \bool_if:NT \l__siunitx_number_explicit_decimal_bool
+              { \tl_set:Nn \l__siunitx_number_partial_tl { \empty } }
+          }
+      }
+    \tl_put_right:Nx #1
+      {
+        { \exp_not:V \l__siunitx_number_partial_tl }
+        \bool_if:NT #2 { { } }
+        { }
+      }
+  }
+\ExplSyntaxOff
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{18pt}{\LARGE}
+\titleformat{\section}
+{\normalfont\fontsize{16}{18}\bfseries}{\thesection}{1em}{}
+
+\usepackage{pdflscape}
+
+\setlength{\columnsep}{32pt}
+
+\counterwithout{figure}{chapter}
+
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+\newcommand{\multicolsbegin}{\begin{multicols}{2}}
+\newcommand{\multicolsend}{\end{multicols}}
+\usepackage{multicolrule}
+
+% for fill-in-the-gaps-tests
+\newlength{\blankwidth}
+\newcommand{\blank}[1]{%
+	\ifmmode\settowidth{\blankwidth}{\ensuremath{{#1}{#1}{#1}}}%
+	\else\settowidth{\blankwidth}{{#1}{#1}{#1}}%
+	\fi
+	\makebox[\blankwidth]{\dotfill}}
+
+\usepackage{fontawesome5} % for hand pointers
+\usepackage{wasysym} % for form elements
+
+\usepackage{ragged2e}
+\RaggedRight
+
+\raggedbottom % for hindering to spread paragraphs over the page (@kottwitz_2011_latex(p. 95))
