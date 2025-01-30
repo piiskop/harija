@@ -18,7 +18,7 @@ Emotsionaalse arengu puhul pööran tähelepanu õppijate heaolu ja motivatsioon
 
 Sotsiaalset arengut edendan, pakkudes õppijatele võimalusi teha koostööd ja osaleda grupitöös, kus nad õpivad suhtlema, teisi kuulama ja vastastikku arvestama. Püüan luua klassis sõbraliku ja toetava õhkkonna, kus väärtustatakse mitmekesisust ja austatakse erinevaid vaatenurki. (siia ühisarutelude pilte) Audenteses International Baccalaureate'i Diploma Programme's arvutiteaduse õpetajana käsitlesime kord moraali ja eetika temaatikat ning saime tunda eri õpilaste erinevat moraali (trammi ülesanne).
 
-Arvestades kultuurilisi eripärasid, toon õppetöösse erinevaid perspektiive, mis võimaldavad õpilastel mõista ja väärtustada mitmekesisust. Samuti püüan luua individuaalset lähenemist, mis arvestab õpilaste kultuurilist tausta, keelelist mitmekesisust ja maailmapilti. Olen õpetanud kahes koolis, milles enamus minu õpilasi eesti keelt selles õppimiseks piisavalt ei osanud. Narva Täiskasvanute Kooli võtsin kaasa Edu Valemis õpitu, et eesti keelt peale suruda ei tohi, vaid õppetegevus sujub oluliselt paremini, kui on võimalik suhelda õpilasega tema emakeeles. Kohila Gümnaasiumis oli mul vahetusõpilane Saksamaast ning temaga eraldi suheldes kasutasin saksa keelt, ühisaruteludes inglise keelt, et ka eesti õpilased mõistaksid.
+Arvestades kultuurilisi eripärasid, toon õppetöösse erinevaid perspektiive, mis võimaldavad õpilastel mõista ja väärtustada mitmekesisust. Samuti püüan luua individuaalset lähenemist, mis arvestab õpilaste kultuurilist tausta, keelelist mitmekesisust ja maailmapilti. Olen õpetanud kahes koolis, milles enamus minu õpilasi eesti keelt selles õppimiseks piisavalt ei osanud. Narva Täiskasvanute Kooli võtsin kaasa Edu Valemis (EV) õpitu, et eesti keelt peale suruda ei tohi, vaid õppetegevus sujub oluliselt paremini, kui on võimalik suhelda õpilasega tema emakeeles. Kohila Gümnaasiumis oli mul vahetusõpilane Saksamaast ning temaga eraldi suheldes kasutasin saksa keelt, ühisaruteludes inglise keelt, et ka eesti õpilased mõistaksid.
 
 Oma tegevustes rakendan kaasaegseid teaduslikke teadmisi laste ja noorte arengu kohta ning hoian end pidevalt kursis uute uurimuste ja parimate praktikatega. Selline teadlikkus aitab mul kujuneda empaatilisemaks ja tõhusamaks õpetajaks toetamaks igakülgselt õppijate arengut. Lisaks teadusartiklitele loen ja kuulan huviga arutelusid pedagoogikast. Nii mängis mul kunagi taustaks Roosa Raadio[@roosa]. Huviga jälgisin sarja *Maailma kõige targem rahvas*[@err_2025].
 
@@ -44,7 +44,7 @@ Grupiprotsesside teadlik juhtimine aitab kaasa klassi positiivse ja tulemusliku 
 
 Õppija toetamiseks rakendan tõhusaid praktikaid:
 - Kasutan **formatiivset hindamist**, mis annab õpilastele regulaarset tagasisidet nende edusammude kohta ja võimaldab parandada õppeprotsessi.
-- Kombineerin **aktiivõppe meetodeid**, näiteks probleemõpet ja projektipõhist õpet, mis arendavad õpilaste analüüsivõimet ja meeskonnatööoskusi. Lisaks ELU-projektile viisin Tallinna Kunstigümnaasiumi projektipäevade raames läbi praktilisi projekte[@a2025_staatilise; @a2025_staatilise_ii]. Gaia Koolis viisin arvutiteaduse õppes läbi projekti küberkiusamise plakati tegemiseks[@a2025_kber; @a2025_kber_ovtsik]. Arvutiteaduse klubides olen lasknud hulganisti praktilisi ja loovaid tegevusi teha õpilastel, samuti informaatikaõppes üldiselt.
+- Kombineerin **aktiivõppe meetodeid**, näiteks probleemõpet ja projektipõhist õpet, mis arendavad õpilaste analüüsivõimet ja meeskonnatööoskusi. Lisaks ELU-projektile viisin Tallinna Kunstigümnaasiumi projektipäevade raames läbi praktilisi projekte[@a2025_staatilise; @a2025_staatilise_ii]. Gaia Koolis (GK) viisin arvutiteaduse õppes läbi projekti küberkiusamise plakati tegemiseks[@a2025_kber; @a2025_kber_ovtsik]. Arvutiteaduse klubides olen lasknud hulganisti praktilisi ja loovaid tegevusi teha õpilastel, samuti informaatikaõppes üldiselt.
 - Toetan **individuaalseid õpivajadusi**, jälgides õppijate edenemist ja pakkudes vajadusel täiendavat juhendamist või eritoetust. Osa õpilasi õpivad ainult siis, kui nendega üks-ühele tegelen.
 
 Refleksioon on oluline osa õppimisprotsessist nii õpilastele kui ka õpetajale. Kasutan refleksioonimudeleid:
@@ -332,6 +332,302 @@ Kolmanda kooliastme matemaatika õppimiseks olen koostanud astendamise[@a2025_as
 
 Õpetajana on minu eesmärk märgata õppijate individuaalseid vajadusi ja pakkuda neile sobivat tuge, et igaüks saaks oma potentsiaali maksimaalselt rakendada. Olgu tegemist õpiraskustega või väga võimekate õpilastega – diferentseeritud lähenemine ja paindlikud õppemeetodid aitavad luua õppimiskeskkonna, kus iga õppija saab kogeda eduelamust ja arengut.
 
+Tegevusnäitaja:
+
+> kaasab ja teeb koostööd tugispetsialistide ning kolleegidega abi- ja toetusvajaduse väljaselgitamisel (vajadusel õppija individuaalse arengu kaardi täitmine, arvestades tema eripära arengu dünaamikat), õppe- ja arendustegevuse planeerimisel ning rakendamisel (sobiva õppemetoodika ja -vormi leidmine, õppe jõukohastamine, õppematerjalide kohandamine, abivahendite rakendamine, individuaalse õppe korralduse kava planeerimine, individuaalse õppekava ja/või käitumise tugikava koostamine).  
+
+Õpetajana mõistan, et iga õppija vajab individuaalset lähenemist, et saavutada oma täielik arengupotentsiaal. Seetõttu pean oluliseks teha koostööd tugispetsialistide ja kolleegidega, et varakult märgata õpilaste abi- ja toetusvajadusi ning leida neile sobivaimad õppimis- ja arendustegevuse lahendused.
+
+Õppija individuaalse arengu toetamiseks kogun ja analüüsin infot tema õppetöö edenemise ja käitumise kohta. Selleks  
+- **jälgin õppija edasijõudmist** õppetöös, kasutades diagnostilist, formatiivset ja summeerivat hindamist,  
+- **tuginen enesehindamisele ja õpilaste tagasisidele**, et mõista, millised meetodid neile kõige paremini sobivad,  
+- **teen koostööd klassijuhataja ja teiste aineõpetajatega**, et saada terviklik ülevaade õppija arengust ja võimalikest takistustest,  
+- **kaasan tugispetsialiste** (eripedagoog, logopeed, psühholoog, sotsiaalpedagoog) ja lapsevanemaid, et koguda täiendavat teavet ja arutada edasisi tegevusi.  
+
+NTK's suhtlen psühholoogiga iganädalaselt ning see on kasulik nii õpilaste analüüsi ja soovituse kui temale eesti keele harjutamise seisukohalt.
+
+Kui õppijal on spetsiifilised õpiraskused või erivajadused, **täidan vajadusel individuaalse arengu kaardi**, arvestades tema arengudünaamikat ja pikaajalist arenguperspektiivi. Tavaliselt küsib tugispetsialist või klassijuhataja õpilase kohta hinnanguid ja kui mul on midagi vastata, siis vastan.
+
+Individuaalsete vajaduste arvestamiseks töötan välja õppemetoodikaid ja kohandan õppetööd:  
+- **õppe jõukohastamine**:  
+  - kohandan õpisisu vastavalt õppija võimetele ja vajadustele,  
+  - annan keerukamate ülesannete lahendamiseks lisatuge (nt lisamaterjalid, juhendamine väiksemates rühmades),  
+  - kasutan diferentseeritud õpet, et kõik õppijad saaksid õppetööst maksimaalselt kasu;  
+
+- **sobivate õppemetoodikate ja -vormide rakendamine**:  
+  - kasutan multisensoorseid õppemeetodeid (nt visuaalsed, auditiivsed ja kinesteetilised meetodid), et toetada erinevat tüüpi õppijaid,  
+  - toetan õpilasi, kellel on raskusi eneseregulatsiooniga, pakkudes neile selget struktuuri ja konkreetseid juhiseid,  
+  - loon paindliku õpikeskkonna, kus õppijal on võimalik töötada omas tempos ja kasutada sobivaid õpistrateegiaid;  
+
+- **õppematerjalide kohandamine ja abivahendite kasutamine**:  
+  - muudan keerukamad tekstid lihtsamaks või lisan visuaalseid vihjeid, et õppija saaks paremini aru,  
+  - kasutan tehnoloogilisi abivahendeid (nt lugemis- ja kirjutamistarkvara, heli- ja videotugi, digitaalsed harjutusplatvormid), et toetada õppimist,  
+  - pakun alternatiivseid hindamisvorme (suuline vastamine, projektitöö, praktilised ülesanded) õppijatele, kellele traditsiooniline testivorm ei sobi.  
+
+KG's oli mul üks düslektikust õpilane, kellele soovitati minimeerida ülesande tekst, kasutada võimalikult palju visuaale ja teha tekst suuremaks kui teisele õpilastele, mida võtsin arvesse.
+
+NTK's on minu juhendamisel tekkinud väiksemad õpirühmad, kuna kasutan individuaalset õpijärgimist. TVW's on nagunii minu juhendada väikesed rühmad õpilasi.
+
+Eri tüüpi õppijate toetamiseks olen loonud nii loetavaid kui audiovisuaalseid juhiseid.
+
+Õpilaste jaoks, kes pole mõistnud osamäära, olen võtnud abiks ristkülikutega jooniste tegemise, et näidata osa ja tervikut ning muutust. Positiivsete ja negatiivsete arvude liitmise puhul esitan analoogi veekoguga, milles veetase on 0, negatiivsed arvud veepinna all ja positiivsed arvud veepinna kohal. Algoritmi või pseudokoodi järgimiseks kasutasin õpilastega kaarobikive. Keemiaõppes olen läbi viinud eksperimente, et õpilased ei jääks ainult abstraktse ettekujutusega. Füüsikaõppe ilmestamiseks olen välja trükkinud kolmemõõtmelisi abivahendeid.
+
+Kui õpilane soovib saada testitud muul moel kui sellel, mille olen ette näinud, võtan seda võimalusel arvesse. Nt kui õpilane ei soovi tahvlile lahendada, vaid paberile, siis saab ta seda teha.
+
+Kui õppijal on suurem eritoe vajadus, töötan koos tugimeeskonnaga välja järgmised toetavad meetmed:  
+- **individuaalne õppekava (IÕK)**: juhul kui õppija vajab olulisi muudatusi õppekavas või individuaalset lähenemist aine omandamisel,  
+- **individuaalne õppekorralduse kava**: aitab struktureerida õppija tööprotsessi ja toetab tema iseseisvat õppimist,  
+- **käitumise tugikava**: koostatakse õppijale, kellel on raskusi keskendumise, enesekontrolli või sotsiaalsete oskustega. See sisaldab konkreetseid juhiseid ja meetmeid, mis aitavad tal paremini toime tulla koolikeskkonnas.  
+
+Nende kavade koostamisel pean oluliseks  
+- **koostööd tugispetsialistide, lapsevanemate ja kolleegidega**, et tagada õppija mitmekülgne toetamine,  
+- **jooksvalt tagasiside kogumist ja eesmärkide kohandamist**, et tugimeetmed oleksid tõhusad ja vastaksid õppija arengule.  
+
+NTK's on õpilasi, kes ei saa või soovi koolimajas õppida, ja on palunud iseseisvat õpet, ning neid olen aidanud korraldades neile lugemist ja harjutamist kodustes tingimustes. Samuti olen koostanud teste õpilastele, kes keelduvad kontaktsessioonis testimises osalemast. Vahel on mind selleks ka suunatud, nt NTK's õppejuhi poolt
+
+Õppijate toetamine on meeskonnatöö, mistõttu teen tihedat koostööd teiste õpetajate ja kooli tugispetsialistidega:  
+- **jagame häid praktikaid ja meetodeid**, et tagada õppijate jaoks parimad võimalikud lahendused,  
+- **osalen koolitustel ja seminaridel**, et täiendada oma teadmisi kaasava hariduse ja erivajadustega õppijate toetamise kohta,  
+- **reflekteerin ja arendan oma õpetamisviise**, et pakkuda õppijatele veelgi paremat tuge.  
+
+GK's sõlmisime arenguvestluses kokkuleppe, et väisan õppejuhi õppesessioone saades niimoodi kogeda, kuidas tema õpetab ja kuidas õpilased tema juhendamise all käituvad[@a2024_arenguvestlus]. Ühtlasi olen temaga arutanud, miks ja kuidas ta teatud vahendeid kasutab, ning tagasisidestanud. Sama koolis on mul mentor. Ka PLP's ja KG's oli mul mentor. NTK's olen nõustanud väiksema õpetamiskogemusega eesti keele õpetajat.
+
+Individuaalsed õpivajadused ei ole takistuseks, vaid võimaluseks kujundada **paindlik ja õppijasõbralik õppekeskkond**, kus iga õpilane saab areneda vastavalt oma võimetele.
+
+Tegevusnäitaja:
+> koostöös lapsevanematega toetab ja suunab õppijat.  
+
+Õpetajana mõistan, et õppija arengu toetamine on meeskonnatöö, kus oluline roll on nii koolil kui ka kodul. Lapsevanemad on oma lapse õppimisprotsessi ja heaolu parimad tundjad ning koostöös nendega saan paremini toetada õppija individuaalseid vajadusi, õpimotivatsiooni ning edasijõudmist. Minu eesmärk on luua avatud, toetav ja konstruktiivne koostöö lapsevanematega, et aidata õppijal saavutada oma parim potentsiaal.
+
+Efektiivne koostöö lapsevanematega põhineb usaldusel, avatusel ja regulaarsel suhtlusel. Selleks:  
+- **Jagame vastutust**: Lapsevanematel ja õpetajatel on ühine eesmärk: õppija heaolu ja edu. Toetame ja julgustame õppijat koos.  
+- **Hoidun hinnangutest ja keskendun lahendustele**: Otsime ühiselt viise, kuidas toetada lapse õpiprotsessi, mitte ei keskendu ainult probleemidele.  
+- **Pean vanemaid partneriteks**: Kuulan nende seisukohti ja arvestan nende tähelepanekuid lapse vajaduste kohta.  
+
+Lapsevanematega suhtlemiseks kasutan mitmeid kanaleid, et tagada järjepidev infovahetus ja õigeaegne tugi:  
+- **e-kirjad ja e-koolikeskkond**: teavitan õppija edusammudest ja annan vajadusel tagasisidet õpiprotsessi kohta,  
+- **klassi- ja individuaalsed koosolekud**: kaasame lapsevanemaid kooliellu ja arutame õppija arenguvõimalusi,  
+- **kiire tagasiside probleemide ilmnemisel**: kui ilmnevad õpiraskused, käitumisprobleemid või motivatsioonilangus, teavitan lapsevanemat varakult ja otsime ühiselt lahendusi.  
+
+Koostöö lapsevanematega on eriti oluline siis, kui õppijal on  
+- **õpiraskused või erivajadused**:  
+  - jagame lapsevanemaga tähelepanekuid ja vajadusel kaasame tugispetsialiste (eripedagoog, psühholoog, logopeed),  
+  - leiame lahendusi õppija toetamiseks nii koolis kui ka kodus (nt õppematerjalide kohandamine, lisaharjutused),  
+  - vajadusel koostame **individuaalse õppekava (IÕK) või käitumise tugikava** ja kaasame lapsevanema selle rakendamisse;  
+
+- **madal õpimotivatsioon**:  
+  - selgitame välja motivatsioonilanguse põhjused ja arutame koos lapsevanematega, kuidas õpilast paremini innustada,  
+  - pakume võimalusi õpitava sidumiseks lapse huvide ja tugevustega,  
+  - julgustame vanemaid looma kodus toetavat õpikeskkonda ja kasutama positiivset tagasisidet lapse edusammude kohta;  
+
+- **käitumise ja sotsiaalsete oskuste arendamise vajadus**:  
+  - kui laps vajab tuge enesedistsipliinis, keskendumises või suhtlemisoskustes, lepime lapsevanematega kokku ühtsed toetavad meetmed nii kodus kui koolis,  
+  - jagame lapsevanemaga soovitusi, kuidas koduses keskkonnas arendada lapse enesejuhtimise ja probleemilahenduse oskusi.  
+
+Lapsevanema kaasamine ei tähenda ainult lapse probleemide lahendamist, vaid ka  
+- **positiivse tagasiside andmist**: jagan lapsevanematega ka eduelamusi, mis motiveerivad õppijat ja tugevdavad eneseusku,  
+- **tunnustust ja tänu koostöö eest**: märkan ja väärtustan lapsevanemate panust lapse haridusse,  
+- **hariduslike ressursside jagamist**: jagan vanematele soovitusi ja materjale, mis aitavad neil oma last õppimises toetada.  
+
+Kui PLP's ilmnes probleem ühe õpilasega, organiseerisime koosoleku, milles osalesime nii õpilane, tema isa, mina kui direktor ja õppejuht, ning arutasime, kuidas õpilast aidata. TVW's korraldasime minu juhendatavate õpilaste aitamise jaoks koosoleku, milles osalesin koos mõlema klassijuhataja, tugispetsialisti ja lapsevanematega. Leppisime kokku suvise õpilaagri ja viisime selle läbi. EV's kaebasid minu tegevuse peale lapsevanemad õppejuhile. Kuigi soovisin nendega otse asja arutada ja neile selle soovi ka avaldasin, ei soostunud minuga mitte ükski lapsevanem vestlema.
+
+Lapsevanematega koostöö aitab luua tugeva tugisüsteemi, kus õppijat toetatakse nii koolis kui kodus. Avatud ja konstruktiivne suhtlus võimaldab varakult märgata ja lahendada võimalikke takistusi ning pakkuda igale õppijale parimaid võimalusi arenguks. Minu eesmärk on tagada, et lapsevanemad tunneksid end kaasatuna ja toetatuna ning et õppija saaks kasu ühisest pingutusest tema haridustee edendamisel.
+
+### Koostöise õppija kujundamine
+
+Tegevusnäitaja:
+
+> toetab sotsiaalsete ja koostööoskuste arengut.  
+
+Õpetajana pean oluliseks mitte ainult ainealaste teadmiste edasiandmist, vaid ka õppijate **sotsiaalsete ja koostööoskuste** arendamist, mis on vajalikud eduka õppetöö ning tulevase elu ja karjääri jaoks. Koostööpõhine õppimine toetab vastastikust õppimist, suhtlemisoskust, vastutuse jagamist ja erinevate vaatenurkade mõistmist. Seetõttu loon oma tundides keskkonna, kus õppijad saavad harjutada koostööd, arendada empaatiat ning õppida efektiivselt suhtlema.
+
+Koostööoskused ja sotsiaalne suhtlemine on edukaks õppimiseks ja töötamiseks hädavajalikud. Toetan nende arengut, et õppijad
+- **oskaksid töötada meeskonnas**, kus nad jagavad vastutust ja lahendavad probleeme ühiselt,
+- **kuulaksid aktiivselt teisi ja väljendaksid oma mõtteid selgelt**, austades erinevaid arvamusi,
+- **suudaksid lahendada konflikte ja pidada konstruktiivset dialoogi**, mis aitab ennetada arusaamatusi ja tugevdab grupidünaamikat,
+- **arendaksid empaatiat ja sotsiaalset teadlikkust**, mõistes erinevaid vaatenurki ja õppides teiste kogemustest.
+
+Kasutan oma tundides mitmekesiseid **aktiivõppemeetodeid**, mis soodustavad sotsiaalsete ja koostööoskuste arengut:
+
+- **grupitööd ja paaristöö**:  
+  - annan ülesandeid, kus õppijad peavad ühiselt lahendusi leidma, ideid analüüsima ja ülesandeid omavahel jagama,
+  - jagan rollid meeskonnas, et iga õppija saaks panustada ja arendada oma tugevusi (nt juht, esitleja, märkmetegija, kriitik),
+  - aitan luua reeglid ja ootused, et koostöö oleks tõhus ja kõigi panus väärtustatud;
+
+- **probleem- ja projektipõhine õpe (PBL)**:  
+  - õpilased töötavad päriseluliste probleemide kallal, analüüsivad infot, loovad lahendusi ja esitavad neid grupis,
+  - toetan arutelu ja kriitilist mõtlemist, mis õpetab õppijaid efektiivselt koostööd tegema ja otsuseid langetama;
+
+- **arutelud ja rollimängud**:  
+  - kasutan **debattide ja argumenteerimise harjutusi**, mis arendavad suhtlemisoskust ja kriitilist mõtlemist,
+  - **rollimängud ja simulatsioonid** aitavad õppijatel mõista erinevaid vaatenurki ja arendada empaatiat;
+
+- **koostööpõhine refleksioon ja tagasiside**:  
+  - julgustan õppijaid analüüsima oma meeskonnatööd ja andma üksteisele konstruktiivset tagasisidet,
+  - kasutan **"üks tugevus, üks arendussoovitus"**-meetodit, et suunata õppijaid märkama nii edusamme kui ka parendusvõimalusi.
+
+Et õppijad saaksid ennast koostöös mugavalt tunda ja arendada oma sotsiaalseid oskusi, loon klassiruumis **usaldusväärse ja toetava õhkkonna**:
+- **seame koos klassireeglid**, mis väärtustavad koostööd, üksteise austamist ja kaasamist,
+- **õpetan aktiivse kuulamise oskusi**, mis aitavad vältida arusaamatusi ja tugevdavad rühmatööd,
+- **julgustan positiivset suhtlust ja koostööd**, kus õppijad tunnevad, et nende panus on oluline,
+- **reageerin konfliktidele lahendusi otsivalt**, aidates õppijatel harjutada diplomaatilist suhtlemist ja kompromisside leidmist.
+
+Mõistan, et kõik õppijad ei ole koostöös võrdselt enesekindlad: mõni võib eelistada individuaalset tööd, samas kui teisel võib olla raskusi teistega suhtlemisel. Seetõttu
+- **toetan vähemaktiivseid õppijaid** väiksemate meeskondade ja selgete juhistega, et nad tunneksid end koostöös mugavalt,
+- **tõstan esile õppijate tugevusi**, aidates neil leida rollid, mis vastavad nende oskustele ja huvidele,
+- **kasutan individuaalseid ja grupipõhiseid refleksioone**, et õppijad mõistaksid oma tugevusi ja arendamist vajavaid koostööoskusi.
+
+Koostöö- ja sotsiaalsed oskused ei ole ainult koolis vajalikud – need on eluks hädavajalikud. Toetan nende arengut, et õppijad  
+✔ **oskaksid töötada meeskonnas ja lahendada probleeme efektiivselt**,  
+✔ **saaksid hakkama erinevates sotsiaalsetes situatsioonides ja suudaksid suhelda mitmekesistes keskkondades**,  
+✔ **tunneksid vastutust oma rolli eest meeskonnas ning arendaksid oma enesejuhtimise ja suhtlemise oskusi**,  
+✔ **oskaksid mõista ja arvestada erinevate arvamuste ja taustadega, muutes nad empaatilisemateks ja koostöövalmimaks inimesteks**.  
+
+Õpetajana pean oma ülesandeks aidata õppijatel kujuneda mitte ainult teadmistepõhisteks, vaid ka **koostöövalmideks ja sotsiaalselt teadlikeks isiksusteks**. Toetades sotsiaalsete ja koostööoskuste arengut läbi **diferentseeritud õpetamise, aktiivõppemeetodite ja toetava klassikeskkonna loomise**, aitan kujundada õppijatest inimesed, kes suudavad tõhusalt töötada nii koolis kui ka tulevases elus meeskonnatööd ja suhtlemist nõudvates olukordades.
+
+Tegevusnäitaja:
+
+> töötab koostöös õppija(te)ga välja ühistel väärtustel põhinevad kokkulepped.  
+
+Õppimine on edukas siis, kui klassis valitseb **vastastikune austus, turvalisus ja koostöövalmidus**. Seetõttu pean oluliseks töötada koos õppijatega välja kokkulepped, mis põhinevad ühistel väärtustel ja loovad positiivse õpikeskkonna. Need kokkulepped aitavad tagada, et õppijad tunneksid end klassis kaasatuna, vastutustundlikuna ja toetatuna.
+
+Kui õppijad on ise kokkulepete loomisse kaasatud, tunnevad nad suuremat vastutust nende järgimise eest. Ühiselt kokku lepitud väärtused ja reeglid  
+✔ loovad klassis **positiivse ja toetava atmosfääri**,  
+✔ aitavad õppijatel **mõista oma rolli ja vastutust** õpikeskkonnas,  
+✔ edendavad **lugupidavat suhtlemist ja koostööd**,  
+✔ annavad õppijatele võimaluse **õppida demokraatlikke protsesse** ning harjutada arvamuste avaldamist ja kompromisside leidmist.  
+
+Kokkulepete koostamine toimub dialoogina õppijate ja õpetaja vahel, et tagada nende kaasatus ja aktiivne osalus. Lähtun järgmisest protsessist:  
+
+**1. arutelu väärtustest ja ootustest**:  
+- vestleme klassis selle üle, **milline peaks olema meie õpikeskkond**, et igaüks saaks õppida ja end turvaliselt tunda,  
+- arutame, **millised käitumisviisid toetavad ja millised takistavad õppimist**,  
+- uurime, millised väärtused on õppijate jaoks olulised – näiteks **lugupidamine, ausus, vastutustunne, koostöö, hoolivus**;  
+
+**2. ühiste kokkulepete sõnastamine**:  
+- õppijad osalevad aktiivselt reeglite ja kokkulepete kujundamises,  
+- formuleerime kokkulepped positiivses võtmes, näiteks:  
+  ❌ "Ära sega teisi!" → ✅ "Kuulame üksteist ja laseme teistel rääkida."  
+  ❌ "Ära ole hilineja!" → ✅ "Saabume tundi õigeaegselt, et saaksime keskenduda õppimisele.",  
+- tagame, et kokkulepped oleksid **realistlikud, selged ja kõigile arusaadavad**;  
+
+**3. ühiste kokkulepete kinnitamine ja rakendamine**:  
+- kirjutame kokkulepped nähtavale kohale, et need oleksid alati meelde tuletatavad,  
+- räägime, **miks kokkulepped on olulised** ja kuidas igaüks saab panustada nende järgimisse,  
+- jälgime ja kohandame kokkuleppeid vastavalt vajadusele – kui klass leiab, et midagi võiks muuta, arutame seda ühiselt.  
+
+Et kokkulepped oleksid tõhusad, aitan neid **igapäevases klassielus rakendada ja toetada**:  
+✔ **positiivne eeskuju**: olen ise klassis kokkulepitud väärtuste ja käitumisreeglite järgija,  
+✔ **tunnustan kokkulepetest kinnipidamist**: märkan ja julgustan õppijaid, kui nad näitavad üles vastutust ja koostöövalmidust,  
+✔ **aitan lahendada probleeme konstruktiivselt**: kui kokkuleppeid ei järgita, arutame koos, mida saaks parandada ja kuidas probleemidele lahendusi leida,  
+✔ **reflekteerime kokkulepete toimimist**: aeg-ajalt arutame klassis, kas kokkulepped toetavad meid ja kas neid on vaja kohandada.  
+
+Kui õppijad on ise kokkulepete loomises osalenud ja tunnevad, et nende arvamus on oluline, suurenevad  
+✔ **nende motivatsioon ja kaasatus õppimisse**,  
+✔ **austus kaasõpilaste ja õpetaja vastu**,  
+✔ **vastutustunne oma käitumise ja õpikeskkonna kujundamise eest**,  
+✔ **koostöövalmidus ja turvatunne klassis**.  
+
+Koostöös õppijatega välja töötatud kokkulepped loovad **turvalise ja toetava klassikeskkonna**, kus kõik saavad ennast väljendada, õppida ja areneda. Need kokkulepped **põhinevad vastastikusel austusel ja kaasamisel**, aidates õppijatel arendada nii **eneseregulatsiooni, sotsiaalseid oskusi kui ka vastutustunnet**. Minu eesmärk on, et kokkulepped ei oleks lihtsalt formaalsus, vaid **igapäevase klassielu loomulik osa**, mis toetab õppimist ja positiivset koostööd.
+
+Tegevusnäitaja:
+
+> suunab õppijaid üksteisega arvestama ja üksteist toetama, võttes arvesse rühmaprotsesse ja -dünaamikat.  
+
+Õpetajana usun, et **positiivne ja toetav klassikeskkond** on õppimise aluseks. Selleks, et õppijad saaksid edukalt areneda nii akadeemiliselt kui ka sotsiaalselt, suunan neid **üheskoos õppima, üksteisega arvestama ja toetama**, arvestades samal ajal rühmaprotsesse ja -dünaamikat. Minu eesmärk on aidata kujundada koostöist klassikultuuri, kus õppijad tunnevad end turvaliselt, väärtustatuna ja kuuluvustundega.  
+
+Igas klassis kujunevad **rühmadünaamika ja suhtemustrid**, mis mõjutavad õppimist ja klassi toimimist. Õpetajana  
+- **jälgin, kuidas õppijad omavahel suhtlevad ja koostööd teevad**, et märgata tugevaid ja nõrgemaid kohti grupiprotsessides,  
+- **tuvastan klassis liidrid, toetajad ja vähemaktiivsed õppijad**, et aidata igal õppijal leida oma roll koostöös,  
+- **ennetan ja lahendan võimalikke konflikte**, aidates õppijatel õppida konstruktiivset suhtlemist ja probleeme lahendada.  
+
+Koostöise ja hooliva klassikeskkonna loomiseks kasutan **teadlikke meetodeid ja tegevusi**, mis soodustavad empaatiat, koostööd ja üksteise toetamist:  
+
+✔ **koostööoskuste teadlik õpetamine**:  
+- õpetan aktiivse kuulamise, empaatia ja konfliktide lahendamise oskusi,  
+- harjutame klassis **konstruktiivset tagasiside andmist**, mis aitab õppijatel üksteist toetada ja motiveerida;  
+
+✔ **grupitööd ja vastastikune õppimine**:  
+- kasutan **rühmatöömeetodeid**, kus iga õppija panustab, ja jälgin, et kõik saaksid võrdselt kaasa lüüa,  
+- suunan õppijaid **teistele teadmisi selgitama** ja vastastikku toetama, mis aitab süvendada arusaamist ja tugevdab rühmasuhteid;  
+
+✔ **koostöö ja arvestamise põhimõtted**:  
+- seame klassis ühiselt kokkulepped, mis toetavad **austavat suhtlust ja teineteise aitamist**,  
+- toetan rühmatööde ajal **ülesannete õiglast jaotamist**, et keegi ei tunneks end alakoormatuna ega keegi jääks kõrvale;  
+
+✔ **positiivne tagasiside ja tunnustamine**:  
+- märkan ja toon esile õppijate **hoolivat ja toetavat käitumist**, et julgustada nende sotsiaalsete oskuste arengut,  
+- õpetan õppijaid märkama **kaaslaste tugevusi ja panust**, et suurendada klassis positiivset õhkkonda.  
+
+Et klassis oleks **tervislik ja toetav rühmakeskkond**, kasutan meetodeid, mis aitavad klassi dünaamikat tasakaalustada ja tugevdada:  
+
+✔ **vahelduvad rühmatööd**:  
+- kasutan **dünaamilist grupikoostist**, kus õppijad töötavad erinevates rühmades, et nad õpiksid kohanema ja tegema koostööd erinevate kaaslastega,  
+- annan rühmades **spetsiifilised rollid** (juht, märkmetegija, esitleja jne), et kõik saaksid vastutuse võtta ja oma tugevusi rakendada;  
+
+✔ **arutelud ja refleksioonid**:  
+- kasutan **grupitöös refleksiooni**, kus õppijad analüüsivad, mis rühmatöös hästi läks ja mida saaks paremini teha,  
+- suunan õppijaid **lahendama erimeelsusi läbi dialoogi**, et nad õpiksid konstruktiivselt suhtlema;  
+
+✔ **kaasavate meetodite kasutamine**:  
+- tagan, et **kõik õppijad saavad oma arvamust avaldada**, kasutades meetodeid nagu "räägiring" või kirjalikud refleksioonid,  
+- tõstan esile, et **igas grupis on väärtuslik igasugune panus**, olenemata õppija varasemast enesekindlusest või akadeemilisest tasemest.  
+
+Kui õppijad õpivad teineteist toetama ja koostööd tegema, arenevad neil  
+✔ **austus ja empaatia**: õppijad mõistavad paremini erinevaid vaatenurki ja õpivad kaaslastega arvestama,  
+✔ **meeskonnatöö ja suhtlemisoskus**: nad õpivad efektiivset koostööd ja vastastikust õppimist,  
+✔ **enesekindlus ja turvatunne**: kui klassikeskkond on toetav, julgevad õppijad rohkem panustada ja oma arvamust avaldada,  
+✔ **kriitiline ja lahenduskeskne mõtlemine**: õppijad õpivad erimeelsusi lahendama ja otsima ühiselt toimivaid lahendusi.  
+
+Õpetajana pean oluliseks **aktiivselt suunata õppijaid üksteisega arvestama ja üksteist toetama**, arvestades rühmaprotsesse ja -dünaamikat. Loon **kaasava ja koostööpõhise klassikeskkonna**, kus kõik õppijad tunnevad end väärtustatuna ning kus nad saavad arendada **meeskonnatööoskusi, empaatiat ja vastutustunnet**. Koostööpõhised õppemeetodid ja teadlikult juhitud rühmadünaamika aitavad kujundada õppijatest **sotsiaalselt teadlikud ja koostöövalmid inimesed**, kes oskavad oma oskusi kasutada nii koolis kui ka hilisemas elus.
+
+Tegevusnäitaja:
+
+> toetab ühtsustunnet rühmas ja haridusasutuses.  
+
+Õpetajana usun, et **kuuluvustunne ja ühtsus klassis ning koolis on olulised tegurid, mis toetavad õppija motivatsiooni, heaolu ja arengut**. Kui õppijad tunnevad end koolikeskkonnas väärtustatuna ja kaasatuna, suureneb nende huvi õppimise vastu ning kujuneb positiivne hoiak koostöö ja kogukonna vastu. Seetõttu panustan teadlikult ühtsustunde kujundamisse nii klassiruumis kui ka laiemalt koolikeskkonnas.
+
+Tugev klassi- ja koolikultuur aitab kaasa  
+✔ **turvalise ja toetava õhkkonna loomisele**, kus iga õppija tunneb end aktsepteerituna,  
+✔ **õppijate motivatsiooni ja kaasatuse suurenemisele**, sest ühiselt tegutsedes on õppimine nauditavam,  
+✔ **koostöö- ja sotsiaalsete oskuste arengule**, mis on vajalikud nii koolis kui ka hilisemas elus,  
+✔ **konfliktide ja erimeelsuste vähenemisele**, kuna tugev ühtsustunne soodustab vastastikust austust ja empaatiat.  
+
+Oma igapäevases õppetöös kasutan meetodeid ja tegevusi, mis soodustavad klassis tugevat ühtsustunnet:  
+
+✔ **koosloome ja klassikultuuri kujundamine**:  
+- loome klassiga **ühised väärtused ja kokkulepped**, mis toetavad lugupidavat ja koostööpõhist keskkonda,  
+- julgustan õppijaid võtma **vastutust klassi heaolu ja ühtsuse eest**, näiteks läbi grupiprojektide ja ühisürituste;  
+
+✔ **koostööpõhised tegevused**:  
+- kasutan **grupi- ja paaristöid**, mis aitavad õppijatel üksteist paremini tundma õppida ning koostööd arendada,  
+- õpilased saavad **teistele oma teadmisi selgitada**, mis tugevdab mitte ainult akadeemilist arengut, vaid ka klassi ühtsustunnet;  
+
+✔ **klassi ühtsuse toetamine igapäevases suhtluses**:  
+- loon **avatud ja toetava õhkkonna**, kus õppijad tunnevad, et nende arvamus on oluline ja neid kuulatakse,  
+- julgustan klassis **vastastikust tunnustamist ja toetavat tagasisidet**, mis aitab vähendada konkurentsi ja suurendada meeskonnatunnet,  
+- kasutan **arutelusid ja refleksioone**, et õppijad saaksid väljendada oma mõtteid ja tundeid klassi atmosfääri kohta.  
+
+Lisaks klassiruumis toimuvatele tegevustele panustan kooli üldisesse ühtsustunde loomisesse ja hoidmisse:  
+
+✔ **koolisündmuste ja ürituste toetamine**:  
+- julgustan õppijaid osalema kooli üritustel, näiteks **projektipäevadel, kultuuriüritustel, spordivõistlustel ja ühiskondlikel algatustel**,  
+- koostan õppijatega **koolisiseseid projekte või üritusi**, mis tugevdavad kuuluvustunnet ja suurendavad ühtekuuluvust;  
+
+✔ **õpilaste kaasamine kooliellu**:  
+- toetan õppijaid **õpilasesinduses osalemisel** ja nende omaalgatuslike ideede elluviimisel,  
+- suunan neid **osalema heategevus- ja vabatahtlikus tegevuses**, mis aitab neil näha laiemat kogukonna mõju ja tähtsust;  
+
+✔ **koolikultuuri ja traditsioonide hoidmine**:  
+- väärtustan ja edendan **koolis välja kujunenud traditsioone**, mis aitavad õppijatel tunda end osana suuremast kogukonnast,  
+- toetan **mentorprogrammi ja rühmavaimu tugevdamist**, et õppijad saaksid üksteist toetada ka erinevate klasside ja vanuseastmete vahel.  
+
+Ühtsustunne ei teki ainult õpetaja eestvedamisel, vaid see kujuneb **õppijate enda aktiivsest osalusest ja vastutusest**:  
+✔ annan õppijatele võimaluse **panustada klassi ja kooli arengusse** läbi projektide ja algatuste,  
+✔ toetan **õppijate eneseväljendust ja loovust**, julgustades neid jagama oma ideid ja arvamusi,  
+✔ julgustan õppijaid **lahendama erimeelsusi ja leidma kompromisse**, et nad saaksid ise klassi ja koolikultuuri kujundamises osaleda.  
+
+Ühtsustunde toetamine klassis ja koolis aitab kujundada **turvalise, hooliva ja koostööpõhise õpikeskkonna**, kus õppijad tunnevad end väärtustatuna ja kaasatuna. Õpetajana loon tingimused, kus õppijad saavad **õppida, kasvada ja panustada ühiselt**, kujundades neid vastutustundlikeks ja sotsiaalselt teadlikeks kogukonna liikmeteks. Tänu sellele muutub õppimine **mitte ainult individuaalseks pingutuseks, vaid ka jagatud teekonnaks, kus igaühe panus on oluline**.
 
 
 
@@ -374,6 +670,14 @@ Kui märkan õpivara puudusi, pöördun esmalt õpivara autori või halduri pool
 Valin õppevara eelkõige lähtuvalt sellest, et see oleks kasutatav kõigile globaalselt tasuta. Kui see pole kõigile globaalselt tasuta kättesaadav, siis peab see olema ülihea, et ma selle kasutusse võtaksin, või siis eksisteerib lepingupartneri poolne nõue. Opiq!! Foxcademy!!
 
 Kuna ma jälgin, mida staarharidustehnoloogid teevad, siis katsetan ka ise erinevat õpivara ja kui veendun, et sobib, siis võtan kasutusse, kui lubatakse. Mul on plaan teha iseõppe tarkvara, mis baseerub vaiksele õpetamisele. Sellest eesmärgist lähtuvalt tasapisi loon ka ise õppevara. Näited seitsmenda mata jaoks!! 
+
+[@veelmaa_2014_matemaatika]
+[@lepmann_2015_lesandeid]
+[@lepmann_2006_lesandeid]
+[@_2001_]
+[@kasema_1986_matemaatika]
+[@abel_2010_matemaatika]
+[@leemets_1990_eestivene]
 
 ### Õpikeskkonna kujundamine
 
