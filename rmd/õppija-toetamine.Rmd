@@ -49,7 +49,7 @@ Grupiprotsesside teadlik juhtimine aitab kaasa klassi positiivse ja tulemusliku 
 
 Refleksioon on oluline osa õppimisprotsessist nii õpilastele kui ka õpetajale. Kasutan refleksioonimudeleid:
 - **Õpilaste refleksioon**: Julgustan õppijaid mõtisklema oma tugevuste, arenguvõimaluste ja edusammude üle, et suurendada eneseteadlikkust ja vastutustunnet. Näiteks KG's lasin õpilasel esmalt ise enda testisooritust hinnata, misjärel võrdlesime minu hinnanguga.  
-- **Õpetaja refleksioon**: Hindan regulaarselt oma õpetamise tõhusust ja kohandan meetodeid vastavalt klassi vajadustele. Kasutan näiteks Kolbi refleksioonimudelit (kogemus → vaatlus ja analüüs → järeldused → katsetamine)[@kolb84], et hinnata, kuidas minu tegevused mõjutavad õppimist ja klassi dünaamikat. Nt Peetri Lasteaed-Põhikoolis matemaatikaõpetajana iga kahe kuu järel vahetasin õppeallikat, et välja selgitada, milline allikas selle rühma õpilaste jaoks kõige paremini toimib.
+- **Õpetaja refleksioon**: Hindan regulaarselt oma õpetamise tõhusust ja kohandan meetodeid vastavalt klassi vajadustele. Kasutan näiteks Kolbi refleksioonimudelit (kogemus → vaatlus ja analüüs → järeldused → katsetamine)[@kolb84], et hinnata, kuidas minu tegevused mõjutavad õppimist ja klassi dünaamikat. Nt Peetri Lasteaed-Põhikoolis (PLP) matemaatikaõpetajana iga kahe kuu järel vahetasin õppeallikat, et välja selgitada, milline allikas selle rühma õpilaste jaoks kõige paremini toimib.
 
 Kokkuvõttes aitab teadlikkus õppimist mõjutavatest teguritest ja tõenduspõhistest võimalustest luua toetava ja arengut soodustava keskkonna, kus õppijad saavad arendada oma potentsiaali nii individuaalselt kui ka grupis. Refleksioon on seejuures oluline tööriist, et pidevalt täiustada õppetööd ja vastata õppijate vajadustele.
 
@@ -275,7 +275,62 @@ Vestlusi arengust olen õpilastega läbi viinud eelkõige üks-ühele ja väikes
 
 Arenguvestlused on minu õpetamispraktikas väärtuslik tööriist, mis aitab luua õppijakeskse ja toetava õpikeskkonna. Teadvustades õppija individuaalseid vajadusi ja pakkudes talle struktureeritud tagasisidet ning juhendamist, saan aidata tal kujundada **enesekindlust, õpioskusi ja motivatsiooni**, mis toetavad tema pikaajalist arengut ja edu.
 
+### Õppija individuaalsete õpivajaduste toetamine
 
+Tegevusnäitaja:
+
+> märkab õppijate toe vajadust ja nende individuaalseid õpivajadusi (sh teistest võimekam õppija).  
+
+Õpetajana pean oluliseks iga õppija individuaalse arengu toetamist, arvestades nende eripärasid, tugevusi ja vajadusi. Õppijate õpivajaduste märkamine ja neile vastav reageerimine võimaldab luua kaasava õpikeskkonna, kus kõik õppijad saavad areneda oma võimete kohaselt.
+
+Et tagada igale õppijale sobiv tugi ja arenguvõimalused, jälgin regulaarselt nende õppimise protsessi ja edasijõudmist. Toe vajaduse märkamiseks kasutan järgmisi meetodeid:
+- **formatiivne hindamine**: jälgin õpilaste töid, arutelusid ja ülesannete täitmist, et mõista, kas ja millistes teemades nad vajavad täiendavat juhendamist,
+- **vestlused ja refleksioonid**: julgustan õpilasi analüüsima oma õppimisraskusi ning küsima vajadusel abi,
+- **koostöö kolleegide ja tugispetsialistidega**: arutan aineõpetajate, klassijuhatajate ja eripedagoogidega, et saada terviklik ülevaade õppija arengust.
+
+Kui märkan, et mõni õppija vajab lisatuge, leian sobivad meetodid ja vahendid, mis aitavad tal õppimises edasi liikuda.
+
+Õpilaste õpivajadused võivad olla väga erinevad, mistõttu kasutan diferentseeritud õpetamist ja paindlikke lahendusi:  
+
+- **õpiraskustega õppijad**:  
+  - selgitan keerukamaid teemasid lihtsustatud sammude kaudu,  
+  - pakun rohkem aega ülesannete lahendamiseks ja lisamaterjale harjutamiseks,  
+  - toetan õppijat visuaalsete ja praktiliste meetoditega, mis aitavad mõista keerukaid mõisteid,  
+  - suunan õppijat vajadusel tugispetsialisti (nt eripedagoogi, logopeedi, psühholoogi) juurde.  
+
+- **teistest võimekamad õppijad**:  
+  - pakun lisaülesandeid, mis võimaldavad neil oma teadmisi süvendada ja rakendada kõrgema taseme oskusi,  
+  - julgustan õppijaid osalema projektides, uurimistöödes või aineolümpiaadidel,  
+  - kasutan avatud ja probleemipõhiseid ülesandeid, mis toetavad loovust ja iseseisvat mõtlemist,  
+  - võimaldan neil töötada mentori või juhendajana, aidates teisi õpilasi ja süvendades oma teadmisi.  
+
+Õpiraskustega õppijad on mul TVW's ja NTK's. Kõigi nende puhul arvestan ma õpilaste endi tempot. Kui selgitan lahenduskäiku, näitan kõikvõimalikud sammud. Kui tuvastan õpilase varasemates teadmistes-oskustes lünki, asume nende lünkade täitmise kallale. Nt tuvastasin gümnasiastide puhul, et nad ei oska suurusi valemist avaldada, mistõttu selgitasin neile, kuidas seda teha ja lasin neil sellist avaldamist harjutada, enne kui jätkasime eluliste ülesannete lahendamisega, milles tuli valemeid moondatud kujul kasutada.
+
+Pean oluliseks, et õpilased saaksid vähemalt midagi niimoodi selgeks, et nad seda ka tükk aega hiljem kasutada oskaksid. Kui õpilane õpib kõigest midagi nt valemite tuupimisega, siis pärast unustamist peaks ta uuesti hakkama valemeid meelde tuletama. Kui õpilane õpib seoseid, oskab ta ununemise korral seoste kaudu tuletada. Seetõttu ei pruugi me läbida kõiki õppekavas ettenähtud teemasid, vaid rõhk on baasteemadel, millest muud sõltuvad. Kui õpilasel on baasteemad selged ja oskab seoseid kasutada, saab ta nendele teemadele tuginevaid teemasid ka iseseisvalt õppida.
+
+Tean, et igale õpilasele ainult üks vaatenurk õppimiseks ei sobi. Seetõttu, kui olen tuvastanud, et õpilane ei mõista, kasutan muud vaatenurka, ja kui mul need nurgad endal lõppevad, otsin Internetist ja paberkirjandusest abi. Sageli kasutan väljaprinditavaid harjutuslehti, kui nendel on selgitused head ja ülesanded sobiva variatsiooniga. Abi on ka erinevate värvide ja jooniste kasutamisest.
+
+Paremaks mõistmiseks loon analoogiaid õpilasele tuttava eluvaldkonnaga. Nt kui õpilane ei mõistnud katalüsaatori olemust, esitasin analoogia, milles ruumis on kaks õpilast, kes kumbki ei asu õppima, kuid kui saabub õpetaja ja suunab neid, siis mõlemad õpilased õpivad ja saavad juurde teadmisi-oskusi, mida saavad kasutada ilma õpetajata.
+
+Kui õpetasin PLP's, saatsin aegajalt üleannetuid õpilasi tugispetsialisti juurde.
+
+NTK's üks teistest võimekam õpilane oma vabal tahtel õppesessioonis tõuseb ja asub kaaslasi abistama. Lasen tal tegutseda enda abilisena aidates samaaegselt muid õpilasi.
+
+Loon klassis keskkonna, kus iga õppija tunneb end turvaliselt ja toetatuna:  
+- **võimaldan õppijatel töötada omas tempos**, andes neile piisavalt aega ja tuge,  
+- **tunnustan õppijate individuaalseid saavutusi**, et suurendada nende enesekindlust ja motivatsiooni,  
+- **toetan enesejuhitud õppimist**, õpetades õppijaid planeerima oma tööd ja leidma ise lahendusi.  
+
+NTK's olen koostanud iga statsionaarse rühma õppijate jaoks individuaalse õppejärje, mis võimaldab igal õpilasel liikuda teadmiste ja oskuste ammutamises omas tempos. Aitan vaheldumisi eri õpilasi. Kui mitmel õpilasel on sama raskus, selgitan neile korraga.
+
+Individuaalsete õpivajaduste märkamine ja toetamine nõuab pidevat professionaalset arengut. Seetõttu  
+- **osalen koolitustel ja seminaridel**, mis käsitlevad diferentseeritud õpet ja kaasavat haridust,  
+- **jagan kogemusi kolleegidega**, et leida parimaid praktikaid õppijate toetamiseks,  
+- **koostan ja kohandan õppematerjale**, et need vastaksid erinevate õppijate vajadustele.  
+
+Kolmanda kooliastme matemaatika õppimiseks olen koostanud astendamise[@a2025_astendaminedocx], üksliikmete[@a2025_ksliikmed7docx] ja võrrandite[@a2025_vrrandid7docx] erineva variatsiooniga harjutusülesanded ja testid.
+
+Õpetajana on minu eesmärk märgata õppijate individuaalseid vajadusi ja pakkuda neile sobivat tuge, et igaüks saaks oma potentsiaali maksimaalselt rakendada. Olgu tegemist õpiraskustega või väga võimekate õpilastega – diferentseeritud lähenemine ja paindlikud õppemeetodid aitavad luua õppimiskeskkonna, kus iga õppija saab kogeda eduelamust ja arengut.
 
 
 
@@ -283,9 +338,6 @@ Arenguvestlused on minu õpetamispraktikas väärtuslik tööriist, mis aitab lu
 
 ### Õppija taust
 
-Et tõhusalt õpetada, on vaja lähtuda õppija tasemest. Kui tema teadmistes ja oskustes esineb lünki, siis on vaja need esmalt täita.
-
-Kui õpilase õpimotivatsioon on madal, tuleb proovida eri meetodeid, et välja selgitada, milline meetod võiks ta õpimotivatsiooni suurendada. Võib selguda, et õpilane õpibki valet asja või vales ajas.
 
 Kui õpilane minu õpetatavas valdkonnas ei edene, siis uurin, kuidas ta edeneb muudes valdkondades. Kui selgub valdkond, milles ta edeneb, siis püüan lõimida seda valdkonda enda õpetatavasse valdkonda. Nt on mul füüsika ja keemia õppes õpilane, kes vihkas matemaatikat. Ühtlasi on ta lummatud muusikariistade kasutamisest. Seega püüdsin füüsikaülesandeid seostada muusikainstrumentidega.
 
