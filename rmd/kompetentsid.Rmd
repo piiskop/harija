@@ -11,14 +11,14 @@ Tegevusnäitaja:
 Füüsilise arengu toetamisel arvestan, et õppijad vajavad liikumist ja paindlikkust õppekorralduses. Kuna liikumine soodustab keskendumist ja üldist heaolu, olen aegajalt korraldanud mittekehalise teema õpet liikumise kaudu. Tennisetreenerina oli liikumine kaasatud õppeprotsessi loomuliku osana. Füüsikaõpetajana viisin Kohila Gümnaasiumis (KG) õpilaste testimist läbi MathCityMapiga, mis võimaldas õpilastel vaheldada vaimset ja füüsilist tegevust[@mathcitymap]. MathCityMapi kodulehel on hulganisti publikatsioone, milles kirjeldatakse uuringuid, kuidas mitmekesistada matemaatikaõppimist ning millest leiab väite, et vaimse ja füüsilise tegevuse vaheldamine on õppimises abiks. Arvutiteaduse klubis korraldasin orienteerumismänge, milles tuli lahendada arvutiteadusega seotud ülesandeid kasutades orienteerumiskaarti (joonis \@ref(fig:support-cs-orienteering)). Matemaatikaõppesse olen kaasanud käelist tegevust, muuseas paberlennukite lennutamist ja nihke mõõtmist üksliikmete teema praktilise ülesandena.
 
 ```{r label = "support-cs-orienteering", echo=FALSE, fig.cap = "Loogikat, arvusüsteeme, andmete esitust ja liikumist hõlmava orienteerumismängu näidiskaart."}
-include_external_graphics("rmd/seiklused-harkujärve-page003.png")
+include_external_graphics("rmd/seiklused-page003.png")
 
 ```
 
 Kognitiivse arengu toetamiseks kasutan diferentseeritud õpet, lähtudes õpilaste arengutasemest ja individuaalsetest vajadustest. Olen teadlik, kuidas arenevad õppija mõtlemis- ja probleemilahendusoskused, ning kujundan õppetegevusi, mis toetavad nii lihtsamate teadmiste omandamist kui ka keerukamate probleemide lahendamist. Narva Täiskasvanute Koolis (NTK) olen matemaatikaõpetajana koostanud igale õpilasele individuaalse õppejärje, et võimaldada oma varasemate lünkade teadmistes ja oskustes täitmist ning ajakohase õppekava järgsete teemade õppimist õpilase omas tempos (joonis \@ref(fig:support-math-study-order)). Arvutiteaduse õppes lasen õpilastel tegutseda individuaalseid ülesandeid täites omas tempos. Tallinna Vabas Waldorfkoolis (TVW) on minu juhendada põhirühmaga tempost väiksema tempoga õpilased, kelle jaoks katsetan erinevaid meetodeid, et õpilastes tekiksid vajalik arusaam ja oskus õpitud teadmisi kasutada.
 
 ```{r label = "support-math-study-order", echo=FALSE, fig.cap = "NTK's on mul igal õpilasel oma õpijärg. Tähed tähistavad teemasid."}
-include_external_graphics("rmd/õpijärjed-IMG_20250130_191520.jpg")
+include_external_graphics("rmd/teemad-IMG_20250130_191520.jpg")
 
 ```
 
@@ -27,7 +27,7 @@ Emotsionaalse arengu puhul pööran tähelepanu õppijate heaolu ja motivatsioon
 Sotsiaalset arengut edendan, pakkudes õppijatele võimalusi teha koostööd ja osaleda grupitöös, kus nad õpivad suhtlema, teisi kuulama ja vastastikku arvestama (joonis \@ref(fig:support-math-group-discussion)). Püüan luua klassis sõbraliku ja toetava õhkkonna, kus väärtustatakse mitmekesisust ja austatakse erinevaid vaatenurki. (siia ühisarutelude pilte) Audenteses International Baccalaureate'i Diploma Programme's arvutiteaduse õpetajana käsitlesime kord moraali ja eetika temaatikat ning saime tunda eri õpilaste erinevat moraali (trammi ülesanne).
 
 ```{r label = "support-math-group-discussion", echo=FALSE, fig.cap = "Õpilased arutavad rühmas, kuidas matemaatikaülesannet lahendada."}
-include_external_graphics("rmd/arutelu-rühmas-IMG_20240918_152216.jpg")
+include_external_graphics("rmd/arutelu-grupis-IMG_20240918_152216.jpg")
 
 ```
 
