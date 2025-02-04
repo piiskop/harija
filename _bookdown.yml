@@ -1,8 +1,12 @@
 book_filename: "harija"
 new_session: false
 delete_merged_file: true
+language:
+  label:
+    fig: 'Joonis '
 rmd_files: [
   "index.Rmd",
-  "rmd/õppija-toetamine.Rmd",
+  "rmd/cv-en.Rmd",
+  "rmd/kompetentsid.Rmd",
   "references.Rmd"
 ]

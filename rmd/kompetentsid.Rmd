@@ -1,0 +1,717 @@
+# Kohustuslikud kompetentsid[@a2024_kutsestandardid]
+
+## Õppija toetamine
+
+### Teadlikkus õppija arengust ja õppimisest
+
+Tegevusnäitaja:
+
+> on teadlik õppija füüsilise, kognitiivse, emotsionaalse ja sotsiaalse arengu alustest ning kultuurilistest eripäradest.
+
+Füüsilise arengu toetamisel arvestan, et õppijad vajavad liikumist ja paindlikkust õppekorralduses. Kuna liikumine soodustab keskendumist ja üldist heaolu, olen aegajalt korraldanud mittekehalise teema õpet liikumise kaudu. Tennisetreenerina oli liikumine kaasatud õppeprotsessi loomuliku osana. Füüsikaõpetajana viisin Kohila Gümnaasiumis (KG) õpilaste testimist läbi MathCityMapiga, mis võimaldas õpilastel vaheldada vaimset ja füüsilist tegevust[@mathcitymap]. MathCityMapi kodulehel on hulganisti publikatsioone, milles kirjeldatakse uuringuid, kuidas mitmekesistada matemaatikaõppimist ning millest leiab väite, et vaimse ja füüsilise tegevuse vaheldamine on õppimises abiks. Arvutiteaduse klubis korraldasin orienteerumismänge, milles tuli lahendada arvutiteadusega seotud ülesandeid kasutades orienteerumiskaarti (joonis \@ref(fig:support-cs-orienteering)). Matemaatikaõppesse olen kaasanud käelist tegevust, muuseas paberlennukite lennutamist ja nihke mõõtmist üksliikmete teema praktilise ülesandena.
+
+```{r label = "support-cs-orienteering", echo=FALSE, fig.cap = "Loogikat, arvusüsteeme, andmete esitust ja liikumist hõlmava orienteerumismängu näidiskaart."}
+include_external_graphics("rmd/seiklused-harkujärve-page003.png")
+
+```
+
+Kognitiivse arengu toetamiseks kasutan diferentseeritud õpet, lähtudes õpilaste arengutasemest ja individuaalsetest vajadustest. Olen teadlik, kuidas arenevad õppija mõtlemis- ja probleemilahendusoskused, ning kujundan õppetegevusi, mis toetavad nii lihtsamate teadmiste omandamist kui ka keerukamate probleemide lahendamist. Narva Täiskasvanute Koolis (NTK) olen matemaatikaõpetajana koostanud igale õpilasele individuaalse õppejärje, et võimaldada oma varasemate lünkade teadmistes ja oskustes täitmist ning ajakohase õppekava järgsete teemade õppimist õpilase omas tempos (joonis \@ref(fig:support-math-study-order)). Arvutiteaduse õppes lasen õpilastel tegutseda individuaalseid ülesandeid täites omas tempos. Tallinna Vabas Waldorfkoolis (TVW) on minu juhendada põhirühmaga tempost väiksema tempoga õpilased, kelle jaoks katsetan erinevaid meetodeid, et õpilastes tekiksid vajalik arusaam ja oskus õpitud teadmisi kasutada.
+
+```{r label = "support-math-study-order", echo=FALSE, fig.cap = "NTK's on mul igal õpilasel oma õpijärg. Tähed tähistavad teemasid."}
+include_external_graphics("rmd/õpijärjed-IMG_20250130_191520.jpg")
+
+```
+
+Emotsionaalse arengu puhul pööran tähelepanu õppijate heaolu ja motivatsiooni toetamisele. Püüan klassiruumi tuua empaatilise ja avatud õhkkonna, kus õppijad tunnevad end väärtustatuna ja turvaliselt. Olen valmis märkama emotsionaalseid raskusi ning vajadusel suunama õpilasi sobivatele tugiteenustele. Julgustan õpilasi rääkima oma muredest, et parema mõistmise puhul osata aidata õppida. TVW's täheldasin, et üks õpilane kippus spikerdama. Selgitasin kui oluline on testida tema hetke teadmisi-oskusi ja et spikerdamine selle testi rikuks. Ütlesin, et kui ta ausalt välja näitab, mida ta oskab ja teab, isegi kui need teadmised-oskused on olematud, siis saan teda oluliselt täpsemalt juhendada. Tema mõistis ja on edaspidi spikerdamist vältinud. Sama õpilase kätel märkasin hiljem lõikearme. Ta selgitas, et ta kunagi tegi neid ärevusest sunnitud esinemise ees. Kui õpilane tunneb, et saab oma muredest õpetajaga rääkida, on temas vähem ärevust ja tal on turvalisem õppekeskkond.
+
+Sotsiaalset arengut edendan, pakkudes õppijatele võimalusi teha koostööd ja osaleda grupitöös, kus nad õpivad suhtlema, teisi kuulama ja vastastikku arvestama (joonis \@ref(fig:support-math-group-discussion)). Püüan luua klassis sõbraliku ja toetava õhkkonna, kus väärtustatakse mitmekesisust ja austatakse erinevaid vaatenurki. (siia ühisarutelude pilte) Audenteses International Baccalaureate'i Diploma Programme's arvutiteaduse õpetajana käsitlesime kord moraali ja eetika temaatikat ning saime tunda eri õpilaste erinevat moraali (trammi ülesanne).
+
+```{r label = "support-math-group-discussion", echo=FALSE, fig.cap = "Õpilased arutavad rühmas, kuidas matemaatikaülesannet lahendada."}
+include_external_graphics("rmd/arutelu-rühmas-IMG_20240918_152216.jpg")
+
+```
+
+Arvestades kultuurilisi eripärasid, toon õppetöösse erinevaid perspektiive, mis võimaldavad õpilastel mõista ja väärtustada mitmekesisust. Samuti püüan luua individuaalset lähenemist, mis arvestab õpilaste kultuurilist tausta, keelelist mitmekesisust ja maailmapilti. Olen õpetanud kahes koolis, milles enamus minu õpilasi eesti keelt selles õppimiseks piisavalt ei osanud. NTK'sse võtsin kaasa Edu Valemis (EV) õpitu, et eesti keelt peale suruda ei tohi, vaid õppetegevus sujub oluliselt paremini, kui on võimalik suhelda õpilasega tema emakeeles. KG's oli mul vahetusõpilane Saksamaast ning temaga eraldi suheldes kasutasin saksa keelt, ühisaruteludes inglise keelt, et ka eesti õpilased mõistaksid.
+
+Tegevusnäitaja:
+
+> on teadlik õppimist mõjutavatest teguritest ja seaduspärasustest, üldpädevustest, grupiprotsessidest ja õppija toetamise tõenduspõhistest võimalustest, sh refleksioonimudelite kasutamise vajalikkusest.
+
+Olen teadlik järgmistest õppimist mõjutavatest teguritest:
+
+- õppijaga seotud tegurid:
+  - kognitiivsed võimed ja teadmised,
+  - õpioskused ja strateegiad,
+  - õpimotivatsioon,
+  - enesehinnang ja uskumused,
+  - füüsiline ja vaimne tervis,
+- õpikeskkonna ja õpetamisviisidega seotud tegurid:
+  - õpikeskkonna füüsilised tingimused,
+  - õppevahendid ja ressursid,
+  - õpetaja pädevus ja õpetamisstiil,
+  - õppemeetodid ja -strateegiad,
+  - õppekoormus ja ajakasutus,
+- sotsiaalsed ja emotsionaalsed tegurid:
+  - perekond ja kodune keskkond,
+  - sõprade ja kaasõppijate mõju,
+  - emotsionaalne heaolu,
+  - kultuurilised ja keelelised tegurid,
+- tehnoloogilised ja ühiskondlikud tegurid:
+  - digipädevused ja tehnoloogia kättesaadavus,
+  - ühiskondlikud ootused ja trendid,
+  - juurdepääs õppimisvõimalustele,
+- õiguslikud ja institutsionaalsed tegurid:
+  - hariduspoliitika ja statuutide loomine,
+  - kooli juhtimine ja kultuur[@peterson_tartu; @chukwuemeka_2022_10; @devanganathakuria_2024_unlocking].
+  
+Olen teadlik järgmistest õppimist mõjutavatest seaduspärasustest:
+
+- õppimise protsessiga seotud mustrid:
+  - varasemate teadmiste mõju,
+  - mälu ja meeldejätmise seaduspärad,
+  - tähelepanu ja koormuse seaduspärasus,
+  - konteksti- ja ülekande seaduspärasused,
+- motivatsiooni ja emotsioonidega seotud seaduspärasused:
+  - autonoomia ja eneseregulatsioon,
+  - tunnustamine ja enesehinnang,
+  - sotsiaalne õppimine ja koostöö[@lambright_2023_the],
+  - kasvule orienteeritud mõtteviis[@dweck_1988_a],
+- keskkonna ja õpetamismetoodikaga seotud seaduspärasused:
+  - diferentseeritud õpetamine ja õppijakeskne lähenemine,
+  - tagasiside mõju,
+  - formatiivse hindamise roll,
+  - õpikeskkonna turvalisus ja emotsionaalne mõju,
+- neuroteaduslikud seaduspärasused:
+  - uni ja taastumine,
+  - emotsioonid,
+  - liikumine ja füüsiline aktiivsus.
+  
+Olen teadlik järgmistest õppimist mõjutavatest üldpädevustest:
+
+- kultuuri- ja väärtuspädevus: püüan suunata õpilasi eelkõige kaasinimesi austama,
+- sotsiaalne ja kodanikupädevus: selgitan õpilastele, et kui osalejate liigpaljususe tõttu ei ole võimalik konsensust mõistliku ajaga saavutada, kehtestatakse reeglid rühmaprotsessis osalemiseks ning rühmaga liitudes tuleb neid reegleid aktsepteerida,
+- enesemääratluspädevus: arvutiteaduse õppes käsitlen ühe teemana ergonoomikat, et õpilased oskaksid paremini hoolitseda enda tervise eest, vastavalt olukorrale annan soovitusi, kuidas konfliktsituatsioonis käituda,
+- õpipädevus: projektid on olnud võimalus õpilastel oma tegevusi plaanida ja hinnata, eri valdkondades võimalusel viitan õpitule muus valdkonnas,
+- suhtluspädevus: kui õpilane jääb selgitamisega hätta, sest on unustanud sõnu või väljendeid, siis julgustan selgitamist uuesti ja teistmoodi proovima, kirjalike teoste osas õpetan viitamist ja ühtse stiili hoidmist,
+- matemaatika-, loodusteaduste- ja tehnoloogiaalane pädevus: matemaatikaõpetajana suunan õpilasi kasutama matemaatikat kui *lingua franca*t, loodusteaduste õpetajana rõhutan korrektsust mõõtmises ja andmete esitamises ning selgitan, et kõik reeglid kehtivad oma skoobis,
+- ettevõtlikkuspädevus,
+- digipädevus: tutvustan tarkvarilisi võimalusi oma ellu loova ajavaru tekitamiseks, õpetan kriitiliselt suhtuma leitusse, arvutiteaduse õpetajana õpetan kontoritarkvara ja multimeedia töötluse tarkvara kasutamist[@gmnaasiumi; @phikooli].
+
+Grupiprotsesside teadlik juhtimine aitab kaasa klassi positiivse ja tulemusliku õhkkonna loomisele:
+
+- Koostöö ja ühtsuse soodustamine: Algatan tegevusi, mis aitavad õppijatel luua omavahel tugevaid suhteid ja väärtustada üksteise panust. Näiteks olen läbi viinud teadmiste-oskuste testimist rühmaviisiliselt, mis võimaldab õpilastel üksteise lünki teadmistes-oskustes täita[@a2025_mathtrailpindpinevuspdf; @a2025_mathtrailkeemiaalusedpdf; @a2025_mathtrailvalemikinemaatikapdf; @a2025_mathtrailvoolutugevusetestpdf; @a2025_school; @a2025_mathtrail4tubapdf]. Tallinna Ülikoolis (TLÜ) juhtisin Erialasid Lõimiva Uuenduse (ELU) projekti orJenteerumismäng[@a2022_orjenteerumismng], mille kestel lõid tudengid rühmiti MathCityMappi teaduslike faktidega, kestliku arengu eesmärkidega, oma valdkonnaga ja matemaatikaga seotud õpperadu[@a2025_mathtrailtraffictrailpdf; @a2025_mathtrailtrailfromvladpdf]. TVW's lasin ChatGPT'l[@openai_2025_chatgpt] vastavalt õpiväljundile ja Bloomi 2001. a taksonoomia[@quevillon_2018_blooms] tasemetele õpilastega vesteldes nende teadmisi-oskusi testida, nii et õpilased tohtisid omavahel arutada ja ühiselt otsustada, mida vastata. Matemaatikaõppes olen lasknud õpilastel praktilisi ülesandeid lahendada rühmiti.  
+- Konfliktide lahendamine: Olen valmis märkama ja lahendama klassis tekkivaid pingeid ning õpetama õpilastele konfliktide ennetamise ja lahendamise oskusi. Toetan õpilasi dialoogis, kus austatakse teineteise seisukohti. Julgustan õpilasi kohe küsima, kui miski on arusaamatu või õpilase arvates valesti tehtud.
+
+Õppija toetamiseks rakendan tõhusaid tegevusi:
+
+- Kombineerin formatiivset ja summatiivset hindamist, mis annab õpilastele regulaarset tagasisidet nende edusammude kohta ja võimaldab parandada õppeprotsessi. Selleks viin läbi lühiteste, mille tulemuste põhjal kujundan õpilase järgmise tegevuse. Kuigi iga lühitest on hindeline, saab sama teema hinnet korduvalt parandada ja nii näeb õpilane oma arengut. Kui tal pole õppeteema veel selge, suunan, ta teema kohta vee lugema ja harjutama. Vahel tegelen lühiajaliselt õpilasega üks-ühele. Kui selle protsessi käigus selgub, et tal on teadmistes-oskustes lünki eeldusteemades, siis aitan tal neid lünki täita. Kui õpilane on käsitletavas teemas juba piisava taseme saavutanud, suunan ta muu teema juurde. Uue teema õpetamisel küsitlen õpilasi nende teemakohaste teadmiste kohta.
+- Kombineerin aktiivõppe meetodeid, näiteks probleemõpet ja projektipõhist õpet, mis arendavad õpilaste analüüsivõimet ja meeskonnatööoskusi. Lisaks ELU-projektile viisin Tallinna Kunstigümnaasiumi projektipäevade raames läbi praktilisi projekte[@a2025_staatilise; @a2025_staatilise_ii]. Gaia Koolis (GK) viisin arvutiteaduse õppes läbi projekti küberkiusamise plakati tegemiseks[@a2025_kber; @a2025_kber_ovtsik]. Arvutiteaduse klubides olen lasknud hulganisti praktilisi ja loovaid tegevusi teha õpilastel, samuti informaatikaõppes üldiselt.
+- Toetan individuaalseid õpivajadusi, jälgides õppijate edenemist ja pakkudes vajadusel täiendavat juhendamist või eritoetust. Osa õpilasi õpivad ainult siis, kui nendega üks-ühele tegelen.
+
+Refleksioon on oluline osa õppimisprotsessist nii õpilastele kui ka õpetajale. Kasutan refleksioonimudeleid:
+
+- Õpilaste refleksioon: Julgustan õppijaid mõtisklema oma tugevuste, arenguvõimaluste ja edusammude üle, et suurendada eneseteadlikkust ja vastutustunnet. Näiteks KG's lasin õpilasel esmalt ise enda testisooritust hinnata, misjärel võrdlesime minu hinnanguga.  
+- Õpetaja refleksioon: Hindan regulaarselt oma õpetamise tõhusust ja kohandan meetodeid vastavalt klassi vajadustele. Kasutan näiteks Kolbi refleksioonimudelit (kogemus → vaatlus ja analüüs → järeldused → katsetamine)[@kolb84], et hinnata, kuidas minu tegevused mõjutavad õppimist ja klassi dünaamikat. Konkreetselt Peetri Lasteaed-Põhikoolis (PLP) matemaatikaõpetajana iga kahe kuu järel vahetasin õppeallikat, et välja selgitada, milline allikas selle rühma õpilaste jaoks kõige paremini toimib.
+
+Tegevusnäitaja:
+
+> hoiab ennast kursis õppimist ja õppija arengut puudutava terminoloogia, uuema teadmuse ja uuringutega.
+
+Oma tegevustes rakendan kaasaegseid teaduslikke teadmisi laste ja noorte arengu kohta ning hoian end pidevalt kursis uute uurimuste ja parimate praktikatega. Selline teadlikkus aitab mul kujuneda empaatilisemaks ja tõhusamaks õpetajaks toetamaks igakülgselt õppijate arengut. Lisaks teadusartiklitele loen ja kuulan huviga arutelusid pedagoogikast. Nii mängis mul kunagi taustaks Roosa Raadio[@roosa]. Huviga jälgisin sarja *Maailma kõige targem rahvas*[@err_2025].
+
+Olen kursis haridusterminoloogiaga, mis puudutab näiteks:
+
+- kognitiivset arengut (nt Bloom’i taksonoomia, Vygotsky lähima arengu tsoon[@lambright_2023_the]),
+- õppimisprotsessi juhtimist (nt formatiivne hindamine, aktiivõpe, metakognitiivsed strateegiad[@melisyeilpnaruyar_2024_metacognitive]),
+- emotsionaalset ja sotsiaalset arengut (nt emotsionaalne intelligentsus, sotsiaal-emotsionaalne õpe).
+
+Tegutsen selle nimel, et kasutada tundides täpset ja arusaadavat sõnavara ning õpetan seda ka õpilastele, et suurendada nende teadlikkust õppimisprotsessidest. Pean oluliseks üheselt mõistetavust ja kirjeldatavust, mistõttu eelistan kasutada sellist terminoloogiat, mis päriselt kirjeldab objekti, mille jaoks termin on. Kui teen tahvlile jooniseid või kirjutan lahti valemeid, lisan mõisted (\@ref(fig:support-circular-motion)).
+
+```{r label = "support-circular-motion", echo=FALSE, fig.cap = "Ringliikumise teooria kompaktselt koos mõistetega."}
+include_external_graphics("rmd/ringliikumine-IMG_20250117_161555.jpg")
+
+```
+
+Hoian end kursis haridusvaldkonna uusimate uuringutega, lugedes teadusartikleid, uurimisraporteid ja erialakirjandust. Selleks kasutan:
+
+- rahvusvahelisi teadusajakirju ja andmebaase, nagu MyEBSCO[@a2025_eandmebaasidesse],
+- Eesti haridusalaseid väljaandeid ja uuringuid, näiteks Tartu Ülikooli ja TLÜ haridusteaduste teaduskondade töid,
+- konverentse ja koolitusi, kus jagatakse uusimaid teadmisi ja praktikaid[@a2025_isikukaartasice].
+
+Nutitelefoni kaudu pakub Google aegajalt haridusalast lugemist ning kasutan selliseid võimalusi ära.
+
+Näiteks olen uurinud, kuidas õpetamiseks valmistumine tõhustab õppimist[@guerrero_2021_expecting].
+
+Minu [eluloo kirjeldusest](#CV) võib leida selliste temaatiliste koolituste läbimist nagu
+
+- *Õppimist toetav hindamine*,
+- *Õppimist toetav õpetamine*,
+- *Aktiivõppemeetodid õppimisprotsessis*,
+- *Kultuuridevahelise suhtlemise koolitus toetamaks õpetaja oskust õpetada mitmekultuurilises klassiruumis*,
+- inimeste juhtimine,
+- avalik esinemine,
+- *Who Else But We Will Communicate Inter Culturally?*,
+- hindamismudelid,
+- juhendite loomine,
+- *Assessing 21st century skills in a project-based environment*,
+- *Content- and language-integrated learning (CLIL) - Methodology & Information and communications technology Tools for Teachers working with CLIL*,
+- *ADVANCED COURSE FOR UNESCO SCHOOLS THROUGH DIGITAL EDUCATION*,
+- *Enesekindel õpetaja: oskuslik suhetes ja inspireeriv klassitunnis*,
+- *Digivõti: Õppija digipädevuse toetamine aineõpetajale: matemaatika*,
+- treenerite esimese kahe taseme koolitused.
+
+Tegevusnäitaja:
+
+> on teadlik digilahenduste kasutamise võimalustest ja sellega seotud riskidest õppimisel.  
+
+Digivahendid aitavad muuta õppimist kaasavamaks, paindlikumaks ja motiveerivamaks. Kasutan tehnoloogiat nii teadmiste omandamise kui ka süvendamise eesmärgil. Peamised võimalused, mida digilahendused pakuvad:  
+
+- personaalne ja kohandatud õpe:  
+  - e-õppeplatvormid (nt Moodle, Google Classroom) võimaldavad õppijatel liikuda omas tempos ja saada individuaalset tagasisidet,  
+  - kohandatud õppematerjalid (nt adaptiivne tarkvara, nagu Khan Academy) võimaldavad õppijatel harjutada just neid teemasid, milles nad vajavad rohkem tuge;  
+
+- interaktiivsed ja koostööpõhised õpimeetodid:  
+  - digitaalsete tööriistade (nt Answergarden[@creativeheroesnl_2024_answergarden; @creativeheroesnl_2024_answergarden_6]) abil saavad õpilased väljendada oma arvamusi ja osaleda aruteludes,  
+  - koostööplatvormid (nt Google Docs, Microsoft Teams) võimaldavad õpilastel töötada ühiselt ka väljaspool klassiruumi;  
+
+- visuaalne ja multimeediaõpe: õppevideod, simulatsioonid ja interaktiivsed rakendused muudavad keerukad teemad arusaadavamaks ning aitavad toetada visuaalseid ja kinesteetilisi õppijaid;  
+
+- reaalajas tagasiside ja hindamine: formatiivse hindamise tööriistad (nt Plickers) aitavad õpetajal kiiresti hinnata õppijate arusaamist ja kohandada õpet vastavalt vajadusele.  
+
+Kuigi digitehnoloogia pakub hariduses palju eeliseid, on oluline teadvustada ka sellega kaasnevaid riske ning võtta meetmeid nende ennetamiseks:  
+
+- infoturbe ja privaatsuse kaitse:  
+  - õpetajana hoolitsen selle eest, et õpilased teaksid, kuidas kaitsta oma isikuandmeid ja järgida turvalise internetikasutuse põhimõtteid,  
+  - kasutan turvalisi ja usaldusväärseid platvorme ning teavitan õpilasi võimalike ohtude, nagu andmepüük ja identiteedivargus, kohta;  
+
+- digivahendite liigkasutamine ja ekraaniaja tasakaal:  
+  - toetan tasakaalu digitaalse ja traditsioonilise õppimise vahel, et vältida õpilaste liigset sõltuvust tehnoloogiast,  
+  - julgustan aktiivset ja praktilist õppimist ning soodustan õpilaste omavahelist suhtlemist ka väljaspool digitaalset keskkonda;  
+
+- info üleküllus ja kriitilise mõtlemise arendamine:  
+  - õpetan õpilastele allikakriitikat, et nad oskaksid eristada usaldusväärset infot väärinfost,  
+  - kasutan teaduspõhiseid ja kvaliteetseid allikaid ning julgustan õpilasi hindama ja võrdlema erinevaid seisukohti;  
+
+- küberkiusamine ja eetikaküsimused:  
+  - selgitan õpilastele digikäitumise põhimõtteid, rõhutades netiketi ja austava suhtlemise olulisust,  
+  - jälgin klassi digisuhtlust ja reageerin probleemidele, toetades turvalist ja toetavat õpikeskkonda[@team_2024_online; @leonard_2024_overcoming].  
+
+Kui õpilased ise digivahendeid kasutavad, siis on oht või võimalus, et nad kasutavad neid enamaks, kui õppesessiooni plaanis on ette nähtud. See võib olla neile nii abiks kui ka takistuseks. Jaak Aaviksoo on väitnud, et mängude mängimise kaudu võivad lapsed arendada endis vajalikke oskusi[@a2024_etv, 30:56-31:13]. Kui ma esimestes matemaatika ja informaatika õpetamisaastates kuni kolmanda astme õpilastele piirasin nende ligipääsu mitteaktsepteeritud mängudele, siis enam ma seda ei tee. Olen täheldanud, et kui õpilane mängib oma mänguisu täis, asub ta tegelema õppesessiooniks ettenähtud sisuga.
+
+### Õppija tundmaõppimine
+
+Tegevusnäitaja:
+
+> selgitab välja rühma ja õppija ainealase, õpioskuste ja õpimotivatsiooni taseme ning arvestab neid (ainevaldkondlike, üldpedagoogiliste ja kasvatuslike) õpieesmärkide seadmisel.  
+
+Õppijate ainealase taseme väljaselgitamiseks testin neid lastes neil vastata küsimustele või lahendada ülesannet. NTK's kirjutasin tahvlile kompleksjuuravaldise ja küsisin, kas keegi seda lahendada oskab. Kui oleks osanud, märkinuksin talle maksimaalse hinde ja suunanuksin ta järgmisse alateemasse. Järgnevalt selgitasin sammhaaval, kuidas seda avaldist lihtsustada. Formatiivset hindamist teen sageli, et õpilased n-ö õigelt teelt kõrvale ei kalduks. Kogesin hiljuti, et gümnasiast ei osanud liita ühekohalisi arve ilma kalkulaatorita. See avastus ilmnes, kui tegelesime juurimisega. Kuna juurimine ei edenenud, proovisime astendamist täisarvulise astendajaga. Kuna ka see ei edenenud, liikusime korrutamise juurde. Kuna ka see ei edenenud, liikusime liitmise juurde ja nii see puudus avaldus. Seega koostasin tollele õpilasele ülesanded ühekohaliste arvude liitmise kohta, mille ta lahendas siiski edukalt, misjärel asusime astendamise juurde. Ei tohi sisse jätta lünkasid. Soovin, et õpilane näitaks kogu oma lahenduskäiku, et mõistaksin, kuidas ta mõtleb. Tallinna Polütehnikumis viisin läbi vestlusi sisseastujatega.
+
+Õpioskuste taseme selgitan välja vaadeldes ja analüüsides. Märkan, kas õpilane
+
+- konspekteerib ja kui, siis kuidas ta konspekteerib,
+- osaleb õppetegevuses ainult minu üks-ühele juhendamisel,
+- oskab spikerdada,
+- oskab vormistada kirjalikke teoseid,
+- oskab õpetada,
+- oskab esitleda,
+- osaleb rühmas tegusalt,
+- oskab oma õppeaega plaanida ja plaanijärgselt tegutseda,
+- hätta jäädes küsib abi,
+- tegutseb aegsasti või jätab teo tähtaja lõppu,
+- analüüsib oma progressi.
+
+Õpioskuste kohta saan teavet ka rühmajuhtidelt, tugispetsialistelt ja kodustelt hooldajatelt.
+
+Lähtuvalt õpilase õpioskuste tasemest sätin õpieesmärgid nii, et õpilase õpioskused areneksid. Nt TVW's tegi õpilane slaidiesitluse, mis oli puudulik mitmes võtmes. Sättisin talle iga puuduse kohta väiksema eesmärgi ja ta tegi oma slaidiesitluse korda. Hiljem ta mainis, et rakendas minu õpetatud viitamissüsteemi oma muu valdkonna kirjutises.
+
+Et välja selgitada õpilase hetke motivatsioon ja tema sihid, siis võimalusel vestlen nendest õpilasega. Suure rühma puhul ei ole selleks piisavat ajavaru ning siis hangin selle info rühmajuhilt või muudelt õpetajatelt, kellel võib see info olla. Kui tegemist on üksikute probleemsete õpilastega, siis vahel vestlen nendega, kuid pigem on see rühmas minu puhul ikkagi harv näht. Üks-ühele õpetamises selgitan muidugi alati õpilasega vesteldes välja eesmärgi.
+
+Vahel õpilane küsib, miks me seda õpime. Minu tavaline vastus koosneb kahest osast: selgitan,
+
+-  kuidas konkreetne õpitav oskus võib õpilasele kasuks tulla konkreetselt ja
+- et kõik, mida me keskkoolini teeme, on eelkõige õppimise ja õpitu rakendamise õppimiseks.
+
+Et tõsta õpilase õpimotivatsiooni, kes abstraktse teooria väljundit ei näe, kaasan võimalusel alati praktika. Kui õpilasel keeruline mõista õpitavat, siis selle lihtsustamiseks tutvustan juppi teooriat, misjärel lahendame hulganisti väikese, seejärel suure variatsiooniga arvutusülesandeid teooria kohta ning lõpuks kontrollime teooriat praktiliselt. Vahel teeme ka vastupidi seades hüpoteesi ja kontrollides praktiliselt ning hiljem arvutustega. Mind ennast motiveerib vaikse õppimise meetod, millega puutusin esmalt kokku arvutiteaduse õpilastele ECMAScripti õppevahendit otsides[@a2025_silent].
+
+Tegevusnäitaja:
+
+> kogub koostöös kolleegidega õppeprotsessist infot ja uurib võimalusi, kuidas toetada õppija terviklikku arengut ja valmisolekut õppimiseks.  
+
+NTK's suhtlen pidevalt tugispetsialistiga, rühmajuhtidega ja vahel ka muu valdkonna õpetajaga, et saada tagasisidet kas terve rühma või konkreetse õpilase käitumise ja edenemise kohta. Sarnane, kuid harvem suhtlemine toimub ka teistes koolides, kus õpetan. GK's seiran muu õpetaja ka minu juhendatava rühma õppesessioone. Sarnaseid seireid teostasin ka KG's ja Audenteses. Olen ka avatud muudele õpetajatele enda õppesessioonide külastamiseks ning seda võimalust on kasutatud PLP's, TKG's, KG's, NTK's. Eriti tänulik olen olnud, kui külastaja on ka tagasisidestanud[@a2025_tunnivaatlus], sest ise kõike tähele ei pane ja tagasiside põhjal on võimalik areneda paremaks õpetajaks. 
+
+Tegevusnäitaja:
+
+> kasutab arenguvestlusi õppija arengu toetamiseks.  
+
+Vestlusi arengust olen õpilastega läbi viinud eelkõige üks-ühele ja väikese rühmaga õppes, sest suure rühma puhul ei ole selleks piisavat ajavaru. Vestlused on toimunud informaalselt, mistõttu ei eksisteeri nende kohta kirjalikku dokumentatsiooni.
+
+Kõige pikemad ja põhjalikumad arenguvestlused on mul toimunud ühe täiskasvanud üks-ühele-õpilasega, kes vajas aegajalt neutraalses keskkonnas jutuajamist maast ja ilmast, eesmärkide taaspüstitamist, senise arengu ülevaatamist.
+
+### Õppija individuaalsete õpivajaduste toetamine
+
+Tegevusnäitaja:
+
+> märkab õppijate toe vajadust ja nende individuaalseid õpivajadusi (sh teistest võimekam õppija).  
+
+Kuigi tutvustan iga kursuse või õppeaasta alguses enda reegleid, jätan õpilastele ruumi ettepanekute tegemiseks ja läbirääkimiseks. Kui õpilane on avaldanud soovi mingi muu kui selle õppeteemaga tegeleda, mis on minu poolt plaanitud, kuid on siiski õpitava temaatikaga seotud ja ta tunneb, et talle on seda rohkem vaja või see teda eriliselt huvitab, siis võimalusel olen talle seda võimaldanud, et hoida tema sisemist õpimotivatsiooni. Mulle on öeldud õpilaste poolt, et olen tasakaalukas ja rahulik ning selgitan. Sain selleks olulise motivatsiooni oma kunagiselt kolleegilt Postimees Online's lauri tiituselt, kes juba minu eeltestimises rahulikult ja empaatiliselt mind juhendas.
+
+Õpiraskustega õppijad on mul TVW's ja NTK's. Kõigi nende puhul arvestan ma õpilaste endi tempot. Kui selgitan lahenduskäiku, näitan kõikvõimalikud sammud. Kui tuvastan õpilase varasemates teadmistes-oskustes lünki, asume nende lünkade täitmise kallale. Nt tuvastasin gümnasiastide puhul, et nad ei oska suurusi valemist avaldada, mistõttu selgitasin neile, kuidas seda teha ja lasin neil sellist avaldamist harjutada, enne kui jätkasime eluliste ülesannete lahendamisega, milles tuli valemeid moondatud kujul kasutada.
+
+Pean oluliseks, et õpilased saaksid vähemalt midagi niimoodi selgeks, et nad seda ka tükk aega hiljem kasutada oskaksid. Kui õpilane õpib kõigest midagi nt valemite tuupimisega, siis pärast unustamist peaks ta uuesti hakkama valemeid meelde tuletama. Kui õpilane õpib seoseid, oskab ta ununemise korral seoste kaudu tuletada. Seetõttu ei pruugi me läbida kõiki õppekavas ettenähtud teemasid, vaid rõhk on baasteemadel, millest muud sõltuvad. Kui õpilasel on baasteemad selged ja ta oskab seoseid kasutada, saab ta nendele teemadele tuginevaid teemasid ka iseseisvalt õppida.
+
+Tean, et igale õpilasele ainult üks vaatenurk õppimiseks ei sobi. Seetõttu, kui olen tuvastanud, et õpilane ei mõista, kasutan muud vaatenurka, ja kui mul need nurgad endal lõppevad, otsin Internetist ja paberkirjandusest abi. Sageli kasutan väljaprinditavaid harjutuslehti, kui nendel on selgitused head ja ülesanded sobiva variatsiooniga[@free]. Abi on ka erinevate värvide ja jooniste kasutamisest.
+
+Paremaks mõistmiseks loon analoogiaid õpilasele tuttava eluvaldkonnaga. Nt kui õpilane ei mõistnud katalüsaatori olemust, esitasin analoogia, milles ruumis on kaks õpilast, kes kumbki ei asu õppima, kuid kui saabub õpetaja ja suunab neid, siis mõlemad õpilased õpivad ja saavad juurde teadmisi-oskusi, mida saavad kasutada ilma õpetajata.
+
+Kui õpetasin PLP's, saatsin aegajalt üleannetuid õpilasi tugispetsialisti juurde.
+
+NTK's üks teistest võimekam õpilane oma vabal tahtel õppesessioonis tõuseb ja asub kaaslasi abistama. Lasen tal tegutseda enda abilisena aidates samaaegselt muid õpilasi.
+
+NTK's olen koostanud iga statsionaarse rühma õppijate jaoks individuaalse õppejärje, mis võimaldab igal õpilasel liikuda teadmiste ja oskuste ammutamises omas tempos. Aitan vaheldumisi eri õpilasi. Kui mitmel õpilasel on sama raskus, selgitan neile korraga.
+
+Kolmanda kooliastme matemaatika õppimiseks olen koostanud astendamise[@a2025_astendaminedocx], üksliikmete[@a2025_ksliikmed7docx] ja võrrandite[@a2025_vrrandid7docx] erineva variatsiooniga harjutusülesanded ja testid.
+
+Tegevusnäitaja:
+
+> kaasab ja teeb koostööd tugispetsialistide ning kolleegidega abi- ja toetusvajaduse väljaselgitamisel (vajadusel õppija individuaalse arengu kaardi täitmine, arvestades tema eripära arengu dünaamikat), õppe- ja arendustegevuse planeerimisel ning rakendamisel (sobiva õppemetoodika ja -vormi leidmine, õppe jõukohastamine, õppematerjalide kohandamine, abivahendite rakendamine, individuaalse õppe korralduse kava planeerimine, individuaalse õppekava ja/või käitumise tugikava koostamine).  
+
+Kuna kõik õpilased on erinevad, siis on neil ka erinevad õpivajadused. Olen jõudnud pärast aastatepikkust õpetamist suurtes rühmades individuaalsete plaanide koostamise ja järgimiseni. Alustan kõigiga samal tasemel. Juba esimesel või teisel korral viin läbi lühitesti, mille põhjal selgub, kellel on teemasse vaja rohkem süübida, kes võib juba järgmise teema võtta. Vastavalt sellele annan iga õppesessiooni alguses õpilastele vastavalt plaanile ülesanded. Kõige edukamatega jätkan tahvli abiga. Vahel on tahvli abi vaja ka muude õpilaste jaoks.
+
+Kui koolis on tugispetsialiste, siis suhtlen nendega, et arutada konkreetsete õpilastega toimetulemist. Igas koolis pole ja nii tuleb oma jõuga või rühmajuhi abiga toime tulla. Tugispetsialistil on üldiselt info probleemsete õpilaste kohta. Kuna ma ei ole eripedagoog ega taotle ka selleks saamist, siis võtan vaid nii palju enda kanda, kui suudan olles mitteeripedagoog, et teatud õpilast aidata. Olen õppinud, et üldharidussüsteemis võidab õigus õigluse, sest see pole optimaalne süsteem ja kõiki õpilasi aidata ei saagi, ega tohigi oma õpitut raisata, kui on olemas neid, kes sellest võiksid profiteerida. Seega, kui mulle öeldakse, et ainuüksi kohalkäimise eest tuleb *3* panna, siis ma seda teen kirjutades kommentaariks, et see ei näita õpiväljundite saavutatust.
+
+NTK's suhtlen psühholoogiga iganädalaselt ning see on kasulik nii õpilaste analüüsi ja soovituse kui temale eesti keele harjutamise seisukohalt.
+
+Vahel tekib mus tunne, et on vaja teatada midagi õpilase hooldajale. Siis teen seda. Vahel võtab hooldaja minuga otse ühendust. Siis vestleme. Minu siht on konsensus. Ilma selleta ei toimu tõhusat õppimist. Vaja on, et kõik asjaosalised saaksid ühtmoodi aru. Selleks palun vajadusel ühist koosolekut, milles osalevad õpilane, tema hooldaja, mina, õppejuht, direktor.
+
+KG's oli mul üks düslektikust õpilane, kellele soovitati minimeerida ülesande tekst, kasutada võimalikult palju visuaale ja teha tekst suuremaks kui teistele õpilastele, mida võtsin arvesse.
+
+NTK's on minu juhendamisel tekkinud väiksemad õpirühmad, kuna kasutan individuaalset õpijärgimist. TVW's on nagunii minu juhendada väikesed rühmad õpilasi.
+
+Eri tüüpi õppijate toetamiseks olen loonud nii loetavaid kui audiovisuaalseid juhiseid.
+
+Õpilaste jaoks, kes pole mõistnud osamäära, olen võtnud abiks ristkülikutega jooniste tegemise, et näidata osa ja tervikut ning muutust. Positiivsete ja negatiivsete arvude liitmise puhul esitan analoogi veekoguga, milles veetase on 0, negatiivsed arvud veepinna all ja positiivsed arvud veepinna kohal. Algoritmi või pseudokoodi järgimiseks kasutasin õpilastega kaarobikive. Keemiaõppes olen läbi viinud eksperimente, et õpilased ei jääks ainult abstraktse ettekujutusega. Füüsikaõppe ilmestamiseks olen välja trükkinud kolmemõõtmelisi abivahendeid.
+
+Kui õpilane soovib saada testitud muul moel kui sellel, mille olen ette näinud, võtan seda võimalusel arvesse. Nt kui õpilane ei soovi tahvlile lahendada, vaid paberile, siis saab ta seda teha.
+
+NTK's on õpilasi, kes ei saa või soovi koolimajas õppida, ja on palunud iseseisvat õpet, ning neid olen aidanud korraldades neile lugemist ja harjutamist kodustes tingimustes. Samuti olen koostanud teste õpilastele, kes keelduvad kontaktsessioonis testimises osalemast. Vahel on mind selleks ka suunatud, nt NTK's õppejuhi poolt
+
+TVW's kutsusime kokku koosoleku
+
+GK's sõlmisime arenguvestluses kokkuleppe, et väisan õppejuhi õppesessioone saades niimoodi kogeda, kuidas tema õpetab ja kuidas õpilased tema juhendamise all käituvad[@a2024_arenguvestlus]. Ühtlasi olen temaga arutanud, miks ja kuidas ta teatud vahendeid kasutab, ning tagasisidestanud. Sama koolis on mul mentor. Ka PLP's ja KG's oli mul mentor. NTK's olen nõustanud väiksema õpetamiskogemusega eesti keele õpetajat.
+
+Kui õpilane minu õpetatavas valdkonnas ei edene, siis uurin, kuidas ta edeneb muudes valdkondades. Kui selgub valdkond, milles ta edeneb, siis püüan lõimida seda valdkonda enda õpetatavasse valdkonda. Nt on mul füüsika ja keemia õppes õpilane, kes vihkas matemaatikat. Ühtlasi on ta lummatud muusikariistade kasutamisest. Seega püüdsin füüsikaülesandeid seostada muusikainstrumentidega.
+
+Tegevusnäitaja:
+> koostöös lapsevanematega toetab ja suunab õppijat.  
+
+Kui PLP's ilmnes probleem ühe õpilasega, organiseerisime koosoleku, milles osalesime nii õpilane, tema isa, mina kui direktor ja õppejuht, ning arutasime, kuidas õpilast aidata. TVW's korraldasime minu juhendatavate õpilaste aitamise jaoks koosoleku, milles osalesin koos mõlema klassijuhataja, tugispetsialisti ja lapsevanematega[@a2024_20240523_10]. Leppisime kokku suvise õpilaagri ja viisime selle läbi. EV's kaebasid minu tegevuse peale lapsevanemad õppejuhile. Kuigi soovisin nendega otse asja arutada ja neile selle soovi ka avaldasin, ei soostunud minuga mitte ükski lapsevanem vestlema.
+
+### Koostöise õppija kujundamine
+
+Tegevusnäitaja:
+
+> toetab sotsiaalsete ja koostööoskuste arengut[@pilase].  
+
+Olen lasknud õpilastel valmistada konkreetse teema kohta tutvustuse, misjärel seda reflekteerinud.
+
+Tegevusnäitaja:
+
+> töötab koostöös õppija(te)ga välja ühistel väärtustel põhinevad kokkulepped.  
+
+Kursuse või kursuste puudumisel õppeaasta alguses alustan enda reeglite teavitamisest, misjärel soovin õpilastelt tagasisidet ning kui kellelgi on ettepanekuid reeglite muutmiseks, siis arutame ja kui jõuame konsensuseni, muudame[@a2025_matkesimeseendatehtudprogramminijavaspptx].
+
+Tegevusnäitaja:
+
+> suunab õppijaid üksteisega arvestama ja üksteist toetama, võttes arvesse rühmaprotsesse ja -dünaamikat[@a2025_rhmat].  
+
+Sotsiaalsete ja koostööoskuste arengut on lihtne toetada tennises, milles suunan õpilasi arvestama üksteisega paarismängus või koostöö harjutuses. Ka n-ö pehmetes teemades teen seda aegajalt suunates õpilasi ühisesse arutellu. Hiljuti viisin läbi teadmiste-oskuste testimise, milles testitavad võisid omavahel arutleda, kuid muude abivahendite kasutamine polnud lubatud. Õppija, kes arvas enne testimist, et viib kaasõpilase hinde alla, hoopis aitas oma mõtetega kaasõpilast ja tõstis seda.
+
+Olen korraldanud rühmiti teadmiste-oskuste testimist looduses, milles kõik abivahendid lubatud.
+
+Tegevusnäitaja:
+
+> toetab ühtsustunnet rühmas ja haridusasutuses.  
+
+Ühtsustunde toetamine võib olla nii positiivses kui negatiivses võtmes. Nt kui on distsipliiniprobleem, et õpilased on niivõrd hoos pausi tegevustega ja lärmakad, et me ei saa õppesessiooni alustada, siis olen sellistes juhtudes lasknud õpilastel rahuneda ja öelnud, et alustame siis, kui viimne kui üks õpilane on vaikne ning kõik on seda samaaegselt.
+
+## Õpi- ja õpetamistegevuse kavandamine
+
+### Õpetaja töö kavandamine
+
+Tegevusnäitaja:
+
+> seab õppija(te)st lähtuvalt pika- ja lühiajalised õpieesmärgid, valib sisu ning kavandab tegevused, arvestades õppekava; lähtuvalt eesmärkidest valib õpetamiseks, õppimiseks ja tagasisidestamiseks sobivad meetodid.  
+
+Õppijakesksete õpieesmärkide seadmine, sisuline ja metoodiline kavandamine ning paindlike õpetamisviiside kasutamine aitab luua **tõhusa, kaasava ja toetava õppekeskkonna**, kus iga õppija saab areneda vastavalt oma võimetele. Õppijate vajaduste ja õppekava nõuete tasakaalustamine võimaldab mul pakkuda mitmekesist ja arendavat õppimist, mis toetab **nii akadeemilist edu kui ka sotsiaalsete ja enesejuhtimisoskuste arengut**.
+
+Tegevusnäitaja:
+
+> koostab koostöös teiste spetsialistidega vajadusel individuaalse õppekava, käitumise tugikava ja/või arenduskava, arvestades hariduslike erivajadustega õppija toetamise põhimõtteid ning õppijate igakülgset arengut.  
+
+Individuaalse õppekava, käitumise tugikava ja arenduskava koostamine on oluline osa **õppijate mitmekülgse arengu toetamisest**. Läbi koostöö tugispetsialistide, kolleegide ja lapsevanematega loon õppijale **kohandatud ja tõhusa õpikeskkonna**, mis toetab tema akadeemilist, sotsiaalset ja emotsionaalset arengut. Paindlik ja õppijakeskne lähenemine aitab tagada, et iga õppija saab areneda oma võimete piires ning saavutada **edu ja enesekindluse** õppimise teel.
+
+### Õpivara valimine, kohandamine või koostamine
+
+Tegevusnäitaja:
+
+> valib õpivara hulgast õpieesmärkide ning õppijate ja rühma tasemele sobiva; märkab õpivara puudusi ja teeb organisatsiooni (aine)valdkonna juhtidele ettepanekuid õpivara kohandamiseks ja koostamiseks.  
+
+Kui alustan kursust või õppeaastat, siis vaatan esmalt, mis on õppekavas kirjas, kui selle kohta, mida õpetan, on õppekava. Võtan õppekavast õpiväljundid ning teen skeemi, milles on sõltuvussuhted õpiväljundite vahel. Kaalun iga õpiväljundi vastavalt Bloomi taksonoomiale[@blooms]. Pikaajaline õpieesmärk on seega kõige selle saavutamine, mis on õppekavas ette nähtud. Lühiajalised eesmärgid on vastavad õpiväljundid. On esinenud olukordi, milles soovitatakse vältida õppekava ja mõelda, mida õpilastel päriselt vaja läheb. Siis olen lähtunud sellisest soovitusest.
+
+Valin alati õpivara ise, kui see pole sätitud paika tööandja või muud tüüpi lepingupartneri poolt.
+
+Kui märkan õpivara puudusi, pöördun esmalt õpivara autori või halduri poole, et temaga asjad korda ajada. Kui esineb liiga palju puudusi, mida ei likvideerita, siis teen ettepaneku organisatsiooni vastavale juhile õpivara muutmiseks, kui ma ise ei tohi seda muuta. Olen ka koostanud ise õpivara, mis on kõige tõhusam, sest saan seda muuta vastavalt vajadusele.
+
+Valin õppevara eelkõige lähtuvalt sellest, et see oleks kasutatav kõigile globaalselt tasuta. Kui see pole kõigile globaalselt tasuta kättesaadav, siis peab see olema ülihea, et ma selle kasutusse võtaksin, või siis eksisteerib lepingupartneri poolne nõue.
+
+Eestikeelsest veebiõppe varast olen kasutanud ja kasutan Opiq't[@a2024_opiq] matemaatika õpetamiseks ning Foxcademy't[@maanusindov_2025_foxcademy] matemaatika, füüsika ja keemia õpetamiseks.
+
+Kuna ma jälgin, mida staarharidustehnoloogid teevad, siis katsetan ka ise erinevat õpivara ja kui veendun, et sobib, siis võtan kasutusse, kui lubatakse[@nipitiridiginipid_2025_nipitiri].
+
+Mul on plaan teha iseõppe tarkvara, mis baseerub vaiksele õpetamisele. Sellest eesmärgist lähtuvalt tasapisi loon ka ise õppevara. Näited seitsmenda mata jaoks!! 
+
+[@veelmaa_2014_matemaatika]
+[@lepmann_2015_lesandeid]
+[@lepmann_2006_lesandeid]
+[@_2001_]
+[@kasema_1986_matemaatika]
+[@abel_2010_matemaatika]
+[@leemets_1990_eestivene]
+
+Tegevusnäitaja:
+
+> kohandab õpivara, arvestades õppijate vajadusi, võimalikke piiranguid, sh autoriõigusi, kättesaadavust, usaldusväärsust; otsib ja levitab digitaalset õpivara ja digitehnoloogiaid, mis võimaldavad tõhusalt saavutada õpieesmärke.  
+
+Õpetajana on minu eesmärk tagada, et kasutatav ja kohandatav õpivara vastab **õppijate vajadustele**, arvestab **õiguspäraseid piiranguid** ja toetab **õpieesmärkide tõhusat saavutamist**. Digitaalsete tööriistade ja õpivara otsimine, kohandamine ja levitamine aitab luua **kaasaegset, mitmekesist ja kaasavat õpikeskkonda**, mis toetab nii õppijate akadeemilist kui ka sotsiaalset arengut. **Koostöös kolleegidega** jagan tõhusaid praktikaid ja innovatiivseid lahendusi, et panustada kooli hariduskvaliteedi ühtlasesse arengusse.
+
+### Õpikeskkonna kujundamine
+
+Tegevusnäitaja:
+
+> kujundab füüsiliselt, vaimselt ja emotsionaalselt turvalise heaolu, tervist, arengut ja loovust toetava koostöise õpikeskkonna, lähtudes õppijate vajadustest ja õpieesmärkidest ning ühistest kokkulepitud väärtustest.  
+
+Hindan kõrgelt püüdlemist elu poole, milles elatakse õnnelikult, heaolus, külluses, rahulolus ja tervises. See algab keskkonna mõjust siia ilma sündinud inimesele. Kui too inimene kooli jõuab, on see mõjutus juba tehtud ja edasine mõjutamine omab väiksemat mõju. Kui õpilane veedab enamus aega väljaspool kooli, siis enamus aega saab ta mõjutusi väljaspool kooli. Nii palju kui võimalik soovin õpilase arengut lähtuvalt nimetatud eesmärkidest mõjutada koolis kujundades õpikeskkonna vastavalt.
+
+Tegevusnäitaja:
+
+> panustab organisatsiooni õpikeskkonna kujundamisse.  
+
+Võimalusel võtan osa õppenõukogu koosolekutest ja ütlen välja oma arvamuse. Väljendan ennast ka vastavalt vajadusele organisatsiooni poolt ette nähtud keskkondades toimuvates vestlustes, et tõhustada õpet.
+
+## Õpetamine
+
+### Õppija arengu toetamine
+
+Tegevusnäitaja:
+
+> märkab ja arvestab õppijate erinevaid huvisid, võimeid ja vajadusi (sh hariduslikke erivajadusi, kultuurilist eripära jm), tagades võimetekohase õppe.  
+
+Individuaalne õppekava tagab õpilasele sobiva õppimise tempo. Sõltuvalt kogemustest on õpilased kokku puutunud eri valdkondadega. Sõltuvalt geneetilisest päritolust on neil erinev võimekus. Siiski on oluline neid suunata nende kõige kiiremas arenemisjärgus, sest neil pole piisavalt teadmisi ja oskusi, millele tugineda oma valikutest.
+
+Oma õpetamistegevuses alatasa katsetan, mis toimib, mis mitte. Kui märkan, et mingi meetod millegi õpetamiseks kellelegi ei toimi, siis proovin mingit muud meetodit, kuni leian sellise, mis toimib, või siis ei leiagi.
+
+Tegevusnäitaja:
+
+> arvestab peamiste tunnetusprotsessidega (taju, tähelepanu, mälu, mõtlemine, täidesaatvad funktsioonid) õppija toetamisel.  
+
+Mõnel inimesel on võimsam mälu, mõnel võimsam mõtlemine. Kui mälu napib, on abiks, kui õpilane märgib ülesande lahendamises vahetulemusi sagedamini üles.
+
+Kui õpilane suudab keskenduda vaid lühikeseks ajaks, siis tuleb talle anda lühikesi ülesandeid. Sõltuvalt ülesandest võib ka siis juhtuda, et õpilane saab ülesandest haaratud ja ta tahab jätkata pikemalt.
+
+Tegevusnäitaja:
+
+> kogub andmeid õppijate arengu ja õppeprotsessi tõhususe kohta.  
+
+Õppijate arengu kohta ma üldiselt ülestähendusi ei tee, sest nende õpetamise kestel on mul alati ülevaade, kes on kuidas arenenud minu õpetamise kestel.
+
+Vahel olen esmase kogemuste kaardistamise jaoks kasutanud keskkonda, millesse õpilased saavad märksõnu sisestada[@creativeheroesnl_2024_answergarden; @creativeheroesnl_2024_answergarden_6]. Keskkonnale ligi saavad nad ruutkoodi kaudu, mille kuvan digitahvlile või projektoriga ekraanile, kasutades oma nutitelefoni.
+
+Õpilaste arengu jälgimiseks kasutan võimalusel selliseid digikeskkondi, kus selline jälgimine on võimalik[@learn; @plickers; @openproject]. Sellised tasuta kasutatavad keskkonnad on enamasti arvutiteaduse õppe jaoks.
+
+Tegevusnäitaja:
+
+> kasutab digitehnoloogiaid õppijate õppimisse kaasatuse suurendamiseks.  
+
+Kriiditahvlilt ei paista nii hästi kui digitahvlilt ja jooned pole nii sirged kui digitahvlil. Lisaks peab kriiditahvlit niisutatud lapiga puhastama, digitahvlil piisab kahest nupuvajutusest ning on võimalik ka tehtu suurust ja kuju muuta ning nihutada ja jupikaupa kustutada, samuti värvi muuta. Ka ei jää digitahvlit kasutades näpud kriidiseks. Ühtlasi pole ohtu, et markertahvli puhul kogemata püsimarkerit sai kasutatud. Digitahvli kasutamine hoiab kustutamise osas aega kokku. Kui ruumis on digitahvel, siis seda ikka kasutan. Kui on ka mittedigitahvel, siis vahel kasutan seda lisaks, et rohkem õpilasi oleks kaasatud. Nii kuvan ülesande nt digitahvlile ja keegi saab lahendada kriiditahvlile.
+
+Arvutiteaduses kasutame ohtralt sülereid, et iga õpilane saaks käed külge panna.
+
+Tegevusnäitaja:
+
+> personaliseerib õpiteid digitehnoloogiate abil.  
+
+Digitehnoloogiate abil personaliseeritud õpiteed võimaldavad mul õpetajana pakkuda **individuaalselt kohandatud, motiveerivat ja õppijakeskset õppeprotsessi**. Lähtudes õppijate vajadustest, huvidest ja võimetest, saan digivahendite abil pakkuda mitmekesiseid ja paindlikke õpikogemusi, mis toetavad õppijate **iseseisvust, vastutust ja enesearengut**. Personaliseeritud õpiteed loovad keskkonna, kus õppijad tunnevad end väärtustatuna ja saavad arendada nii akadeemilisi teadmisi kui ka eluks vajalikke oskusi, sealhulgas **digipädevusi ja eneseregulatsiooni**.
+
+### Klassi/rühma juhtimine
+
+Tegevusnäitaja:
+
+> loob teadlikult hooliva, kiusamisvaba ja koostöise õhkkonna (sh digikeskkonnas), lähtudes ühistel väärtustel tuginevatest kokkulepetest, õppija(te) individuaalsetest vajadustest, õpieesmärkidest ja kaasava hariduse põhimõtetest.  
+
+Kui osa õpilasi kipuvad häirima õpperahu, siis kutsun nad korrale selgitades õpperahu põhimõtet. Sõltuvalt koolist on sisse seatud süsteem, mis võimaldab õpetajal õpilase, kes ei rahune piisavalt kiiresti, saata iseseisvalt ülesannet lahendama tugispetsialisti juurde.
+
+Kui märkan, et õpilased omavahel nääklevad ja see häirib õppekeskkonda, siis uurin neilt, miks see nii on, ja kui on ajavaru, siis vestlen nendega ja suunan neid ühisele sobivale lahendusele. Kui mul seda ajavaru pole, kaasan tugispetsialisti või rühmajuhi.
+
+Tegevusnäitaja:
+
+> loob turvalise ja tervist toetava õpikeskkonna, tegutseb esmaabi vajavas situatsioonis sobival viisil.  
+
+Valin õpivahendid selliselt, et nende kasutamine oleks piisavalt turvaline. Kui on vajalik kasutada ohutusabinõusid, siis neid eelnevalt selgitan õpilastele ja kontrollin, et nad on aru saanud, enne kui vastava tegevusega alustame.
+
+Tegevusnäitaja:
+
+> juhib klassi/rühma, arvestades grupi arengufaase.  
+
+Julgustan õpilasi vahel arutlema ühiselt. Vahel jaotan õpilased väikestesse rühmadesse üheskoos lahendama. On õpilasi, kes ei soovi muu õpilasega koos lahendada ning sellistel õpilastel võimaldan individuaalselt lahendada.
+
+Rühma areng algab rühma loomisest ning kestab läbi rühma liikmete üksteisega arvestamise.
+
+Tegevusnäitaja:
+
+> märkab ja ennetab konflikte, leiab tõhusaid lahendusi ning vajadusel kaasab kolleege, õppijaid, lapsevanemaid ja tugispetsialiste  
+
+Pakun õpilastele välja, et kõik saame etteantud piirides läbi rääkida. Konflikti korral on oluline ühekorraga konsensuseni läbi rääkida kõigil asjaosalistel, mitte eraldi tagaselja.
+
+Et hindamine oleks läbipaistev, selgitan kursuse või õppeaasta alguses hindamissüsteemi ja teatan igast muudatusest ette. Kujundan hindamise selliseks, et see oleks mitte ainult õige, vaid ka õiglane.
+
+Õpilase hoolsus kajastub sagedastes lühitestides hinnetena ja sõnalise tagasisidena. Kui õpilasel on tähtaegselt sooritus tegemata, siis sõltuvalt õppesüsteemist märgin selle kas tegemata ülesandeks või lisan märkuse, et ennetada arusaamatusi hilisema mitteaktsepteeritud sooritust kajastava hinde suhtes.
+
+### Õppimise toetamine
+
+Tegevusnäitaja:
+
+> õpetab, lähtudes õppija eripärast, seatud eesmärkidest, õpiväljunditest ja ainetevahelisest lõimingust, kasutades erinevaid õppevorme ja -meetodeid toetamaks õppijate õpi- ja ainealaste oskuste arengut, järgides kaasava hariduse põhimõtteid.  
+
+Iga õppija on eriline. Kui rühmas on palju õppijaid, siis igaühega eraldi arvestada ei ole otstarbekas. Rühm peaks koosnema ühtlase tasemega õpilastest. Siiski üldharidussüsteemis pole õpetajal midagi parata, kui talle on juba rühm moodustatud. Ometi saab teha korrektuure sõltuvalt kooli võimalustest. Nt saab moodustada eraldi õpperühmi mingis valdkonnas andekatele või mahajääjatele. Mina tekitan alates esimesest lühitestist individuaalse plaani ning kohandan seda sõltuvalt järjepidevate lühitestide tulemustest. Selles plaanis on sihiks õppeeesmärgid, mille võib saavutada rohkemate või vähemate vahetegevuste kaudu vastavalt õpilase vajadustele.
+
+Võimalusel ilmestan õpiteemat lõimides muude valdkondadega. Leian, et tõhus on esmalt selgitada juppi teooriat, misjärel selle mõistmiseks ja kinnistamiseks lahendada hulganisti ülesandeid ning lõpuks võimalusel kontrollida teooriat praktiliselt. Vahel teen ka vastupidi lastes õpilastel avastada teooria, kuid see ei sobi kõigile.
+
+Üks kord on mul ette tulnud, et rühmas on õpilane, kes liigub ainult ratastoolis. Tema puhul tuli arvestada, et ta saaks kõiki tegevusi sooritada oma kohal.
+
+Paaril õpilasel on olnud probleeme heleda ekraanivalgustusega. Oleme lahendanud kas muutes taustavalgustust või õpilane on kasutanud vastavaid kaitseprille.
+
+Kui õpilane on muidu hoolas ja huviga õppetegevuse juures, aga tempo on väike ja lahendamiseks kulub palju aega, on juhtunud, et ta varsti enam ei oska selliseid ülesandeid lahendada, mida ta alguses oskas lahendada. Sellistes juhtudes on mõistlik teha paus, vaheldada tegevusi.
+
+Tegevusnäitaja:
+
+> analüüsib õpetamist ning kohandab tegevusi ja keskkonda paindlikult, arvestades õppijate (liikumis)vajadusi; tagab vajaliku toe ja analüüsib tugimeetmete toimet koostöös teiste spetsialistidega.  
+
+Tugispetsialistile on üldiselt teada, kellel milline probleem on, ja ta mulle kui õpetajale sellest teavitab andes ühtlasi üldisi soovitusi, mida võimalusel arvestan.
+
+### Õpimotivatsiooni toetamine
+
+Tegevusnäitaja:
+
+> toetab üldpädevuste arengut ja ennastjuhtiva õppija kujunemist, suunates õppijat õpieesmärkide seadmisele ja eneseanalüüsile  
+
+Arvutiteadust õpetades kasutan projektihalduse tarkvara, millest õpilased vaatavad endale ülesandeid, milles peavad järge ja millesse raporteerivad ajakulu[@openproject].
+
+Matemaatikat õpetades kasutan iga õpilase individuaalset järge. Kui õpilasel on miski ebaselge, siis annan talle selle teema kohta selgitavat teksti lugeda ja ülesandeid lahendada iseseisvalt või rühmakaaslasega koos. Kui ta tunneb, et tal on teema selge, testime. Olen ka andnud ühe õpilase sooritust teisele hinnata või lasta õpilasel ise hinnata oma sooritust.
+
+Tegevusnäitaja:
+
+> toetab õpimotivatsiooni, pakkudes õppeprotsessis valikuid, elulisi jõukohaseid õppeülesandeid, luues eduelamuse igale õppijale.  
+
+Oluline on, et õppimine oleks ühtlasi jõukohane ja väljakutsuv. Et õppimine oleks jõukohane, peavad õppimiseks olema täidetud eeldused: sobilik õppekeskkond, sobilikud vahendid, null lünka vajalikes teadmistes-oskustes. Et õppimine oleks väljakutsuv, ei tasu liiga palju selliseid ülesandeid lahendada, mida nagunii osatakse lahendada, sest see muutub tüütuks, vaid võtta juurde selliseid, mille lahendamine ei kulge automaatselt. Selliseid väljakutsuvaid ülesandeid tuleb lahendada, kuni lahendamine muutub automaatseks.
+
+### Digitehnoloogiate mõtestatud kasutamise toetamine
+
+Tegevusnäitaja:
+
+> suunab õpilasi rakendama info otsimisel, suhtlemisel ja sisuloomes digitehnoloogiaid.  
+
+Arvutiteaduse õppes käsitleme info otsimist digitehnoloogiate abil.
+
+Muudes valdkondades lasen aegajalt õpilastel nutitelefoniga otsida vastuse küsimusele. Vahel tuleb seejuures selgitada, kuidas küsida ja kust küsida, et saada võimalikult usaldusväärne vastus.
+
+Tegevusnäitaja:
+
+> korraldab klassis/rühmas digitehnoloogiate mõtestatud kasutamist individuaalsel ja koostöisel õppimisel, sh probleemide lahendamisel.  
+
+Arvutiteaduses rakendame digitehnoloogiaid mõtestatult alatasa. Muudes valdkondades teeme seda vastavalt vajadusele ja sobivusele.
+
+### Tagasisidestamine ja arengut toetav hindamine
+
+Tegevusnäitaja:
+
+> rakendab süsteemselt erinevaid õppimist toetavaid tagasisidestamise ja hindamise viise, sh digitehnoloogiaid, lähtudes õppija eripärast ja hindamist reguleerivatest dokumentidest.  
+
+Tagasisidestan õpilastele alatasa. Sageli viin läbi lühiteste, millest saame selgust õpiväljundi saavutatuse osas. Õpilane saab hinde, mida on võimalik parandada järgmises lühitestis. Hindele lisandub kommentaar soorituse kohta vajadusel koos soovitusega.
+
+Tegevusnäitaja:
+
+> koostab hindamismudeleid/-kriteeriume ja hindab õppijaid nende alusel  
+
+Hindamismudelite koostamises olen laisk. Küll aga koostan hindamiskriteeriume. Teatan õpilastele, mis on vaja sooritada ja kuidas ma sooritusi hindan.
+
+Tegevusnäitaja:
+
+> toetab õppijaid enesehindamisoskuste arendamisel.  
+
+Olen lasknud õpilastel oma sooritust ise hinnata ja seejärel minu hindamisega võrrelda.
+
+Tegevusnäitaja:
+
+> lepib õppijate ja lapsevanematega kokku tagasisidestamise põhimõtted ja korralduse  
+
+Tagasisidestamise reeglid olen tutvustanud kursuse või õppeaasta alguses ning andnud võimaluse teha muudatusettepanekuid. Vahel on tulnud reegleid muuta ja siis olen muutustest ette teatanud.
+
+## Refleksioon ja professionaalne enesearendamine
+
+### Õpetaja oma töö reflekteerimine ja enesearendamine
+
+Kasutan digikeskkondi igapäevaselt ja peamiselt nende kaudu õpingi.
+
+Tegevusnäitaja:
+
+> reflekteerib oma tööd, sh analüüsib oma õpetamise mõju, kasutades erinevaid meetodeid, kaasates kolleege ja osaledes õpikogukondades, sh virtuaalsetes.  
+
+Õpetamise mõju analüüsin selle järgi, kuidas mingi kasutatud meetod on millegi õppimiseks kellegi jaoks toiminud. Edulugusid jagan kolleegidega ja muudegi inimestega.
+
+Tegevusnäitaja:
+
+> kogub pidevalt tagasisidet õppijate õpitegevuste ning -tulemuste kohta ning sellest lähtuvalt kavandab muudatusi õpetamis- ja kasvatusprotsessis.  
+
+Kaardistan õpilaste teadmisi ja oskusi järjepidevalt. Selle kaardistuse põhjal tean, kus keegi oma järjega on ning vastavalt teadmistele ja oskustele saan moodustada õppekooslusi.
+
+Tegevusnäitaja:
+
+> koostab enda professionaalse arengu kava ja määratleb õppimisvajaduse, arvestades ka haridusasutuse arenguvajadusi ja riiklikke haridusprioriteete.  
+
+Minu praegune plaan on saada piisavalt pädevaks õpetamaks kõiki loodusteadusi, matemaatikat, arvutiteadust ja tennist. Kui matemaatika, arvutiteaduse ja tennise puhul on mul vajalik baas olemas, siis loodusteaduste osas alustasin süvaõppimist kõrgkoolis. Ühtlasi osalen kohustuslikes õpetajakoolitustes ja valikuliselt nendes, mis haakuvad minu missiooniga.
+
+Tegevusnäitaja:
+
+> kasutab digikeskkondi enda professionaalseks arendamiseks  
+
+**Digikeskkondade kasutamine professionaalseks arenguks** on tänapäeva õpetajatöö lahutamatu osa, mis võimaldab mul pidevalt täiendada oma teadmisi ja oskusi. Digitaalsed tööriistad ja virtuaalsed õpikogukonnad pakuvad paindlikke ja mitmekesiseid võimalusi **õppimiseks, koostööks ja eneseanalüüsiks**. Osalemine veebikursustel, virtuaalsetes foorumites ja professionaalsetes võrgustikes aitab mul hoida oma õpetamispraktika **ajaga kaasas** ja rakendada uuenduslikke lahendusi õppetöös. Digikeskkondade abil saan süstemaatiliselt jälgida oma **professionaalset arengut**, reflekteerida oma tööd ja panustada hariduse kvaliteedi tõstmisesse nii koolis kui ka laiemalt haridussüsteemis.
+
+### Õpetamise ja õppimise uurimine ning pedagoogilise teadmuse levitamine
+
+Tegevusnäitaja:
+
+> analüüsib ja tõlgendab haridusuuringute tulemusi ning rakendab neid oma töös.  
+
+Loen aegajalt teadusartikleid õppimise tõhustamise kohta ning kui on välja selgitatud mingi tõhus meetod, siis katsetan seda oma õpilaste peal.
+
+Tegevusnäitaja:
+
+> viib läbi tegevusuuringuid klassi/rühma tasandil, analüüsides õpiprotsessi, määratledes probleemid, kogudes tõendeid praktikast.  
+
+Õpilaste rühmad on sobilik katselabor õppemetoodika testimiseks. Üldiselt alustan meetoditest, mis on mul varem toiminud, ja kui näen ebakõla, siis proovin midagi muud.
+
+Tegevusnäitaja:
+
+> jagab tõenduspõhist teadmust kolleegidega.  
+
+Edulugusid jagan kolleegidega ja muude inimestega.
+
+### Oma füüsilise, vaimse ja emotsionaalse heaolu tagamine
+
+Tegevusnäitaja:
+
+> jälgib, hindab ja väärtustab oma füüsilist, vaimset ja emotsionaalset tervist, tegutseb nende tasakaalus hoidmise nimel.  
+
+Pean enda tervist oluliseks, sest kui olen ise korras, saan aidata teisi. Füüsilise tervise korrashoiuks annan kehale piisavalt aeroobset ja anaeroobset koormust, toitun võimalikult keha-, aga ka vaimusõbralikult, tegelen enda jaoks meeldivate ja huvitavate tegevustega, kasutan meeldivaid ja kasulikke vahendeid.
+
+Tegevusnäitaja:
+
+> otsib probleemide tekkimisel vajadusel abi kolleegidelt, mentorilt, juhtkonnalt, tugispetsialistilt jt  
+
+Üldiselt püüan ise hakkama saada. Kui mul on mentor, siis aegajalt suhtlen temaga. Seiran teiste õpetajate õppesessioone ja vaatan, kuidas nemad toime tulevad. Arutan kolleegidega probleemseid situatsioone. Pakun lahendusi kolleegile ja saan abi kolleegilt.
+
+## Koostöö ja juhendamine
+
+### Kaasamine
+
+Tegevusnäitaja:
+
+> loob õppija ja lapsevanematega usaldusliku suhte.  
+
+Õppimine saab toimuda vastastikusel usaldusel.
+
+Tegevusnäitaja:
+
+> algatab ja teeb osapooltega (õppija, lapsevanem, kolleeg, tugispetsialist, kogukond jt) koostööd õppija arengu toetamiseks: kaasab aruteludesse, õppeprotsessi, haridusasutuse algatustesse ja tegevustesse.  
+
+Vajadusel arutlen õppija toetamist tugispetsialistiga ja rühmajuhiga, vahel õppejuhiga.
+
+Tegevusnäitaja:
+
+> teavitab õppijaid ja lapsevanemaid õppekavast, õppe korraldusest, õpetamise ja õppimise põhimõtetest, väärtustest, selgitab osapooltele haridusvaldkonna uuendusi.  
+
+Õppe korraldusest teavitan asjaosalisi kohe õppe alguses ja vahetult pärast muutmist.
+
+### Lapsevanema nõustamine õppimise valdkonnas
+
+Tegevusnäitaja:
+
+> annab õppija edenemise kohta tagasisidet õppijale ja lapsevanematele  
+
+Õpilane saab tagasisidet vahetult õppesessioonis ja testimiste põhjal, mille järgselt näeb seda infot ka lapsevanem.
+
+Tegevusnäitaja:
+
+> kaasab aktiivselt lapsevanemaid õppija arengut puudutavate otsuste tegemisse ja nende rakendamisse, sh kodustes õppetegevustes haridusasutusest saadava info alusel.  
+
+Kuna õpilane veedab väljaspool kooli rohkem aega kui koolis, siis on oluline, et kodune keskkond õppimist soodustaks.
+
+Vajadusel teavitan lapsevanemat probleemist ja kutsun arutellu.
+
+Vajadusel põhjendan oma otsuseid lapsevanemale.
+
+Tegevusnäitaja:
+
+> juhendab lapsevanemaid õppimist toetava kodukeskkonna loomisel ja õppija õpioskuste arendamisel.  
+
+**Lapsevanemate juhendamine õppimist toetava kodukeskkonna loomisel ja õpioskuste arendamisel** on õpetajatöö oluline osa, mis aitab kaasa õppija **akadeemilisele, sotsiaalsele ja isiklikule arengule**. Läbimõeldud koostöö lapsevanematega loob tingimused, kus õppija saab **järjepidevat ja mitmekülgset toetust** nii koolis kui ka kodus. Õpetaja roll on pakkuda lapsevanematele **praktilisi juhiseid ja strateegiaid**, mis aitavad kujundada positiivset õpikeskkonda ja toetada lapse eneseregulatsiooni, õppimisoskusi ning motivatsiooni. Selline koostöö aitab luua **ühtse ja toetava keskkonna**, mis toetab lapse **terviklikku arengut** ja loob aluse **elukestvale õppele**.
+
+Tegevusnäitaja:
+
+> jagab lapsevanematele tõenduspõhiseid õppimis- ja õpetamisalaseid materjale (artiklid, raamatud, veebimaterjalid jm).  
+
+**Tõenduspõhiste õppimis- ja õpetamisalaste materjalide jagamine lapsevanematele** on õpetajatöö oluline osa, mis toetab lapsevanemate **teadlikkust ja oskusi** lapse õpiteekonna toetamisel. Usaldusväärsete allikate ja praktiliste juhendite jagamine aitab luua **ühtse ja toetava kodu-kooli koostöö**, kus mõlemad osapooled töötavad koos õppija arengu nimel. Lapsevanemad saavad tänu jagatud materjalidele **konkreetseid tööriistu ja strateegiaid**, et toetada lapse **akadeemilist, sotsiaalset ja emotsionaalset arengut**. Selline teadlik ja tõenduspõhine lähenemine loob lapsele **järjepideva õpikeskkonna**, mis toetab tema **eneseregulatsiooni, õppimisoskusi ja elukestvat õppehoiakut**.
+
+### Õpikogukonnas tegutsemine
+
+Tegevusnäitaja:
+
+> tegutseb meeskonnaliikmena õpikogukonnas enda ja kolleegide professionaalse arengu ning selle kaudu õppija arengu toetamise eesmärgil.  
+
+Jagan enda edulugusid kolleegidega, arutan nendega enda ja nende probleeme, annan nõu, võtan nõu.
+
+## Arendus-, loome- ja teadustegevus
+
+### Erialase teadmuse arendamine.
+
+Tegevusnäitaja:
+
+> osaleb õpikogukondades ja koostöövõrgustikes erialase teadmuse arendamisel.  
+
+Füüsikaõpetajana saan erialaliidu e-kirju ja võtan osa nende korraldatavatest sündmustest.
+
+Tegevusnäitaja:
+
+> osaleb aine-/eriala populariseerivate sündmuste ja projektide läbiviimisel.  
+
+Populariseerivates sündmustes olen seni pigem osalenud kui korraldanud. Tennises olen siiski korraldanud hulganisti sündmusi. Arvutiteaduses olen korraldanud klubisid.
+
+### Haridusvaldkonna poliitika kujundamine ja arengu kavandamine.
+
+Tegevusnäitaja:
+
+> osaleb organisatsiooni arengut suunavate dokumentide koostamisel.  
+
+Soovin alati olla kaasatud organisatsiooni arengut suunavate dokumentide koostamises. Loen ettepanekud läbi ja kui mul on muutmisettepanekuid, siis teen neid.
+
+Tegevusnäitaja:
+
+> osaleb valdkonna ühenduste ja ekspertgruppide töös.  
+
+Füüsikaõpetajana olen osalenud erialaliidu sündmustes, kuid mitte korraldanud.
+
+Tegevusnäitaja:
+
+> annab sisendit ja tagasisidet eelnõudele, ettepanekutele, arengukavadele jm.  
+
+Kui mul on muudatusettepanekuid, teavitan nendest.

@@ -4,7 +4,7 @@ site: bookdown::bookdown_site
 colorlinks: TRUE
 author: "peacecop kalmer:"
 description: "õpetaja e-portfoolio"
-lang: en
+lang: et
 include-before:
     - \input{title-page.tex}
 title: "`r if (knitr::is_latex_output()) { '' } else { 'Õpetaja e-portfoolio' }`"
@@ -229,3 +229,16 @@ render_color <- function(color, text) {
 
 # Sissejuhatus {-}
 
+Lapsepõlves tahtsin saada ehitajaks või ühistranspordivahendi juhiks. Kuigi põhikoolis sundis matemaatikaõpetaja mind tagurlikule rühmakaaslasele, kellest hiljem sai Meistriliiga jalgpallur, oi, just märkasin, et hiljuti surnud, vannitoas kokku kukkunud, võimalik vaktsiinikahjustus vms, ei tea, igatahes ma õpetasin teda kooli garderoobis, ma siiski ei unistanud õpetajaametist. Olin matemaatikas äss, aga ainult kooliõppes. Osalesin ka matemaatikavõistlustes, kuid edutult. Keskkoolis oli meil majanduskallak ja selle järgi valisin oma esimeseks bakalaureuseõppeks samuti majanduse asudes kohe ka tennist õppima. Inimeste poolt välja mõeldud pseudoteadus kuivas minu jaoks kokku ja oma järgmise kraadi valmistasin juba mõnusas informaatikavaldkonnas, milles tegutsen siiani. Selles valdkonnas sain ka oma esimese kontoritöö kuupalga ja sooritasin kaks välispraktikat.
+
+Kui olin juba mitu aastat omaette elanud, meelitas naaber mu tennisetreeneri kursusesse, mille tulemuseks oli toonase I taseme treeneri kutsetunnistus. Asusin oma lemmikmängu õpetama teistele huvilistele. Kuna mu sihtgrupis oli palju vaeseid tudengeid, siis korraldasin trenne tihtilugu parklates. Magistriõpingu kõrvalt olin hakanud korraldama tennisevõistlusi. Alul olid need ülikoolisisesed, peagi juba üle-Eestilised üliõpilaste meistrivõistlused. Sekka sai korraldatud erilisi ajatennise turniire laiemale üldsusele. Üks õpilane veenis mind korraldama Harku meistrivõistlusi ja nii sai minust Harku tennise eestvedaja päris mitmeks aastaks. Kui olin endale selgeks teinud aerutennise võlud, viisin läbi ka aerutennise treeninguid.
+
+Aastaid hiljem meelitas üks muu tuttav mu Pärnu Saksa Tehnoloogiakooli õpetama arvutiteadust. Minust kui arvutiteaduse õpetajast saab lähemalt lugeda minu arvutiteaduse saidi Õpetaja lehelt[@_2025_sissejuhatus_arvutiteadus].
+
+Kui olin juba õpetanud nii tennist kui arvutiteadust nii eesti kui inglise kui saksa keeles, võtsin juurde matemaatikaõpetamise. Alustasin Tallinna Kunstigümnaasiumis (TKG) ja Peetri Lasteaed-Põhikoolis (PLP). Kired TKG's sundisid sealt lahkuma füüsikaõpetaja, kes asus mulle suunama üks-ühele-matemaatikaõpilasi. Edaspidi laiendasin oma üks-ühele-õpetamist veelgi ning praeguseks on mu kogemuste pagasis ka raamatupidamise, statistika, saksa ja prantsuse keele õpetamine. Matemaatikaõpetamises jõudsin välja täiskoormuseni Narva Täiskasvanute Koolis (NTK).
+
+Muutused mu maailma vaates viisid mu olukorda, mil ma tundsin, et ei mõista maailma piisavalt. Ühtlasi leidsin, et ühte kooli otsiti õpetajat, kes suudaks õpetada matemaatikat ja kõiki loodusteadusi nii põhi- kui keskkoolis. Leidsin, et selliseks õpetajaks on lausa võimalik Eestis õppida. Kui seni olin veendunud, et ma enam pikka õpingut ette ei võta ja õpetaja kutsetunnistust ka ei taha, siis nüüd astusin võimsa sammu asudes Tallinna Ülikooli (TLÜ) õppima integreeritud loodusteadusi. Pärast kolme semestrit õppimist avanes võimalus hakata läbi viima loodusteaduste klubi Edu Valemis (EV) ning samas koolis hakkasin uuest õppeaastast õpetama füüsikat ja keemiat. Minust kui füüsikaõpetajast saab lähemalt lugeda minu erialapraktika saidilt[@_2025_sissejuhatus], füüsika üldsaidilt[@_2021_sissejuhatus_looduseuurimine] ja maanika saidilt[@_2021_sissejuhatus_maanika]. Minust kui keemiaõpetajast saab lähemalt lugeda minu keemiasaidilt[@_2021_sissejuhatus]. Minust kui loodusteaduste klubi juhendajast saab lähemalt lugeda minu loodusteaduste klubi saidilt[@a2025_loodusteaduste].
+
+Tahan endale tekitada sellise pagasi, millega olen võimeline lõimitult õpetama kõiki loodusteadusi, arvutiteadust, tennist ja miks mitte ka neid keeli, milles inimesed omavahel suhtlevad, sest kahe sellise keelega olen juba algust teinud. Kõige selle juures on suur väljakutse nii paljude erinevate õpetatavate ja mitteõpetatavate õpilastega toime tulla. Selleks olen läbinud hulgaliselt koolitusi ja nüüd on täpne aeg taotleda kutsetunnistus ka muudes valdkondades kui tennis õpetamiseks. Järgnevatel lehtedel esitan oma täieliku CV ja kirjeldan lisatud tõenditega vajalikke kompetentse. Ega kõike tõendada ei saagi, sest andmekaitse, eks? Samuti pole ma kõike jäädvustanud, kuna ei pidanud varasemalt kutsetunnistust oluliseks. Eelkõige saan viidata enda loodule.
+
+Lõin selle portfoolio ekstra õpetajakutse tunnistuse taotlemise jaoks ning nüüd täiendan portfooliot pidevalt.
