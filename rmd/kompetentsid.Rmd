@@ -807,21 +807,51 @@ Tegevusnäitaja:
 
 > algatab ja teeb osapooltega (õppija, lapsevanem, kolleeg, tugispetsialist, kogukond jt) koostööd õppija arengu toetamiseks: kaasab aruteludesse, õppeprotsessi, haridusasutuse algatustesse ja tegevustesse.  
 
-Vajadusel arutlen õppija toetamist tugispetsialistiga ja rühmajuhiga, vahel õppejuhiga.
+Kõige enam suhtlen õppija toetamise osas õppijaga ja seda peamiselt oma algatusel. Lapsevanemaga ma üldiselt suhtlust ei algata. Vahel teeb ta seda ise ning siis edastan talle vajaliku teabe. Vajadusel arutlen õppija toetamist tugispetsialistiga ja rühmajuhiga, vahel õppejuhiga. Loomulikult kaasan õppija aruteludesse ja õppeprotsessi. Lapsevanemaga ja kolleegidega, kaasa arvatud tugispetsialistidega arutan, kuidas õppijat aidata.
 
 Tegevusnäitaja:
 
 > teavitab õppijaid ja lapsevanemaid õppekavast, õppe korraldusest, õpetamise ja õppimise põhimõtetest, väärtustest, selgitab osapooltele haridusvaldkonna uuendusi.  
 
-Õppe korraldusest teavitan asjaosalisi kohe õppe alguses ja vahetult pärast muutmist.
+Õppe korraldusest teavitan asjaosalisi kohe õppe alguses ja vahetult pärast muutmist päevikutarkvara kaudu.
 
 ### Lapsevanema nõustamine õppimise valdkonnas
 
 Tegevusnäitaja:
 
-> annab õppija edenemise kohta tagasisidet õppijale ja lapsevanematele  
+> annab õppija edenemise kohta tagasisidet õppijale ja lapsevanematele.  
 
-Õpilane saab tagasisidet vahetult õppesessioonis ja testimiste põhjal, mille järgselt näeb seda infot ka lapsevanem.
+Õpilane saab tagasisidet vahetult õppesessioonis ja testimiste põhjal, mille järgselt näeb seda infot ka lapsevanem. Vahel küsib lapsevanem minult edenemise kohta ja siis ma vastan talle, nt:
+
+> 
+...13. veebr kell 18:20
+Loovtöö
+Sõnumit näevad: ...Kalmer Piiskop
+Tere.
+Uurin, et kas Kristofer on loovtööga järje peal? Ta ise ütleb, et kõik on korras ja järje peal aga võib-olla vajab ta natuke ikka utsitamist.
+>
+Head,
+Katrin
+Arhiveeri
+Märgi lemmikuks
++
+1 vastus
+>
+Kalmer Piiskop 13. veebr kell 20:14
+Ta on olnud uskumatult asjalik seoses loovtöö projektiga. Kui ta põhisessioonides on enamasti laisk ja teeb heal juhul minimaalse, et saaks mingit kõrvalist mängu mängida, siis loovtöö osas on ta ise olnud algusest peale väga hoolas jälgija. Juba toimub automaatselt tema poolt meie koosoleku lisamine vastavalt kokkuleppele ja samuti aja muutmine ning kohalolijate märkimine.
+>
+Sisuosas on tal plaan, mida järgida. Kuigi kui ma nüüd vaatan, siis ta on kalendrisse küll märkinud, mida millal tegi, aga kulunud aega pole raporteerinud. Seda ma tuletan talle meelde. Plaani järgi peaks kirjeldus koosnema järgmistest osadest: arvutid, arvutikomponendid, tema komponendid, kokkupanek ja järeldus, millele lõpus lisanduvad sissejuhatus ja kokkuvõte. Nendest osadest on tal praegu olemas komponentide loetelu ja põgus selgitus koos allikalinkide ja piltidega. Soovitasin tal teha protsessist videod ning ühte nendest ma vaatasin ja see oli suurepäraselt tehtud: statiivilt, lühike ja selge, ei midagi ülearust, juures selgitus, mis kuhu tuleb panna. Arvasin, et mul tuleb selles osas talle oluliselt nõu anda, kuid seda ta paistab olevat juba varem harjutanud. Nüüdseks peaksid tal videod tehtud olema ja ta peaks tegelema muude peatükkide loomisega. Märtsis saab ta kõik ära vormistada ja siis tegeleme põhisessioonis ka viitamisega, misjärel saab ta ka allikaviited korda.
+
+Üks-ühele eraviisiliselt õpetades tagasisidestan lapsevanemale või muule hooldajale vahetult päeva viimase sessiooni järel kohapeal või kui toimub veebi kaudu, siis pärast päeva viimast veebisessiooni meilitsi või telefoni lühisõnumina, nt:
+
+>  Sunday, 30 January 2022 · 20:58 
+Reedes tegelesime põik-, lähis- ja tippnurkadega, samuti käsitlesime trapetsit. Ta haaras seda uut infot lennult ja tal polnud raskusi ülesannete lahendamisega. Alul küll oli tal segadus, millest sai kiiresti üle. Olen põnevil, milline teema talle raskusi valmistab. Esimesest sessioonist see välja ei paistnud.
+>
+Pakun välja, et tegelen temaga kord nädalas ja kui on mingi raskus tal millegagi, siis sagedamini. Järgmises nädalas mul kellaajalisi piiranguid ei ole, nii et võime teha millal iganes. Edaspidi olen TLÜ's E 1515-1830, T 0815-1745, K 1215-1730, N 1215-1545, R 1015-1345. Nädalati see plaan pole ka koherentne. Seekord me tegutsesime ühes koridori nurgas, kus laud ja istumisvõimalus, kasutasin oma arvutit ja lampi. Edaspidi saan üliõpilasena broneerida individuaaltöö ruumi õpikeskuses, mis on ainult iga kuu viimases reedes suletud. Ka järgmises nädalas võime TLÜ's teha. Sander ütles, et tal olevat tunniplaani muudetud, nii et ma nüüd ei tea, mis talle sobib. Jään sult infot ootama.
+20:58
+·
+SMS
+Tänan tagasiside eest! Sanderile sobib kolmapäev kell 16.00. Anna palun teada kuidas see aeg sobiks. 
 
 Tegevusnäitaja:
 
@@ -837,13 +867,13 @@ Tegevusnäitaja:
 
 > juhendab lapsevanemaid õppimist toetava kodukeskkonna loomisel ja õppija õpioskuste arendamisel.  
 
-**Lapsevanemate juhendamine õppimist toetava kodukeskkonna loomisel ja õpioskuste arendamisel** on õpetajatöö oluline osa, mis aitab kaasa õppija **akadeemilisele, sotsiaalsele ja isiklikule arengule**. Läbimõeldud koostöö lapsevanematega loob tingimused, kus õppija saab **järjepidevat ja mitmekülgset toetust** nii koolis kui ka kodus. Õpetaja roll on pakkuda lapsevanematele **praktilisi juhiseid ja strateegiaid**, mis aitavad kujundada positiivset õpikeskkonda ja toetada lapse eneseregulatsiooni, õppimisoskusi ning motivatsiooni. Selline koostöö aitab luua **ühtse ja toetava keskkonna**, mis toetab lapse **terviklikku arengut** ja loob aluse **elukestvale õppele**.
+Arvutiteaduse õppes kasutame vahel Code.orgi, millest saab lapsevanematele trükkida juhise, kuidas luua õppimist toetav kodukeskkond, ning igale õpilasele, kes esimest korda Code.orgi siseneb, annan selle kirjaga lehe kaasa[@a2019_codeorg].
 
 Tegevusnäitaja:
 
 > jagab lapsevanematele tõenduspõhiseid õppimis- ja õpetamisalaseid materjale (artiklid, raamatud, veebimaterjalid jm).  
 
-**Tõenduspõhiste õppimis- ja õpetamisalaste materjalide jagamine lapsevanematele** on õpetajatöö oluline osa, mis toetab lapsevanemate **teadlikkust ja oskusi** lapse õpiteekonna toetamisel. Usaldusväärsete allikate ja praktiliste juhendite jagamine aitab luua **ühtse ja toetava kodu-kooli koostöö**, kus mõlemad osapooled töötavad koos õppija arengu nimel. Lapsevanemad saavad tänu jagatud materjalidele **konkreetseid tööriistu ja strateegiaid**, et toetada lapse **akadeemilist, sotsiaalset ja emotsionaalset arengut**. Selline teadlik ja tõenduspõhine lähenemine loob lapsele **järjepideva õpikeskkonna**, mis toetab tema **eneseregulatsiooni, õppimisoskusi ja elukestvat õppehoiakut**.
+Nimetatud Code.orgi lapsevanemale mõeldud kirjas viidatakse jutule, milles mainitakse kuut uuringut, mille järgi arvutiteadust õppivad õpilased saavad muude valdkondade õppimisega paremini hakkama[@codeorg_2021_cs].
 
 ### Õpikogukonnas tegutsemine
 
@@ -852,6 +882,12 @@ Tegevusnäitaja:
 > tegutseb meeskonnaliikmena õpikogukonnas enda ja kolleegide professionaalse arengu ning selle kaudu õppija arengu toetamise eesmärgil.  
 
 Jagan enda edulugusid kolleegidega, arutan nendega enda ja nende probleeme, annan nõu, võtan nõu.
+
+Pärast minu õpetajate õpirännet lõimitud keele ja sisu teemal tegin Audenteses teemakohase sisekoolituse ja kirjutasin jutu[@peacecopkalmer_2018_clil].
+
+TKG's veensin kooli juhti proovima esimest korda taotleda õpetajate õpirände toetust ja koostasin taotluse[@a2019_tallinna_kunstigumnaasium_2019_e_ka101_otsuskiribdoc].
+
+Pärast osalemist Conseili européen pour la recherche nucléaire keskkooliõpetajate programmis rääkisin oma kogemustest Eesti füüsikaõpetajate laagris[@a2024].
 
 ## Arendus-, loome- ja teadustegevus
 
