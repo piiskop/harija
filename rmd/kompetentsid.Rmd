@@ -17,7 +17,7 @@ include_external_graphics("rmd/seiklused-page003.png")
 
 Kognitiivse arengu toetamiseks kasutan diferentseeritud õpet, lähtudes õpilaste arengutasemest ja individuaalsetest vajadustest. Olen teadlik, kuidas arenevad õppija mõtlemis- ja probleemilahendusoskused, ning kujundan õppetegevusi, mis toetavad nii lihtsamate teadmiste omandamist kui ka keerukamate probleemide lahendamist. Narva Täiskasvanute Koolis (NTK) olen matemaatikaõpetajana koostanud igale õpilasele individuaalse õppejärje, et võimaldada oma varasemate lünkade teadmistes ja oskustes täitmist ning ajakohase õppekava järgsete teemade õppimist õpilase omas tempos (joonis \@ref(fig:support-math-study-order)). Arvutiteaduse õppes lasen õpilastel tegutseda individuaalseid ülesandeid täites omas tempos. Tallinna Vabas Waldorfkoolis (TVW) on minu juhendada põhirühmaga tempost väiksema tempoga õpilased, kelle jaoks katsetan erinevaid meetodeid, et õpilastes tekiksid vajalik arusaam ja oskus õpitud teadmisi kasutada.
 
-```{r label = "support-math-study-order", echo=FALSE, fig.cap = "NTK's on mul igal õpilasel oma õpijärg. Tähed tähistavad teemasid."}
+```{r label = "support-math-study-order", echo=FALSE, fig.cap = "NTK's on mul igal õpilasel oma õpijärg. Tähed tähistavad teemasid.", out.height=".92\\textheight"}
 include_external_graphics("rmd/teemad-IMG_20250130_191520.jpg")
 
 ```
@@ -271,6 +271,8 @@ NTK's olen koostanud iga statsionaarse rühma õppijate jaoks individuaalse õpp
 
 Kolmanda kooliastme matemaatika õppimiseks olen koostanud astendamise[@a2025_astendaminedocx], üksliikmete[@a2025_ksliikmed7docx] ja võrrandite[@a2025_vrrandid7docx] erineva variatsiooniga harjutusülesanded ja testid.
 
+Kui märkan, et õpilane on liiga väsinud, lasen tal puhata, sest õppimine on tõhus vaid puhanuna. Gümnasiasti olen niimoodi ka saatnud koju puhkama, sest kui nii keha kui aju on väsinud, pole mõtet veelgi kurnata - pigem teine kord, kui on välja puhanud.
+
 Tegevusnäitaja:
 
 > kaasab ja teeb koostööd tugispetsialistide ning kolleegidega abi- ja toetusvajaduse väljaselgitamisel (vajadusel õppija individuaalse arengu kaardi täitmine, arvestades tema eripära arengu dünaamikat), õppe- ja arendustegevuse planeerimisel ning rakendamisel (sobiva õppemetoodika ja -vormi leidmine, õppe jõukohastamine, õppematerjalide kohandamine, abivahendite rakendamine, individuaalse õppe korralduse kava planeerimine, individuaalse õppekava ja/või käitumise tugikava koostamine).  
@@ -353,7 +355,7 @@ Tegevusnäitaja:
 
 Olen endale ja õpilastele visuaalseks järgimiseks koostanud seostega õpiväljundite tegevusdiagrammid, millele olen märkinud kaalud vastavalt Bloomi taksonoomiale (joonis \@ref(fig:planning-targets)).
 
-```{r label = "planning-targets", echo=FALSE, fig.cap = "Ühe kursuse õpiväljundite seotud tegevusdiagramm Bloomi taksonoomia tasemetega."}
+```{r label = "planning-targets", echo=FALSE, fig.cap = "Ühe kursuse õpiväljundite seotud tegevusdiagramm Bloomi taksonoomia tasemetega.", out.height=".92\\textheight"}
 include_external_graphics("rmd/matemaatika-kitsas-2-Õpiväljundid.drawio.svg")
 
 ```
@@ -477,9 +479,9 @@ Tegevusnäitaja:
 
 > arvestab peamiste tunnetusprotsessidega (taju, tähelepanu, mälu, mõtlemine, täidesaatvad funktsioonid) õppija toetamisel.  
 
-Mõnel inimesel on võimsam mälu, mõnel võimsam mõtlemine. Kui mälu napib, on abiks, kui õpilane märgib ülesande lahendamises vahetulemusi sagedamini üles.
-
 Kui õpilane suudab keskenduda vaid lühikeseks ajaks, siis tuleb talle anda lühikesi ülesandeid. Sõltuvalt ülesandest võib ka siis juhtuda, et õpilane saab ülesandest haaratud ja ta tahab jätkata pikemalt.
+
+Mõnel inimesel on võimsam mälu, mõnel võimsam mõtlemine. Kui mälu napib, on abiks, kui õpilane märgib ülesande lahendamises vahetulemusi sagedamini üles.
 
 Tegevusnäitaja:
 
@@ -489,7 +491,14 @@ Tegevusnäitaja:
 
 Vahel olen esmase kogemuste kaardistamise jaoks kasutanud keskkonda, millesse õpilased saavad märksõnu sisestada[@creativeheroesnl_2024_answergarden; @creativeheroesnl_2024_answergarden_6]. Keskkonnale ligi saavad nad ruutkoodi kaudu, mille kuvan digitahvlile või projektoriga ekraanile, kasutades oma nutitelefoni.
 
-Õpilaste arengu jälgimiseks kasutan võimalusel selliseid digikeskkondi, kus selline jälgimine on võimalik[@learn; @plickers; @openproject]. Sellised tasuta kasutatavad keskkonnad on enamasti arvutiteaduse õppe jaoks.
+Õpilaste arengu jälgimiseks kasutan võimalusel selliseid digikeskkondi, kus selline jälgimine on võimalik (joonis \@ref(fig:teaching-openproject-time-report))[@learn; @plickers; @openproject; @a2019_codeorg]. Sellised tasuta kasutatavad keskkonnad on enamasti arvutiteaduse õppe jaoks.
+
+```{r label = "teaching-openproject-time-report", echo=FALSE, fig.cap = "Arvutiteaduse õpilased raporteerivad oma ajakulu OpenProjecti, millest saame infot nende arengu kohta."}
+include_external_graphics("rmd/openproject-ajaraport-kuvatõmmis-2025-02-06-144657.png")
+
+```
+
+Plickersiga[@plickers] viisin KG's läbi testi enne õppeteema käsitlemist ja pärast õppeteema käsitlemist viisin läbi sama testi võrdlemaks, kuidas õppeteema käsitlemine mõjutas õpilaste teadmisi-oskusi. Tulemuste kohta võib lugeda minu erialapraktika aruande[@_2025_sissejuhatus] tööülesannete sooritamise peatükist.
 
 Tegevusnäitaja:
 
@@ -497,18 +506,22 @@ Tegevusnäitaja:
 
 Kriiditahvlilt ei paista nii hästi kui digitahvlilt ja jooned pole nii sirged kui digitahvlil. Lisaks peab kriiditahvlit niisutatud lapiga puhastama, digitahvlil piisab kahest nupuvajutusest ning on võimalik ka tehtu suurust ja kuju muuta ning nihutada ja jupikaupa kustutada, samuti värvi muuta. Ka ei jää digitahvlit kasutades näpud kriidiseks. Ühtlasi pole ohtu, et markertahvli puhul kogemata püsimarkerit sai kasutatud. Digitahvli kasutamine hoiab kustutamise osas aega kokku. Kui ruumis on digitahvel, siis seda ikka kasutan (joonis \@ref(fig:teaching-digital-board)). Kui on ka mittedigitahvel, siis vahel kasutan seda lisaks, et rohkem õpilasi oleks kaasatud. Nii kuvan ülesande nt digitahvlile ja keegi saab lahendada kriiditahvlile.
 
-```{r label = "teaching-digital-board", echo=FALSE, fig.cap = "NTK's kasutame digitahvli nii tahvli- kui projektori funktsionaalsusi."}
+```{r label = "teaching-digital-board", echo=FALSE, fig.cap = "NTK's kasutame digitahvli nii tahvli- kui projektorifunktsionaalsusi."}
 include_external_graphics("rmd/digitahvel-IMG_20241106_143957.jpg")
 
 ```
 
 Arvutiteaduses kasutame ohtralt sülereid, et iga õpilane saaks käed külge panna.
 
+Kui NTK's veel digitahvleid ja projektoreid polnud, andsin õpilastele lingi ning nad said ülesande vms avada oma nutitelefoniga. Sageli kasutavad õpilased nutitelefoni tõlkimiseks. Ka lühiuuringu tegemiseks ruutkoodiga saavad õpilased kasutada oma nutitelefoni.
+
 Tegevusnäitaja:
 
 > personaliseerib õpiteid digitehnoloogiate abil.  
 
-Digitehnoloogiate abil personaliseeritud õpiteed võimaldavad mul õpetajana pakkuda **individuaalselt kohandatud, motiveerivat ja õppijakeskset õppeprotsessi**. Lähtudes õppijate vajadustest, huvidest ja võimetest, saan digivahendite abil pakkuda mitmekesiseid ja paindlikke õpikogemusi, mis toetavad õppijate **iseseisvust, vastutust ja enesearengut**. Personaliseeritud õpiteed loovad keskkonna, kus õppijad tunnevad end väärtustatuna ja saavad arendada nii akadeemilisi teadmisi kui ka eluks vajalikke oskusi, sealhulgas **digipädevusi ja eneseregulatsiooni**.
+Arvutiteaduse õppes on õpiteed individualiseeritud Code.orgis[@a2019_codeorg] ja Edclubis[@learn] ning OpenProject[@openproject] võimaldab kalendri abil üldist järge pidada ning nii saab iga õpilane liikuda oma tempos. Matemaatikaõppes rakendasin PLP's Opiq't ja suunasin õpilastele ülesandeid vastavalt nende vajadustele[@a2024_opiq].
+
+ChatGPT'd olen kasutanud hindeliseks testiks niimoodi, et olen andnud ChatGPT'le lähteülesande õpiväljundi saavutatuse kontrollimiseks, Bloomi tasemed[@blooms] ja palunud ChatGPT'l lühikeste ülesannetega õpilas(t)ega vesteldes hinnata[@a2025_chatgpt]. Kui õpilane ei osanud vastata esimesele küsimusele, suunas ChatGPT järgmiste küsimuste kaudu õpilase esimese küsimuse juurde tagasi. Kui õpilane midagi sisukat vastas, ChatGPT tagasisidestas sõnaliselt ning andis korrektse vastuse. Nii sai õpilane paralleelselt testimisega täita oma teadmiste ja oskuste lünki. Sarnaselt olen lasknud Mizou'l[@a2023_ai] õpilasega vestelda[@a2023_ai_mizou_kalmer].
 
 ### Klassi/rühma juhtimine
 
@@ -520,11 +533,17 @@ Kui osa õpilasi kipuvad häirima õpperahu, siis kutsun nad korrale selgitades 
 
 Kui märkan, et õpilased omavahel nääklevad ja see häirib õppekeskkonda, siis uurin neilt, miks see nii on, ja kui on ajavaru, siis vestlen nendega ja suunan neid ühisele sobivale lahendusele. Kui mul seda ajavaru pole, kaasan tugispetsialisti või rühmajuhi.
 
+Gaia Koolis (GK) viisin arvutiteaduse õppes läbi projekti küberkiusamise plakati tegemiseks[@a2025_kber; @a2025_kber_ovtsik]. Selleks arutlesin õpilastega Gunter Pauli teose *Mul on igav*[@a2025] põhjal igavuse ja sellest tuleneda võiva kiusamiskihu üle[@a2025_informaatika_5_task_380_2_arutelu_igavuse_teemal__20250206_1850pdf; @a2025_itk], misjärel nad mõtlesid, millist plakatit teha küberkiusamise teemas. Kui plaan oli tahvlile tehtud, tutvustasin *Scribus*t[@a2025_scribus], värviteooriat[@a2025_cmyk; @a2019_webaim] ja graafika tüüpe, millele järgnesid postri valmistamine, testimine ja viimistlemine[@a2025_informaatika_5_task_388_8_postri_testimine_ja_viimistlemine_20250206_1906pdf].
+
+NTK's olen suutnud õpilasi õppetegevuseks aktiveerida neile individuaaljärje koostamisega, mistõttu on õppesessioonides vähem logelemist ja üldise õppeharmoonia häirimist.
+
 Tegevusnäitaja:
 
 > loob turvalise ja tervist toetava õpikeskkonna, tegutseb esmaabi vajavas situatsioonis sobival viisil.  
 
 Valin õpivahendid selliselt, et nende kasutamine oleks piisavalt turvaline. Kui on vajalik kasutada ohutusabinõusid, siis neid eelnevalt selgitan õpilastele ja kontrollin, et nad on aru saanud, enne kui vastava tegevusega alustame.
+
+Esmaabi vajavaid situatsioone pole mul ette tulnud.
 
 Tegevusnäitaja:
 
@@ -537,11 +556,13 @@ include_external_graphics("rmd/rühmaõpe-IMG_20250116_125158.jpg")
 
 ```
 
-Rühma areng algab rühma loomisest ning kestab läbi rühma liikmete üksteisega arvestamise.
+Grupi arengufaasidest ei teadnud ma kuni e-portfoolio koostamiseni mitte midagi. Nüüd, kui tegin kiire uuringu, mis need on, leidsin artiklist *Measuring and Understanding Team Development by Capturing Self-assessed Enthusiasm and Skill Levels* lisaks põhjalikule arengufaaside kirjeldamisele küsimustiku, mida võiksin edaspidi ka õppetegevuses kasutada, kui tuleb ette olukord, milles vaja moodustada ja hallata rühmasid[@largent_2016_measuring, lk 6:23].
+
+Enda juhitud ELU projekt on seni olnud kõige pikem ja põhjalikum rühmade moodustamise ja haldamise projekt minu hariduselus. Iga rühmasündmuse lõpus lasin osalejail analüüsida enda rolli rühmas vastavalt Meredith Belbini väljatöötatud rollikogumikule [@a2025_belbinuk2014acomprehensivereviewpdf, lk 9]. Põhiline ülesanne oli projektis osalejail koostada oma alamrühmas MathCityMapi rada. Arutasime omavahel, kuidas rühmad moodustada ja moodustasime selle järgi, kuidas osalejail oli võimalik koos töötada. Vastavalt rühmade arengufaaside teooriale tuli alul osalejaid tagant torkida, kuni millalgi alamrühma liikmed suutsid omavahel ise asju kokku leppida ja vastavalt tegutseda.
 
 Tegevusnäitaja:
 
-> märkab ja ennetab konflikte, leiab tõhusaid lahendusi ning vajadusel kaasab kolleege, õppijaid, lapsevanemaid ja tugispetsialiste  
+> märkab ja ennetab konflikte, leiab tõhusaid lahendusi ning vajadusel kaasab kolleege, õppijaid, lapsevanemaid ja tugispetsialiste.  
 
 Pakun õpilastele välja, et kõik saame etteantud piirides läbi rääkida. Konflikti korral on oluline ühekorraga konsensuseni läbi rääkida kõigil asjaosalistel, mitte eraldi tagaselja.
 
@@ -555,7 +576,14 @@ Tegevusnäitaja:
 
 > õpetab, lähtudes õppija eripärast, seatud eesmärkidest, õpiväljunditest ja ainetevahelisest lõimingust, kasutades erinevaid õppevorme ja -meetodeid toetamaks õppijate õpi- ja ainealaste oskuste arengut, järgides kaasava hariduse põhimõtteid.  
 
-Iga õppija on eriline. Kui rühmas on palju õppijaid, siis igaühega eraldi arvestada ei ole otstarbekas. Rühm peaks koosnema ühtlase tasemega õpilastest. Siiski üldharidussüsteemis pole õpetajal midagi parata, kui talle on juba rühm moodustatud. Ometi saab teha korrektuure sõltuvalt kooli võimalustest. Nt saab moodustada eraldi õpperühmi mingis valdkonnas andekatele või mahajääjatele. Mina tekitan alates esimesest lühitestist individuaalse plaani ning kohandan seda sõltuvalt järjepidevate lühitestide tulemustest. Selles plaanis on sihiks õppeeesmärgid, mille võib saavutada rohkemate või vähemate vahetegevuste kaudu vastavalt õpilase vajadustele.
+Iga õppija on eriline. Kui rühmas on palju õppijaid, siis igaühega eraldi arvestada ei ole otstarbekas. Rühm peaks koosnema ühtlase tasemega õpilastest. Siiski üldharidussüsteemis pole õpetajal midagi parata, kui talle on juba rühm moodustatud. Ometi saab teha korrektuure sõltuvalt kooli võimalustest. Nt saab moodustada eraldi õpperühmi mingis valdkonnas andekatele või mahajääjatele (joonis \@ref(fig:support-different-methods)). Mina tekitan alates esimesest lühitestist individuaalse plaani ning kohandan seda sõltuvalt järjepidevate lühitestide tulemustest. Selles plaanis on sihiks õppeeesmärgid, mille võib saavutada rohkemate või vähemate vahetegevuste kaudu vastavalt õpilase vajadustele.
+
+```{r label = "support-different-methods", echo=FALSE, fig.cap = "Üks õpilane näitab kahele muule õpilasele digitahvli abil, kuidas tuletada teatud põhinurkade trigonomeetrilise funktsiooni väärtust. Eelnevalt olen ühega neist kasutanud kriiditahvlit, et selgitada välja lihtsam nurk ja funktsiooni märk. Ülejäänud õpilastel on eri individuaaljärjega ülesannete lahendamine eri teemades kestmas."}
+include_external_graphics("rmd/tahvlid-IMG_20250212_151921.jpg")
+
+```
+
+Kui õpetan pimekirjutamist, siis on olnud mul õpilasi, kellel on pikad kunstküüned. Olen andnud õpilasele valida, kas ta tahab saada parema klahvistikukasutamise oskuse või edvistada oma küüntega. Muidugi on õpilane valinud viimase, mistõttu olen andnud soovituse, et kui ta kunagi need eemaldab, siis saab pimekirjutamist õppida. Seniseks olen ta suunanud muid ülesandeid lahendama.
 
 Võimalusel ilmestan õpiteemat lõimides muude valdkondadega. Leian, et tõhus on esmalt selgitada juppi teooriat, misjärel selle mõistmiseks ja kinnistamiseks lahendada hulganisti ülesandeid ning lõpuks võimalusel kontrollida teooriat praktiliselt. Vahel teen ka vastupidi lastes õpilastel avastada teooria, kuid see ei sobi kõigile.
 
@@ -563,7 +591,7 @@ Võimalusel ilmestan õpiteemat lõimides muude valdkondadega. Leian, et tõhus 
 
 Paaril õpilasel on olnud probleeme heleda ekraanivalgustusega. Oleme lahendanud kas muutes taustavalgustust või õpilane on kasutanud vastavaid kaitseprille.
 
-Kui õpilane on muidu hoolas ja huviga õppetegevuse juures, aga tempo on väike ja lahendamiseks kulub palju aega, on juhtunud, et ta varsti enam ei oska selliseid ülesandeid lahendada, mida ta alguses oskas lahendada. Sellistes juhtudes on mõistlik teha paus, vaheldada tegevusi.
+Kui õpilane on muidu hoolas ja huviga õppetegevuse juures, aga tempo on väike ja lahendamiseks kulub palju aega, on juhtunud, et ta varsti enam ei oska selliseid ülesandeid lahendada, mida ta alguses oskas lahendada. Sellistes juhtudes on mõistlik teha paus, vaheldada tegevusi. Nt NTK's on meil mitu laia matemaatika õppesessiooni järjest. Kui esimeses kahes suudab õpilane keskenduda, siis kolmandas enam mitte.
 
 Tegevusnäitaja:
 
@@ -575,11 +603,27 @@ Tugispetsialistile on üldiselt teada, kellel milline probleem on, ja ta mulle k
 
 Tegevusnäitaja:
 
-> toetab üldpädevuste arengut ja ennastjuhtiva õppija kujunemist, suunates õppijat õpieesmärkide seadmisele ja eneseanalüüsile  
+> toetab üldpädevuste arengut ja ennastjuhtiva õppija kujunemist, suunates õppijat õpieesmärkide seadmisele ja eneseanalüüsile.  
 
-Arvutiteadust õpetades kasutan projektihalduse tarkvara, millest õpilased vaatavad endale ülesandeid, milles peavad järge ja millesse raporteerivad ajakulu[@openproject].
+Õpipädevuse arenemiseks olen kasutanud eri meetodeid sõltuvalt olukorrast ja õpilastest. KG's, EV's ja TVW's kirjutasin õpilastele *Soovitusi õppimiseks*[@_2021_sissejuhatus_looduseuurimine]. KG's ja EV's seadsin sisse konspektikontrolli. Lubasin õpilastel nende endi loodud konspekte hindelistes testide kasutada ning et see tõhusamalt toimiks, kontrollisin pisteliselt konspekte. Esines olukordi, milles õpilasel polnud konspekti ja ta tekitas selle järgmiseks korraks, kuna märkisin päevikusse märkuse. Ükskord küsis üks õpilane mult teipi. Selgus, et teipi oli tal vaja, et konspektivihikusse kleepida eelnevalt paberilehele tehtud ülestähendused.
+
+Arvutiteadust õpetades kasutan projektihalduse tarkvara, millest õpilased vaatavad endale ülesandeid, milles peavad järge ja millesse raporteerivad ajakulu[@openproject]. Juurutan ka sotsiaalset vastutust kaasates iga kord ühe õpilase märkima kohalolijaid. Üks-ühele juhendan praegu üht loovtööd kirjutavat õpilast ja tema tänu minu õpetusele juba iseseisvalt, st ilma minu sekkumise vajaduseta haldab minu OpenProjectis meie koosolekuid.
 
 Matemaatikat õpetades kasutan iga õpilase individuaalset järge. Kui õpilasel on miski ebaselge, siis annan talle selle teema kohta selgitavat teksti lugeda ja ülesandeid lahendada iseseisvalt või rühmakaaslasega koos. Kui ta tunneb, et tal on teema selge, testime. Olen ka andnud ühe õpilase sooritust teisele hinnata või lasta õpilasel ise hinnata oma sooritust.
+
+Suhtluspädevuse arenemiseks korraldan aegajalt rühmaõpet, milles õpilased üheskoos arutavad, kuidas teha, otsivad andmed ja teevad valmis. Samuti aitab suhtlemisoskusele kaasa valmistehtud asja esitlemine koos tagasisidestamisega. Hiljuti lasin arvutiteaduse õppes õpilastel märkida oma nimi ühe arvutiergonoomika teema juurde ning lubasin ka teemasid lisada. Samale teema kohta ma üle kolme nime ei lubanud. Vastavalt valikutele moodustus seitse rühma. Õpilastel tekkis omavaheline tööjaotus. Pärast esitlemist tagasisidestasin, mis toimis, mis tuleks edaspidi teisiti teha kasutades võimalusel näitlikustamist. Nt palusin ühel õpilasel võtta istet diivanil, kust olin esitlust jälginud, asusin ise tema kohale, kus ta esitluse ajal oli, ning palusin tal slaidilt teksti ette lugeda. Ta mõistis, et näidatava asja ees ei tasu seista. Teise õpilase puhul vastasin ta küsimusele näoga projektoriekraani poole ning ta mõistis, et tuleb rääkida näoga publiku suunas. Kui tekst oli liiga väike, lasin esitlenud õpilasel eemalt lugeda.
+
+Distantsõppe kestel viisin õppesessioone läbi veebikonverentsidena. See võimaldas õpilastel harjutada teabe edastamist veebi kaudu nii kirjalikult kui suuliselt.
+
+KG's ja EV's viisin õpilased õue rühmatestile, et õpilased saaksid teistsuguses keskkonnas suhelda ja testitud.
+
+Audenteses andsin õpilastele ülesandeks arutleda, kuidas ta lahendaks täielikult mittelahendatava ülesande, milles tuleb teha valik kahe ebasoodsa sündmuse vahel. Seeläbi õppisid õpilased üksteise suhtumise kohta - sotsiaalse ja kultuurse teadlikkuse arendamine.
+
+Digipädevuse arendamine toimub mul informaatikaõppes järjepidevalt. Matemaatikaõppesse puistan seda kasutades digitahvlit ning varasemalt olen kasutanud õpilastega eri e-õppe keskkondi. Füüsika ja keemia õppes kasutan aegajalt digiharjutusi ja suhtlust ChatGPT'ga. Veebiõppes on kasutuses virtuaaltahvel ja Jitsi-nimeline veebikonverentsi tarkvara[@jitsimeet_2025_jitsi].
+
+Enda õppimise juhtimiseks olen lasknud õpilastel valida eksperiment või selle läbiviimise vahendid (nt elektroskoobi valmistamine ja testimine). Gümnaasiumi esimese füüsikakursuse raames viin tavaliselt läbi mõõtmiseksperimendi näited ning seejärel lasen igal õpilasel viia läbi tema oma eksperiment ning raporteerida[@_2021_sissejuhatus_looduseuurimine].
+
+Motivatsiooni ja eneseusalduse toetamiseks annan õpilastele konstruktiivset tagasisidet, mille käigus tagasisidestan talle, mida ta hästi oskab, mis on meeles, misjärel näitan, mis võinuks muudmoodi olla ja kuidas jätkata, et järgmine kord edukam olla. Mõni õpilane vahel ütleb, et ta ei taha tulla proovima lahendada, sest ta ei oska, mille peale vastan, et kui ta oskaks, siis poleks tal enam vaja sellel tasemel harjutada. Kui olen andnud õpilasele iseseisvaks lahendamiseks ülesande ja ta vastab mulle, et ei osanud lahendada, siis ikka küsin, et kuhumaani ta oskas, et oskaksin teda sealt edasi aidata. Julgustan õpilasi alati vähemalt proovima, sest muidu pole kuskilt kinni haarata.
 
 Tegevusnäitaja:
 
@@ -587,21 +631,40 @@ Tegevusnäitaja:
 
 Oluline on, et õppimine oleks ühtlasi jõukohane ja väljakutsuv. Et õppimine oleks jõukohane, peavad õppimiseks olema täidetud eeldused: sobilik õppekeskkond, sobilikud vahendid, null lünka vajalikes teadmistes-oskustes. Et õppimine oleks väljakutsuv, ei tasu liiga palju selliseid ülesandeid lahendada, mida nagunii osatakse lahendada, sest see muutub tüütuks, vaid võtta juurde selliseid, mille lahendamine ei kulge automaatselt. Selliseid väljakutsuvaid ülesandeid tuleb lahendada, kuni lahendamine muutub automaatseks.
 
+Vahel kujuneb välja olukord, milles märkan, et üks õpilane selgitab teisele lahenduskäiku. Tunnen sellistest olukordadest erilist rõõmu, sest see tähendab, et olen suutnud teda motiveerida õppimise viimase astmeni.
+
+Sammhaaval edenemine tekitab õpilases väikseid eduelamusi, mis motiveerivad teda jätkama. Eriti hästi peegeldub see digitaalse iseõppimise õpivara kasutamises. Nt pimekirjutamise õppes on mõni õpilane vahel frustratsioonis, et ta ei suuda taset läbi mängida. Seepeale ma küsin, et mitu korda ta proovinud on. Kui taon vastanud, mitu, siis mainin, et vahel on vaja suurusjärgu võrra rohkem katseid sooritada, et jõuda järgmisele tasemele, kuna antud vilumus on sellel tasemel oluline. Vahel aitab analoogia teemandikaevuriga, kes annab alla üks meeter enne teemantideni jõudmist (joonis \@ref(fig:teaching-diamond-miner)). Samuti olen maininud legendi hõõglambi loomise kohta - mitmendal katsel lamp väidetavalt põlema saadi... või pigem usaldusväärne väide, mitut taimset kasvu pidi ta selleks eelnevalt läbi proovima[@kelinich_2014_edisons].
+
+```{r label = "teaching-diamond-miner", echo=FALSE, fig.cap = "Analoogia teemandikaevurist, kes annab alla vahetult enne teemantideni jõudmist, aitab vahel õpilasi motiveerima jätkama, sest lahendus võib olla väga lähedal[@gigawatt_2024_switch]."}
+include_external_graphics("rmd/diamond-miners.jpg")
+
+```
+
+NTK's liitus ühte rühma uus õpilane. Ta paistis alul õhinaga jälgivat, mida teeme, kuid siis ta ind kadus ning selgus, et ta ei saanud mitte millestki aru, sest varasemast oli ta piisavalt palju unustanud. Ükskord otsustasin, et nii enam jätkata ei saa ja läksin tema juurde teda üks-ühele abistama, mis tõi ta silmist pisarad välja. Selle kursuse lõpetas ta küll mitteaktsepteeritava hindega, kuid järgmise kursuse kestel andsin talle vastavalt minu koostatud individuaaljärjele väikese variatsiooniga hulganisti ülesandeid lahendada ja arusaamatuste korral selgitasin. Ta sai oma kursusehinde korda ja juba mitu nädalat ta tänab mind iga õppepäeva lõpus õppesessiooni eest.
+
+Ainus kord, kui ma veebi kaudu saksa keelt õpetasin, jättis nii õpilasele kui mulle sügava positiivse mulje. Ta ütles, et polnud varem mõistnud täisminevikku, kuid tänu minu esitatud analoogiale ja alternatiivsele süsteemile sai ta ometi selle selgeks[@a2025_de].
+
 ### Digitehnoloogiate mõtestatud kasutamise toetamine
 
 Tegevusnäitaja:
 
 > suunab õpilasi rakendama info otsimisel, suhtlemisel ja sisuloomes digitehnoloogiaid.  
 
-Arvutiteaduse õppes käsitleme info otsimist digitehnoloogiate abil.
+Arvutiteaduse õppes käsitleme info otsimist digitehnoloogiate abil. Nt kolmandas kooliastmes järgin osaliselt *Infoühiskonna* õpikut[@lorenz_2025_infohiskond], milles viidatakse eri andmekogumikele, kust infot ülesannete lahendamiseks hankida. Lisaks saavad õpilased ise valida, kuskohast nad usaldusväärse teabe hangivad olles kohustatud allikale viitama.
 
 Muudes valdkondades lasen aegajalt õpilastel nutitelefoniga otsida vastuse küsimusele. Vahel tuleb seejuures selgitada, kuidas küsida ja kust küsida, et saada võimalikult usaldusväärne vastus.
+
+Suhtlemise jaoks oleme digitehnoloogiaid kasutanud üksnes veebipõhises õppes.
+
+Arvutiteaduse õppes koostab iga õpilane endale minu OpenProjectis e-portfoolio, kuhu lahendab ülesanded. Varasemalt olen lasknud e-portfooliot teha Google Sitesis[@digiheleliis_2025_digihele].
+
+Muudes valdkondades olen aegajalt lasknud õpilastel teha esitlusi kasutades nende valitud digikeskkonda[@keemiaajaloolineareng_2019_keemia].
 
 Tegevusnäitaja:
 
 > korraldab klassis/rühmas digitehnoloogiate mõtestatud kasutamist individuaalsel ja koostöisel õppimisel, sh probleemide lahendamisel.  
 
-Arvutiteaduses rakendame digitehnoloogiaid mõtestatult alatasa. Muudes valdkondades teeme seda vastavalt vajadusele ja sobivusele.
+Arvutiteaduses rakendame digitehnoloogiaid mõtestatult alatasa. Muudes valdkondades teeme seda vastavalt vajadusele ja sobivusele. Ma ei kasuta mingit tehnoloogiat lihtsalt seepärast, et on uus ja huvitav, vaid see peab minu hinnangul eesmärgi saavutamiseks sobima.
 
 ### Tagasisidestamine ja arengut toetav hindamine
 
@@ -609,13 +672,35 @@ Tegevusnäitaja:
 
 > rakendab süsteemselt erinevaid õppimist toetavaid tagasisidestamise ja hindamise viise, sh digitehnoloogiaid, lähtudes õppija eripärast ja hindamist reguleerivatest dokumentidest.  
 
-Tagasisidestan õpilastele alatasa. Sageli viin läbi lühiteste, millest saame selgust õpiväljundi saavutatuse osas. Õpilane saab hinde, mida on võimalik parandada järgmises lühitestis. Hindele lisandub kommentaar soorituse kohta vajadusel koos soovitusega.
+Tagasisidestan õpilastele alatasa. Sageli viin läbi lühiteste, millest saame selgust õpiväljundi saavutatuse osas. Õpilane saab hinde, mida on võimalik parandada järgmises lühitestis. Hindele lisandub kommentaar soorituse kohta vajadusel koos soovitusega. Tagasiside kirjutan sellise, mille põhjal õpilane teab, kuidas edasi liikuda, nt:
+
+> Sooritamata. 
+
+> 2025-1-9 järelsooritus: Pool piid on konverteeritud korrektselt. Siiski vastupidises konverteerimises oled ühe ühiku ära jätnud, tähistanud võrdusega ligikaudsust ja teatanud, et 0,5 olevat ligikaudu 0,4 selgitamata, kuidas. Samuti puuduvad definitsioon ja joonis. 
+
+> 2025-2-12: Pingutasid tahvlile lahendada ja see oli väärt pingutus, sest nii toimub õppimine. Ühtpidi teisendamine oli sul selge, kuid hätta jäid aritmeetikaga. Lõpuks suutsid küll kumbagi pidi vähemalt ühe nurga teisendada iseseisvalt korrektselt. Harjuta veel, sest eriti aritmeetilisi teisendusi on kasulik kiiresti peast teha ning mida rohkem harjutad, seda kiiremini teed peast, seda rohkem samme saad vahele jätta.
+
+Kui olen õpilast eraldi testinud, olen talle vahetult tagasisidestanud, mis tal õigesti meeles oli ja mida ta oskab, lisades puudujäägid ja näidates, kuidas lünkasid täita, et ta õpiks ka testisooritusest. Siis olen vahel küsinud talt, millise hinde ta ise paneks ning enamasti on see hinne olnud adekvaatne ja olen sellega nõustunud. On ka ette tulnud, et õpilane soovib paremat hinnet ja selle jaoks veel tõendusvõimalust. Siis olen tal lasknud veel ülesandeid lahendada ning vahel on ta teinud selle pingutuse, et on oma soovitud hinde kätte saanud, vahel on tulnud siiski tunnistada, et paremaks hindeks peab veel palju harjutama iseseisvalt.
+
+Kui on harjutamisfaas, viskan aegajalt õpilase tehtule pilgu peale ning ütlen, mis on õigesti, mis mitte. Kui näen, et õpilasele on vaja midagi selgitada, teen seda kas talle vihikusse või kutsun ta tahvli juurde, mis võimaldab kaasata ka muid õpilasi. Nt uurisin oma ringkäigul, kuidas üks konkreetne õpilane edeneb ja ta ütles, et ta teatud ülesandeid lahendada ei oska. Need olid nurga arvutamise ülesanded. Kutsusin ta tahvli juurde ning asusin talle sammhaaval protsessi selgitama lastes tal endal teha kõik joonised ja kirjutused ning mõelda ühe sammu kaupa. Protsessi jälgis eemalt muu õpilane, kellel olid samad ülesanded.
+
+NTK's on kaks korda juhitud minu tähelepanu Põhikooli- ja gümnaasiumiseaduse § 29'le[@phikooli_seadus], et rakendaksin esimest lõiget terviklikult. Minu põhirõhk kipub olema õpiväljundite saavutatuse hindamisel, seega kuuendal punktil. Otsin ja leian võimalusi rakendada ka ülejäänud viit punkti. Kui õpilasel on võimalik oma hinnet korduvalt parandada, siis on toetatud tema areng. Kui ta tõendab mulle suuliselt, siis protsessi käigus tuletan talle meelde ja täidan ta lünki, mis võimaldab tal ka testisoorituse kestel õppida. Kuna iga lühitest kätkeb vähemalt mingit õpiväljundit võimalikult lakooniliselt, siis vastav hinne näitab, kui edukas õppija on olnud. Individuaalne õpijärg võimaldab õpilasel edeneda oma tempos väikeste eesmärkide saavutamise kaudu, mis toetab tema õppimise sihikindlust. Kui hinne näitab ausalt õpiväljundi saavutatust, siis oskab õpilane selle kaudu ka ennast paremini hinnata.
 
 Tegevusnäitaja:
 
-> koostab hindamismudeleid/-kriteeriume ja hindab õppijaid nende alusel  
+> koostab hindamismudeleid/-kriteeriume ja hindab õppijaid nende alusel.  
 
-Hindamismudelite koostamises olen laisk. Küll aga koostan hindamiskriteeriume. Teatan õpilastele, mis on vaja sooritada ja kuidas ma sooritusi hindan.
+Hindamismudelite koostamises olen laisk. Küll aga koostan hindamiskriteeriume. Teatan õpilastele, mis on vaja sooritada ja kuidas ma sooritusi hindan. Nt trigonomeetriakursuse kohta olen koostanud järgmise hindamisjuhendi:
+
+> Hindan iga õpiväljundi saavutamist, mida kontrollin lühitestiga, mis võib sisaldada ülesandeid eri õpiväljundite kohta. Mitmes testis võib olla ülesandeid sama õpiväljundi kohta. See tähendab, et õpilane võib saada sama õpiväljundi kohta mitu hinnet. Kõrgem hinne näitab kõrgemat oskustaset. Arvesse läheb suurim hinne, mis näitab, kuhu õpilane on jõudnud. Kui see hinne on suurem kui eelmine hinne, siis on õpilane tõenäoliselt õppinud. Kui õpilane on ühe ja sama õpiväljundi saavutatuse kohta saanud mitu hinnet, nt 4, 2, 3, 1, siis kehtima jääb hinne 4, kuna see on suurim hinne. Lühitesti sooritades on keelatud kasutada mis tahes info hankimise abivahendeid, välja arvatud enda või kaasõpilase aju. Matemaatikas tuleb lõpuks sooritada eksam ja valmistume selleks niimoodi. Kui õpilane siiski vähemalt puudutab keelatud abivahendit, siis ma õpilase sooritust ei hinda.
+>
+> Kui mingi õpiväljundi hinne on 1 või 2, siis saab õpilane minult kaheosalise kooliväliseks lahendamiseks mõeldud ülesannete kogumi, milles tuleb täielikult lahendada õpiväljundiga seotud eestikeelsete sõnade ristsõna ja vähemalt 50 % ulatuses teemakohased matemaatika tervikülesanded korrektselt. Ristsõna lahendamise eesmärk on oskus osata seotud sõnavara eesti keeles, et mõistaksime üksteist paremini. Kui korrektselt lahendatud matemaatikaülesandeid on vähem kui 50 % õpilasele määratud tervikülesannete arvust, siis saab õpilane uued matemaatikaülesanded, mida on sedapuhku kahekordne arv võrreldes eelmise ülesannete arvuga, mis tuleb lahendada samal tingimusel. Kui ka seekord normi ei saavutata, saab õpilane omakorda kahekordse arvu uusi ülesandeid samal tingimusel lahendamiseks ning see protsess võib kesta seni, kuni kestab kursus, mille lõppedes fikseerime kõik hinded lõplikuks kursusehindeks. Mida rohkem õpilane harjutab, seda paremini selgeks teema saab.
+>
+> Kursusel on kaheksa õpiväljundit, mille kaalud on esitatud juuresoleval skeemil. Kui testis on boonusülesanne ja see on korrektselt lahendatud, siis sellise testi hinne kaalutakse ühe kaalu võrra suurema kaaluga - eKoolis kaks viit.
+>
+> Kui õpilane saaks testisoorituse hindeks 5 või kaks viit, siis on võimalus, et ta kutsutakse järgmises õppesessioonis, kui ta on kohal, vastavalt esimese kümne või viie minuti kestel tahvlile lahendama sarnast ülesannet ja kaasõpilastele valjuhäälselt selgitama ilma nimetatud keelatud abivahenditeta. Seeläbi kontrollime õpilase tegelikke oskusi ja see on võimalus õpilasel oma mõtteid selgitada. Kui õpilane seeläbi näitab, et ta päriselt oskab, siis kaalutakse ta maksimaalne hinne senisest kaalust ühe võrra suurema kaaluga, mistõttu eKoolis 5 / 4 tähendab hoopis tavakaalust kahe kaalu võrra suuremat kaalu. Muul juhul peab õpilane edaspidi samasuguse ajapiiranguga õppesessioonidevahelise kuni 20-min pausi kestel minu antud paberilehele lahendama sarnase ülesande. Iga sellise pausi kestel toimub lahendamine, kuni on tõendatud oskus. Kui õpilane keeldub tahvlile lahendamast, siis ta lahendab samamoodi minu antud paberilehele nimetatud pausi kestel. See reegliosa on sisse seatud seetõttu, et vahel ma kahtlustan keelatud abivahendi kasutamist, ning et vältida olukorda, milles õpilane saaks seetõttu maksimaalse hinde ja eksamil siiski hakkama ei saaks.
+>
+> Eraldi hinnete parandamist me ei tee. Iga lühitest võib olla osaline või täielik eelneva testi järelvastamine. Kuni kursuse lõpuni on võimalik tõendada õpiväljundi saavutamist, kui vastav temaatika on testis. Muul juhul saab õpilane endale vähemalt 3 kujundada vastava õpiväljundi kohta nimetatud koolivälise ülesande sooritamise kaudu.
 
 Tegevusnäitaja:
 
@@ -625,21 +710,25 @@ Olen lasknud õpilastel oma sooritust ise hinnata ja seejärel minu hindamisega 
 
 Tegevusnäitaja:
 
-> lepib õppijate ja lapsevanematega kokku tagasisidestamise põhimõtted ja korralduse  
+> lepib õppijate ja lapsevanematega kokku tagasisidestamise põhimõtted ja korralduse.  
 
 Tagasisidestamise reeglid olen tutvustanud kursuse või õppeaasta alguses ning andnud võimaluse teha muudatusettepanekuid. Vahel on tulnud reegleid muuta ja siis olen muutustest ette teatanud.
+
+Aastaid järgisin põhimõtet, et mängu ajal mängu reegleid ei muudeta. Üldharidussüsteemis tegutsedes olen kogenud, et reegleid tuleb aegajalt ka reeglite sihitissündmuse kestel muuta, kui keskkond ja sihtgrupp muutuvad. Nt sätestasin NTK's alul hindeliste testide sooritamise kohta reegli, et õpilane tohtis kasutada enda konspekti. Kui mulle rõhutas kaasõpetaja, et õpilastel on vaja kooliastme lõpus sooritada eksam, milles nad ei tohi oma konspekti kasutada, keelasin ka oma lühitestides konspekti kasutamise, et juba aegsasti õpilasi eksamiks ette valmistada. Kui õpilased hakkasid mulle esitama perfektseid vastuseid, mis olid Internetist maha kirjutatud, kuigi ma ei näinud neid maha kirjutamas, lisasin sätte, et kui õpilane saaks oma vastuse põhjal maksimaalse hinde, võin ta aususe kinnitamiseks kutsuda sarnast ülesannet tahvlile või minu pilgu all paberile lahendama, mis sundis mind läbi mõtlema ka, mis võiks olla õpilasele boonuseks, kui ta osutubki ausaks. Sellise hindamise kujundamise kaudu olen õppinud õpilasi oluliselt paremini tundma ning saan tõhusamalt aidata neid õpilasi, kes on muidu tulnud kooli ainult oma spikerdamise oskust tõendama.
+
+Lapsevanemad näevad hindeid päeviku kaudu. Lapsevanematega arutelusid hindamise teemas on ette tulnud harva. On olnud üksikjuhtumid teatud õpilase suhtes, kui olnud vaja selgitada, kuidas hindamine toimub. On olnud ka lapsevanemalt etteheiteid, millele olen pidanud vajalikuks selgitusi lisada. Nt kui üks gümnasiast oli kirjutanud lehe täis ja saanud minult mitteaktsepteeritava hinde, kirjutas mulle ta ema, et tütar olevat ju nii tubli olnud, teinud suure pingutuse, et leht täis kirjutada. Paraku ta ei võtnud arvesse, et tütar kirjutas teemast mööda. TVW koosolekus minu juhendatavate õpilaste suhtes koos lapsevanematega rääkisime läbi, mida hinded nende õpilaste puhul tähendavad. Kuna me nende õpilastega ei jõua kõiki ettenähtud kursuseid läbida, siis selgitasime, et kui õpilane saab kokkuvõttes maksimaalse hinde, siis see võrreldes põhirühma õpilastega tähendab keskpärast hinnet.
+
+Üks-ühele veebiõppes olen lapsõpilase puhul tavaliselt lapsevanemat informeerinud õppesessiooni järgselt sõnaliselt sellest, mida tegime, kuidas õpilane edenes, mida saavutas, mida on veel vaja teha.
 
 ## Refleksioon ja professionaalne enesearendamine
 
 ### Õpetaja oma töö reflekteerimine ja enesearendamine
 
-Kasutan digikeskkondi igapäevaselt ja peamiselt nende kaudu õpingi.
-
 Tegevusnäitaja:
 
 > reflekteerib oma tööd, sh analüüsib oma õpetamise mõju, kasutades erinevaid meetodeid, kaasates kolleege ja osaledes õpikogukondades, sh virtuaalsetes.  
 
-Õpetamise mõju analüüsin selle järgi, kuidas mingi kasutatud meetod on millegi õppimiseks kellegi jaoks toiminud. Edulugusid jagan kolleegidega ja muudegi inimestega.
+Õpetamise mõju analüüsin selle järgi, kuidas mingi kasutatud meetod on millegi õppimiseks kellegi jaoks toiminud. Edulugusid jagan kolleegidega ja muudegi inimestega. Külastan aegajalt muude õpetajate sessioone ning vestlen nendega pärast. Vahel külastatakse minu sessioone[@a2025_tunnivaatlus]. Räägin aegajalt oma mõtteid ja kogemustest mentorile. Olen kasutanud oma õppesessioonide analüüsimiseks audiovisuaalset jäädvustamist. Järjepidev sagedane õpilaste teadmiste-oskuste testimine annab tagasisidet ka mulle, et teaksin, kuidas teatud õpilasega edaspidi tegutseda. Nt NTK's on mõnikord ette tulnud olukord, milles kuigi olin õpilasele andnud enda arvates piisava koguse harjutusülesandeid lahendada, mille ta väidetavalt lahendas, ei suuda ta testi sooritada, sest nagu on selgunud, pole ta neid harjutusi ise sooritanud. Sellises juhus olen palunud tal uuesti teha ja sedapuhku tõesti ise. Võtan osa nii üldistest kui füüsikaõpetajatele mõeldud õppimise tõhustamise sündmustest. NTK's nt arutasime kooli reeglistikku. Kui ajaliselt on olnud võimalik, olen osalenud õppe nõukogude koosolekutes. TVW's arutasime teatud õpilaste toetamise võimalust suve vaheajas. FÜÜSIKAÕPETAJATE SUVEKOOLIS 2024 õppisin nii muudelt õpetajatelt kui ka rääkisin oma suvisest õppekäigust Euroopa tuumauuringute keskusse[@a2024_fsikapetajate]. Osalen aegajalt õpetajatele korraldatavates valdkondlikes või üldistes õpetamissündmustes[@a2024_inseneeria]. Kui ma just pole vajadusepõhiselt vestelnud juhtkonna inimestega piisavalt palju, on koolides minuga korraldatud eraldi arenguvestlusi[@a2024_arenguvestlus]. Kritiseerin enda õpetajaid ja ootan kriitikat ka enda suhtes.
 
 Tegevusnäitaja:
 
@@ -655,9 +744,9 @@ Minu praegune plaan on saada piisavalt pädevaks õpetamaks kõiki loodusteadusi
 
 Tegevusnäitaja:
 
-> kasutab digikeskkondi enda professionaalseks arendamiseks  
+> kasutab digikeskkondi enda professionaalseks arendamiseks.  
 
-**Digikeskkondade kasutamine professionaalseks arenguks** on tänapäeva õpetajatöö lahutamatu osa, mis võimaldab mul pidevalt täiendada oma teadmisi ja oskusi. Digitaalsed tööriistad ja virtuaalsed õpikogukonnad pakuvad paindlikke ja mitmekesiseid võimalusi **õppimiseks, koostööks ja eneseanalüüsiks**. Osalemine veebikursustel, virtuaalsetes foorumites ja professionaalsetes võrgustikes aitab mul hoida oma õpetamispraktika **ajaga kaasas** ja rakendada uuenduslikke lahendusi õppetöös. Digikeskkondade abil saan süstemaatiliselt jälgida oma **professionaalset arengut**, reflekteerida oma tööd ja panustada hariduse kvaliteedi tõstmisesse nii koolis kui ka laiemalt haridussüsteemis.
+Peamiselt õpingi digikeskkondade kaudu. Vahel kasutan plaanimiseks paberit või tahvlit, kuid vormistan ikkagi digikeskkonnas.
 
 ### Õpetamise ja õppimise uurimine ning pedagoogilise teadmuse levitamine
 
@@ -665,13 +754,24 @@ Tegevusnäitaja:
 
 > analüüsib ja tõlgendab haridusuuringute tulemusi ning rakendab neid oma töös.  
 
-Loen aegajalt teadusartikleid õppimise tõhustamise kohta ning kui on välja selgitatud mingi tõhus meetod, siis katsetan seda oma õpilaste peal.
+Loen aegajalt teadusartikleid õppimise tõhustamise kohta ning kui on välja selgitatud mingi tõhus meetod, siis katsetan seda oma õpilaste peal. Nt lugesin kuskilt, et vaimse ja füüsilise pingutuse vaheldamine tõhustab õppimist. Seetõttu kaasasin õpilaste testimisse MathCityMapi.
 
 Tegevusnäitaja:
 
 > viib läbi tegevusuuringuid klassi/rühma tasandil, analüüsides õpiprotsessi, määratledes probleemid, kogudes tõendeid praktikast.  
 
 Õpilaste rühmad on sobilik katselabor õppemetoodika testimiseks. Üldiselt alustan meetoditest, mis on mul varem toiminud, ja kui näen ebakõla, siis proovin midagi muud.
+
+Oma ELU projektis testisin iga raja läbimise eel ja järel sama testiga kõiki osalejaid, et selgitada raja mõju osalejate teadmistele-oskustele[@a2025_4ruumdocx].
+
+Olen õpilastelt küsinud tagasisidet ning minu lemmikküsimused on:
+
+- mida uut õppisid,
+- mis oli väljakutse,
+- mis meeldis,
+- mis ei meeldinud[@a2025_tagasiside].
+
+Samuti saavad õpilased lisada vabas vormis tagasisidet.
 
 Tegevusnäitaja:
 
@@ -685,7 +785,7 @@ Tegevusnäitaja:
 
 > jälgib, hindab ja väärtustab oma füüsilist, vaimset ja emotsionaalset tervist, tegutseb nende tasakaalus hoidmise nimel.  
 
-Pean enda tervist oluliseks, sest kui olen ise korras, saan aidata teisi. Füüsilise tervise korrashoiuks annan kehale piisavalt aeroobset ja anaeroobset koormust, toitun võimalikult keha-, aga ka vaimusõbralikult, tegelen enda jaoks meeldivate ja huvitavate tegevustega, kasutan meeldivaid ja kasulikke vahendeid.
+Pean enda tervist oluliseks, sest kui olen ise korras, saan aidata teisi. Füüsilise tervise korrashoiuks annan kehale piisavalt aeroobset ja anaeroobset koormust, toitun võimalikult keha-, aga ka vaimusõbralikult, tegelen enda jaoks meeldivate ja huvitavate tegevustega, kasutan meeldivaid ja kasulikke vahendeid. Vaimse tervise korrashoiuks sisendan endale, et kõik loksub paika. Emotsionaalse tervise korrashoiuks elan end välja tenniseväljakul[@tennis], omaette või kaasinimes(t)ega arutledes arutledes. kairi ait väitis kunagi, et ma olevat loendamatus arvus Facebooki gruppides liige, misjärel sidusin oma konto lahti kõikidest gruppidest peale ühe, mis on mu enda loodud ja sisaldab ajaloolise väärtusega sisu. Tegin nii, et veebisaidid ei tülitaks mind märguannetega. Ülekoormusega õpetades jõuan vahel vahepeal saabunud meilid üle vaadata ainult korra nädalas reageerides kiiremini ainult kõige olulisematele meilidele.
 
 Tegevusnäitaja:
 
