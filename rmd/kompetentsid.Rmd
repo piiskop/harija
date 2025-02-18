@@ -769,7 +769,12 @@ Olen õpilastelt küsinud tagasisidet ning minu lemmikküsimused on:
 - mida uut õppisid,
 - mis oli väljakutse,
 - mis meeldis,
-- mis ei meeldinud[@a2025_tagasiside].
+- mis ei meeldinud[@a2025_tagasiside] (joonis \@ref(fig:reflection-feedback-from-pupil)).
+
+```{r label = "reflection-feedback-from-pupil", echo=FALSE, fig.cap = "Õpilase tagasiside kitsa matemaatika esimese kursuse läbiviimise kohta."}
+include_external_graphics("rmd/õpilase-tagasiside.pdf")
+
+```
 
 Samuti saavad õpilased lisada vabas vormis tagasisidet.
 
