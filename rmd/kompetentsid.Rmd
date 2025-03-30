@@ -8,6 +8,8 @@ Tegevusnäitaja:
 
 > on teadlik õppija füüsilise, kognitiivse, emotsionaalse ja sotsiaalse arengu alustest ning kultuurilistest eripäradest.
 
+[]{#support-movement}
+
 Füüsilise arengu toetamisel arvestan, et õppijad vajavad liikumist ja paindlikkust õppekorralduses. Kuna liikumine soodustab keskendumist ja üldist heaolu, olen aegajalt korraldanud mittekehalise teema õpet liikumise kaudu. Tennisetreenerina oli liikumine kaasatud õppeprotsessi loomuliku osana. Füüsikaõpetajana viisin Kohila Gümnaasiumis (KG) õpilaste testimist läbi MathCityMapiga, mis võimaldas õpilastel vaheldada vaimset ja füüsilist tegevust[@mathcitymap]. MathCityMapi kodulehel on hulganisti publikatsioone, milles kirjeldatakse uuringuid, kuidas mitmekesistada matemaatikaõppimist ning millest leiab väite, et vaimse ja füüsilise tegevuse vaheldamine on õppimises abiks. Arvutiteaduse klubis korraldasin orienteerumismänge, milles tuli lahendada arvutiteadusega seotud ülesandeid kasutades orienteerumiskaarti (joonis \@ref(fig:support-cs-orienteering)). Matemaatikaõppesse olen kaasanud käelist tegevust, muuseas paberlennukite lennutamist ja nihke mõõtmist üksliikmete teema praktilise ülesandena.
 
 ```{r label = "support-cs-orienteering", echo=FALSE, fig.cap = "Loogikat, arvusüsteeme, andmete esitust ja liikumist hõlmava orienteerumismängu näidiskaart."}
@@ -370,6 +372,8 @@ Esitan näite, kuidas teen seda NTK's gümnaasiumiastme matemaatika õpetamises.
 include_external_graphics("rmd/testi-soorituse-tagasisidestamine-IMG_20250205_132539.jpg")
 
 ```
+
+[]{#planning-creating}
 
 > koostab koostöös teiste spetsialistidega vajadusel individuaalse õppekava, käitumise tugikava ja/või arenduskava, arvestades hariduslike erivajadustega õppija toetamise põhimõtteid ning õppijate igakülgset arengut.  
 

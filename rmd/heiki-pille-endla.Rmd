@@ -1,0 +1,112 @@
+# Heikile, Pillele ja Endlale
+
+## Üldine
+
+### Küsimus[@a2025_re_taotlus]
+
+> Kust Te saite informatsiooni, kuidas e-portfooliot vormistada? Kas olete tuttav Eesti Õpetajate Liidu näidisportfoolioga, mis on vormistatud küsimuste-vastuste vormis: https://sites.google.com/view/6petaja-portfoolio-vastamiseks/esileht?authuser=3 ?
+
+### Vastus
+
+Informatsiooni, kuidas e-portfooliot vormistada, sain Eesti Õpetajate Liidu näidisportfooliost *Näidis_variant 1*[@nidis_variant1_2025_nidis_variant].
+
+## Õppija toetamine
+
+### Palve
+
+> 2.1.4. Palun esitage koopia enda tehtud individuaalsest õppekavast või käitumise tugikavast.
+
+### Vastus
+
+Sektsioon 2.1.4 siin teoses on *koostöise õppija kujundamine*. Sama tunnusega on näidisportfoolios küsimus:
+
+> Kuidas kaasan spetsialiste individuaalse õppekava, käitumise tugikava ja/või arenduskava koostamisel?
+
+Lisaks esitatud [vastusele](#planning-creating) on mul vähe lisada. Kirjadelõimes, milles mul see leht siin luua paluti, on kirjas:
+
+> Kui Teil on küsimusi või soovite midagi täpsustada, palun julgelt ühendust võtta.
+
+Esitasin täpsustava küsimuse:
+
+> Soovin täpsustada kohe esimest küsimust: 2.1.4 on koostöise õppija kujundamine. Sellega seoses palutakse mul esitada koopia enda tehtud individuaalsest õppekavast või käitumise tugikavast. Kas siin on ehk küsijal miski sassi läinud? Ma ei näe otsest seost selle tegevusnäitaja ja õppe- või tugikava koostamise vahel. Ma pole mitte kunagi oma 14-aastase õpetajana kulgemise kestel terviklikku IÕK'd koostanud, kuigi olen neid lugenud. Käitumise tugikavade koostamisega ma ka ei tegele, kuna see on ikkagi mitte erialaõpetaja, vaid rühmajuhi või eripedagoogi, tugispetsialisti valdkond. Annan küll soovitusi ja arutlen, küsin nõu. Narvas ma koostasin igale õpilasele individuaalse õpijärje ja seda ma saan küll põhjalikult kirjeldada. See pole siiski terviklik kava, sest iga päev on erinev ja me mitte kunagi ei tea, kus on sellel rajal järgmine käänak ning ehk tuleb hoopis kuskile juba varem külastatud paika tagasi minna, et lünk täita.
+
+Sain vastuseks:
+
+> Teil on võimalus vastata küsimustele ja avaldada selle kaudu oma arvamust. 
+Kahjuks ei ole mina hindamiskomisjoni liige ja ei oska küsimust kommenteerida. Küsimused hindamiskomisjonile saate esitada vestluse käigus.
+
+Niisiis, selgitan veelkord, kuidas ma koostan õpijärge igale oma Narva õpilasele (joonis \@ref(fig:support-math-study-order)). Esitatud pildil on iga täht üks õpiväljund või -teema:
+
+h
+: hulgad,
+
+298
+: järg õpikus, mis parasjagu kasutuses oli,
+
+a
+: arvuhulgad,
+
+j
+: juuravaldised,
+
+d
+: suvalise nurga siinuse, koosinuse ja tangensi määratlemine,
+
+r
+: teisendused radiaanide ja kraadide vahel,
+
+v
+: kordustestimine vajalik,
+
+t
+: trigonomeetriliste avaldiste teisendused.
+
+Vahel õppepäeva lõpus lasen igal õpilasel võtta endale üks hindeline ülesanne, mille põhjal tuvastan, kas ta on vastavad teadmised-oskused omandanud, sest selle ülesande lahendamiseks ei luba ma muud kasutada kui ta enda keha, kirjutusvahendit ja sedasama lipikut, millel on ülesande püstitus. Kui tuvastan, et ta suudab meenutada vähemalt kaht komponenti, siis märgin talle järgmiseks korraks järgmise teema. Vastupidises olukorras jätkab ta käsilolevas teemas. Nagu näha, on sellel pildil teemad kitsa matemaatika kahest kursusest[@gmnaasiumi]. Õpilased, kes olid kõik vajaliku etteantud ajaga selgeks saanud, jätkasid minuga ülesandest *298*. Ülejäänutele oli mul igaühel antud või anda väikese variatsiooniga ülesanded lahendada ning vahel oli juures ka selgitusi ja näiteid. Vahepeal liikusin ruumis ringi ja jälgisin õpilaste toimetamist ning sekkusin, kui märkasin, et keegi oli valele teele läinud. Iga õpilane võis ka suvalises hetkes küsida abi. Vahel hakkasid mõned õpilased üksteist aitama orgaaniliselt. Individuaalse õpijärje järgimise põhjus on, piltlikult öeldes me ei saa asuda ehitama teist korrust, kui eelnevalt pole rajatud vajalikud seinad, tellingud, trepid või tõstevahendid. Vahel mõni õpilane küsib, et kas ta ei saaks kohe asuda selle teema kallale, millega kõige edukamad tegelevad. Siis ma selgitan, et kõik sammud on vaja läbida, et kohale jõuda - hüppamiseks on lõhe liiga lai. Kui õpilaste tase oleks rühmas ühtlane, ei peaks individuaalseid õpijärgi sättima, kuid minu sihtgrupp on väga kirju taustaga. On isegi kümnenda taseme õpilane, kes ei tea, mitu minutit on tunnis. Et õpilase näeksid, kuidas õpiväljundid omavahel seotud on, ja milline teekond tuleb läbida, olen koostanud õpiväljundite seoste skeeme (joonis \@ref(fig:planning-targets)).
+
+Kui ma oleksin kellelegi kunagi koostanud individuaalse kava, siis millisel juriidilisel alusel ma üldse tohiksin selle avalikustada? Tegemist on ju  delikaatsete andmetega, kas pole?!
+
+Kui ma õpetasin üks-ühele arvutiteadust, siis õpilase soovil koostasin talle õppekava[@kalmer_2025_6].
+
+Kui ma tennist õpetasin, siis kasutasin ka individuaalset õpijärge ning grupeerisin õpilased vastavalt oskustele (joonised \@ref(fig:planning-tennis-camp) ja \@ref(fig:planning-tennis-lesson)).
+
+```{r label = "planning-tennis-camp", echo=FALSE, fig.cap = "Tennise õppesessioonide plaani alla on märgitud õpilaste nimed vastavalt sellele, milliste harjutusteni nad olid arenenud."}
+include_external_graphics("rmd/orange-1-camp.jpeg")
+
+```
+
+```{r label = "planning-tennis-lesson", echo=FALSE, fig.cap = "Individuaalplaan ühe õpilase treenimiseks ühes õppesessioonis."}
+include_external_graphics("rmd/tennis-lesson-planner.jpeg")
+
+```
+
+## Õpi- ja õpetamistegevuse kavandamine
+
+### Küsimus
+
+> Kirjutate. „Kuna liikumine soodustab keskendumist ja üldist heaolu, olen aegajalt korraldanud mittekehalise teema õpet liikumise kaudu.” Kuidas saaksite samaga oma kooli õpetajaid toetada, selle kaudu ka rohkem eeskuju pakkuda?
+
+### Vastus
+
+Kirjutasin sellest [vahetult pärast nimetatud lauset](#support-movement). Näitasin eeskuju oma tegevuste kaudu. Ükskord küsis mult bioloogiaõpetaja, kas õpetaksin tallegi, kuidas ma MathCityMapi kasutan. Ühes koolis, kus praegu õpetan, olen kaalunud liikumise kaasamist. Orgaaniliselt on see teostunud muus koolis, kus õpetan. Nimelt kutsusid õpilased mind piljardit mängima. Mängisime. Kui mainisin seda muu rühma õpilasele, siis ta tahtis ka. Ütlesin, et kui ta on tubli ja lahendame ülesanded ära, siis lähme. Kuna piljardilaud oli hõivatud muude õpilaste poolt, suundusime korvpallisaali korvpalli loopima. Piljard on ette tulnud korduvalt ja see on hea vaheldus arvutusliku mõtlemise arendamisele paberi ja kirjutusvahendiga mõeldes, kuidas on efektiivne ümmargust keha auku lüüa või visata. Esimene kord näitasin, millise nurga alt lööma asun, ning küsisin õpilastelt, milline see nurk on radiaanides ja milline on selle nurga siinus, koosinus või tangens. Õpilane võttis vedu ja ristas piljardikepid koordinaatteljestikuks. Muud õpetajad pole veel vedu võtnud. Samas, koolis, mida esimesena mainisin, käiakse õpilastega niigi palju väljas, nii et mul pole vaja eeskuju näidata. Meenub, et Peetris liitusin n-ö põhikoolilõpetajaile jooksukilomeetrite kogumisega joostes oma veerandtunnise osa. Esmalt mainitud koolis on mul veel teha arvutiteaduse projekte õpilastega ning võimalik, et kaasan kehalist liigutamist, on see siis MathCityMap, loogikamäng või mõistatusmängu koostamine. Õppekava õpiväljundite ja aja piirangud siiski liikumist ei soodusta. Kasutada saaks pause õppesessioonide vahel, aga see on ühtlasi aeg nii õpilastele kui õpetajatele meelelahutuseks, et järgnev meelteliitmise protsess edukalt vastu pidada.
+
+## Õpetamine
+
+### Küsimus
+
+> 3.3.1 Milliseid õppevorme ja õppemeetodeid kasutate?
+
+### Vastus
+
+Alustan kirjeldamist nendest õppevormidest ja -meetoditest, mida praegu kasutan.
+
+NTK's olen sättinud igale õpilasele õpijärje ning vastavalt õpijärjele olen andnud talle lahendada väikese variatsiooniga ülesanded, mille juurde kuulub vahel ka näidete ja selgituste komplekt. Õpilastega, kelle õpijärg on kõige kaugemal, tegutsen ise kasutades digitahvlit ja kriiditahvlit selgitades uut teemat. Selgitan jupi teooriat, mille kohta annan õpilastele lahendada hulganisti väikese variatsiooniga harjutusülesandeid. Vahel asub õpilane muud õpilast viimase järjes abistama, mistõttu kasutan teda heameelega abiõpetajana. Siis liigun ruumis ringi ja selgitan üks-ühele, kui kellelgi on abi vaja. Kui kõige edukamad õpilased on ülesanded lahendanud, kontrollime ja liigume edasi järgmise teooriajupiga. Vahel korraldan õppepäeva lõpus lühitesti. Selleks on mul läbitud õpiväljundite kohta mitmel Bloomi tasemel üks ülesanne. Õpilane valib õpiväljundi ja saab tõendada teadmisi-oskusi. Põhikooli osas on mul varasemast koostatud õpilood[@a2025_ksliikmedpilugudocx]. Üks rühm õpilasi õpib distantsilt iseseisvalt. Nendest mõni vahel soovib nõustamist ja siis olen läbi viinud Internetipõhise juhendamise.
+
+GK's on mul samuti sätitud igale õpilasele tema õpijärg, kui ta õpib viiendal või kuuendal tasemel. Vahel võtan mingi teema vahele ja siis teeme seda kõik koos. Nt hiljuti oli matemaatikaõpetajal vajadus, et õpilased oskaksid kasutada teaduslikku kalkulaatorit. Selleks viisin vastava teema infotehnoloogia (IT) õppesse sisse. Kaheksanda taseme õpilaste osas kurdeti, et nad ei oskavat kontoritarkvara kasutada. Niisiis alustasin nendega ja seitsmenda taseme õpilastega juba mitu kuud kestnud kontoritarkvara kasutamise õpet. Üheksanda taseme õpilastega on meil iga nädal reeglina uus teema, et tuvustada valdkonda võimalikult laiapinnaliselt. Viienda, kuuenda ja üheksanda taseme õpilased harjutavad iga õppesessiooni alguses pimekirjutamist, sest leian, et see on arvutiasjanduses üks vajalik alus. Kõigi õpilastega kasutame projektihalduse tarkvara, milles õppesessioonid on koosolekud ja õppeülesanded on kalendrisse pandud projektiülesanded. Iga kord üks õpilane märgib kohalolijad ning igaüks raporteerib oma ajakulu.
+
+TVW's rakendan ühist õpijärge kõigile õpilastele, sest õpilasi on vähe ja nende tase on ühtlane. Keemias järgime üht vana õpikut analüüsides igat lauset ja vahel selgitan juurde ja viime läbi eksperimente. Füüsikas olen valinud eri allikad, mille abil teemat käsitleda läbides esmalt teooria koos näidetega, kaasa arvatud valemite ümbermängimine, millele järgneb tekstülesannete lahendamine. Võimalusel oleme teinud eksperimente.
+
+Püüan iga õpilase suunata esmalt iseseisvalt või kaasõpilasega lahendust leidma ja sekkun, kui näen, et on vaja. GK's teeme nt kontoritarkvara osas mingi protseduuri sammhaaval ühiselt läbi ja kui keegi teistest maha jääb, siis temal soovitan esmalt probleem oma vikilehele kirjeldada ja otsida ise lahendust, järgnevalt küsida rühmakaaslaselt, kes oskab, ja viimasena minult. Vahel mõni õpilane hakkab kaasõpilasele valesti või liiga keeruliselt selgitama. Siis ka sekkun ja võtan üle. Lühitestide sooritused hindan ning kui mul vähegi on ajaliselt võimalik, kirjutan samale lehele näidislahenduse, et õpilane saaks ka sellest õppida. Hiljuti asusin tegema juhendvideosid õppeteemade kohta[@onlyoffice; @a2025_word_problem], milles ma ei kasuta inimeste vahelise suhtlemise keelt, vaid pilte ja sümboolikat, et oleks universaalselt mõistetav. Need videod on õpilastele, kes pole õppesessioonidest piisavalt õppinud, ja vajavad kompaktset lisatuge. Kuna nüüd juba umbes neli aastat ma õpin ka ise teadlikult, leian, et lünkasid ei tohi õppimise teekonda jätta, mistõttu kui avastan, et õpilane ei mõista mingit ülesannet lahendada seetõttu, et tal on varasemast teatud lünk, siis suunan ta kohe seda lünka täitma. Põhjustega tuleb tegeleda, siis on vähem tagajärjed mõnusamad.
+
+Üks-ühele õppes uurin välja, mida õpilasel vaja on, ja asume selle kallale. Vahel on mul olnud vaja valmistada õpetamine ette.
+
+Üldiselt kohanen pidevalt. Mitte üksnes iga päev, vaid iga tund on erinev muudest. Kui näen, et miski toimib hästi, soodustan selle toimimist. Kui näen, et miski ei toimi, siis muudan. Ei ole ühte universaalset lahendust kõigile ja tihti on vaja eksperimenteerida.
