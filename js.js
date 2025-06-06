@@ -44,6 +44,19 @@ function setTargets() {
   // createLink(div, "presentation-speaker-" + nameOfPresentation, "qmd/" + nameOfPresentation + "/" + nameOfPresentation + "-speaker.html", "Remote control");
 }
 
+/**
+ * This function translates texts on the page.
+ */
+function translate() {
+  document.getElementById("search").placeholder = "otsingusõne";
+  document.getElementsByTagName("nav")[0].getElementsByTagName("h2")[0].innerHTML = "Sisukord";
+  document.getElementById("book-repo").innerHTML = "terviklähtekood";
+  document.getElementById("toc").getElementsByTagName("h2")[0].innerHTML = "Siinsel lehel";
+  document.getElementById("book-source").innerHTML = "lehe lähtekood";
+  document.getElementById("book-edit").innerHTML = "lehe muutmine";
+}
+
 window.onload = function () {
   setTargets();
+  translate();
 };

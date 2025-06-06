@@ -38,6 +38,19 @@ ekk (C2), deu ([C1](https://nextcloud.tennis24.ee/index.php/s/3wy8RtJfc8gRncL)),
 
 ## []{#anchor-8}Common education & qualifications
 
+**01.06.2025–31.01.2026 Tartu Ülikool**\
+Õppearendus ja
+õppetöö läbiviimine ÕÜFi tegevuse „Ida Viru täiendkoolituse mahu suurendamine ning uute
+tasemeõppe õppekavade arendamine ja käivitamine kutse- ja kõrghariduses“ tegevuse 2.2.
+Kõrghariduse tasemeõppe õppekavade arendus ja õppe pakkumine õppimisvõimaluste
+mitmekesistamiseks Ida-Virumaal (HARNO projekt 2021-2027.6.01.23-0095) raames.
+
+**alates 14.04.2025 Eesti Õpetajate Liit**\
+Õpetaja, tase 7[@a2025_kutsetunnistus]
+
+**14.04.2025 Haridus- ja Noorteamet**\
+Praktiline töötuba tehisintellekti rakenduste kasutamiseks õppetöös $(4 \times 7{,}5 \times 10^{-1}\, \text{h})$[@a2025_praktilinettubatehisintellektirakendustekasutamiseksppetspdf]
+
 **26.02.2025 Tartu Ülikool**\
 Lugemisoskuse arendamine lõimitud
 aine- ja keeleõppes (8 tundi (0,25 EAP))
@@ -51,9 +64,6 @@ Aktiivõppemeetodid õppimisprotsessis (6 h = 0,25 EAP)
 **2024 Eesti Keele Instituut\
 **Tööalane täienduskoolitus *Haridustöötajate keeleõppe aruteluseminar*
 (4 h)
-
-**Since 2021 TALLINN UNIVERSITY, Tallinn**\
-"Integreeritud loodusteadused", BSc
 
 **25.04.2023-20.05.2024 Tallinna Ülikool, Tallinn\
 **"Õppimist toetav hindamine" (26 h)
@@ -107,13 +117,6 @@ Course (2 CP) „Strategical Leading of Sustainable Entrepreneurship" (A)
 **since 2003 Tallinna Tehnikaülikool, Tallinn\
 **shindo and latin american dance courses - initiator, project manager
 and assistant
-
-**2003-2006 Tallinna Tehnikaülikool, Tallinn**\
-[**M.Sc.**](https://nextcloud.tennis24.ee/index.php/s/9xE4CjR4Ag9DYRT)
-(tehnikateaduste magistri kraad) Computer Science\
-Master's thesis: „Estimation of the Size of a New Software Project With
-Function  Point  Analysis on the Basis of „Sports  Portal  of  Tallinn 
-University  of  Technology"" (A)
 
 **aug 2008 Studentenwerk Schleswig-Holstein, Kiel\
 **training
@@ -187,6 +190,13 @@ various offers and analyzes
 **2002-- 2003 Universität  Basel (University of Basel), Basel,
 Switzerland**\
 Advanced Training: Computer Science
+
+**2003-2006 Tallinna Tehnikaülikool, Tallinn**\
+[**M.Sc.**](https://nextcloud.tennis24.ee/index.php/s/9xE4CjR4Ag9DYRT)
+(tehnikateaduste magistri kraad) Computer Science\
+Master's thesis: „Estimation of the Size of a New Software Project With
+Function  Point  Analysis on the Basis of „Sports  Portal  of  Tallinn 
+University  of  Technology"" (A)
 
 **2004: Java, Sybase, Windows XP, Windows ME, Windows 2000, Sodipodi,
 Inkscape, Eclipse**
@@ -285,8 +295,6 @@ statistics system**; **leading comp sci clubs in Harku, Harjujärve,
 Muraste
 
 **Oct 2019 to May 2021 comp sci club in Peetri Lasteaed-Põhikool**
-
-**2024-2025 infotehnoloogia õpetaja Gaia Hariduse Seltsis**
 
 [****FrontAccounting****](http://mantis.frontaccounting.com/view_all_bug_page.php)**:
 reporting bugs**
@@ -404,6 +412,9 @@ course**](https://nextcloud.tennis24.ee/index.php/s/ZHNcKTJaXP77oNW)
 Tööalane täienduskoolitus **Digivõti: Õppija digipädevuse toetamine
 aineõpetajale: matemaatika** (39 h)**
 
+**Since 2021 TALLINN UNIVERSITY, Tallinn**\
+"Integreeritud loodusteadused", BSc
+
 **Mar-May 2023 MTÜ Edu Valem**\
 leading science club
 
@@ -441,11 +452,22 @@ Responsibilities included: in addition to participating in lectures,
 visits and workshops, holding a presentation about my experiences from
 the High school Teachers' Summer program 2024 at CERN
 
+**2024-2025 infotehnoloogia õpetaja Gaia Hariduse Seltsis**
+
 **Oct 2024 NARVA PÄHKLIMÄE KOOL, Narva, Ida-Virumaa, Estonia**\
 Nordplus PROJECT *TOWARDS REAL MATHS* (4 h)
 
 **2024-2025 Narva Täiskasvanute Kool, Narva, Ida-Virumaa, Estonia**\
 õpetaja
+
+**16.04.2025 TALLINNA TEHNIKAÜLIKOOL**\
+osalemine inseneriteaduskonna poolt korraldatud inseneeria infopäeval $(8 \times 7{,}5 \times 10^{-1}\, \text{h})$
+
+**5-6 May 2025 e-Technology Lab, ESEC-Galaxia, Belgium**\
+participation: TEACH WITH EARTH FROM SPACE WORKSHOP
+
+**2-3 June 2025 e-Technology Lab, ESEC-Galaxia, Belgium**\
+participation: TEACH WITH THE MOON WORKSHOP
 
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):

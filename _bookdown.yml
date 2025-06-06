@@ -9,5 +9,6 @@ rmd_files: [
   "rmd/cv-en.Rmd",
   "rmd/kompetentsid.Rmd",
   "rmd/heiki-pille-endla.Rmd",
+  "rmd/huumor.Rmd",
   "references.Rmd"
 ]
