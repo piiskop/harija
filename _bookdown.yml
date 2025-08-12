@@ -6,7 +6,7 @@ language:
     fig: 'Joonis '
 rmd_files: [
   "index.Rmd",
-  "rmd/cv-en.Rmd",
+  "rmd/cv/cv-en.Rmd",
   "rmd/kompetentsid.Rmd",
   "rmd/heiki-pille-endla.Rmd",
   "rmd/huumor.Rmd",
