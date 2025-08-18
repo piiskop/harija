@@ -480,6 +480,14 @@ include_external_graphics("rmd/cv/DJI_20250808203941_0206_D.JPG")
 
 ```
 
+**14.–17. august 2025 Eesti Astronoomia Selts, Udu talu[@a2019_udu], Änkküla, Jõgevamaa**\
+*Astronoomiafestival 2025[@a2025_astronoomiafestival] (four days)* (joonis \@ref(fig:CV-astronomy-fest)).
+
+```{r label = "CV-astronomy-fest", echo=FALSE, fig.cap = "Minu jäädvustatud Päike leekidega servadel läbi teleskoobi ja punase filtri."}
+include_external_graphics("rmd/cv/sun-red-filter-flames-on-edges-20250816_145746.jpg")
+
+```
+
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):
 instructions;
