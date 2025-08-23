@@ -488,6 +488,15 @@ include_external_graphics("rmd/cv/sun-red-filter-flames-on-edges-20250816_145746
 
 ```
 
+**21.\nobreakdash--23. augustil\ 2025.a. Eesti Matemaatika Seltsi Koolimatemaatika Ühendus (EMS KMÜ), Hiiumaal Pauka Puhkemajas**\
+*EMS KMÜ suvekoolis[@a2023_km] (14 akadeemilist tundi)* (joonis \@ref(fig:CV-EMS)).\
+Suvekooli peateemaks oli matemaatika õpitulemuste hindamise viisid ja vahendid.
+
+```{r label = "CV-EMS", echo=FALSE, fig.cap = "Matk lähiümbrusega tutvumiseks."}
+include_external_graphics("rmd/cv/luidja-DJI_20250822164904.JPG")
+
+```
+
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):
 instructions;
