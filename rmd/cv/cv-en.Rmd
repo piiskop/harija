@@ -38,7 +38,7 @@ ekk (C2), deu ([C1](https://nextcloud.tennis24.ee/index.php/s/3wy8RtJfc8gRncL)),
 
 ## []{#anchor-8}Common education & qualifications
 
-**01.06.2025–31.01.2026 Tartu Ülikool**\
+**01.06.2025–31.01.2026 Tartu Ülikool (TÜ)**\
 Õppearendus ja
 õppetöö läbiviimine ÕÜFi tegevuse „Ida Viru täiendkoolituse mahu suurendamine ning uute
 tasemeõppe õppekavade arendamine ja käivitamine kutse- ja kõrghariduses“ tegevuse 2.2.
@@ -494,6 +494,14 @@ Suvekooli peateemaks oli matemaatika õpitulemuste hindamise viisid ja vahendid.
 
 ```{r label = "CV-EMS", echo=FALSE, fig.cap = "Matk lähiümbrusega tutvumiseks."}
 include_external_graphics("rmd/cv/luidja-DJI_20250822164904.JPG")
+
+```
+
+**25.08.2025 kell 09:00 European Space Education Resource Office[@a2025_european], Tõraveres, TÜ Tartu observatooriumis[@a2021_to]**\
+*CanSati õpetajakoolitus[@a2024_cansat]* $(9\, \text{h})$ (joonis \@ref(fig:CV-CanSat)).
+
+```{r label = "CV-CanSat", echo=FALSE, fig.cap = "Tanel Viira tuletatud valem paarisaja grammise raskuse langetamiseks vajaliku langevarju pindala arvutamiseks."}
+include_external_graphics("rmd/cv/IMG_20250825_162820_1.jpg")
 
 ```
 
