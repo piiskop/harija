@@ -457,7 +457,7 @@ the High school Teachers' Summer program 2024 at CERN
 **Oct 2024 NARVA PÄHKLIMÄE KOOL, Narva, Ida-Virumaa, Estonia**\
 Nordplus PROJECT *TOWARDS REAL MATHS* (4 h)
 
-**2024-2025 Narva Täiskasvanute Kool, Narva, Ida-Virumaa, Estonia**\
+**2024-2025 Narva Täiskasvanute Kool, Narva, Ida-Virumaa, Estonia[@a2025_hid; @a2025_ntk_9]**\
 õpetaja
 
 **16.04.2025 TALLINNA TEHNIKAÜLIKOOL**\
@@ -502,6 +502,15 @@ include_external_graphics("rmd/cv/luidja-DJI_20250822164904.JPG")
 
 ```{r label = "CV-CanSat", echo=FALSE, fig.cap = "Tanel Viira tuletatud valem paarisaja grammise raskuse langetamiseks vajaliku langevarju pindala arvutamiseks."}
 include_external_graphics("rmd/cv/IMG_20250825_162820_1.jpg")
+
+```
+
+**kolmapäeval, 27.08.2025, algusega kell 9.30 Muraste Koolis (Lee tee 9, Muraste)[@a2025_muraste]**\
+*Harku valla haridustöötajate inspiratsioonipäev* $(6,25\, \text{h})$ (joonis \@ref(fig:CV-Harku-inspiration)).\
+Töötuba: Aktiivõppe võimalused koolis	[@iparimatepraktikatettoad15h_2019_i], Töötuba: Loodusained	[@ii_2019_ii].
+
+```{r label = "CV-Harku-inspiration", echo=FALSE, fig.cap = "Harku valla haridustöötajate inspiratsioonipäeva kava."}
+include_external_graphics("rmd/cv/harku-valla-haridustöötajate-inspiratsioonipäev-2025.jpg")
 
 ```
 
