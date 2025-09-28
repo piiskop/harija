@@ -514,6 +514,31 @@ include_external_graphics("rmd/cv/harku-valla-haridustöötajate-inspiratsioonip
 
 ```
 
+**12. september, 08:00 - 13. september, 17:00 Tallinna Prantsuse Lütseum**\
+*VI reaal- ja loodusteadusliku hariduse konverents*[@a2025_taotluste].\
+Töötuba: Origami kui võti ruumilise mõtlemise arendamiseks matemaatikas, Töötuba: Kiikumise füüsika! Kuidas praktiliselt määrata kiirendusega liikuva keha kaalu ilma liftita?.
+
+**23. septembril kell 9.00 – 15.00 TÜ Tartu observatoorium**\
+*Kosmos ühendab*[@a2025_taotluste] $(0,25\, \text{EAP})$.\
+Töötuba: Kiiremini, kõrgemale (joonis \@ref(fig:CV-Tartu-Kosmos)), Töötuba: Orbiidil.
+
+```{r label = "CV-Tartu-Kosmos", echo=FALSE, fig.cap = "Õppesessioonis teemal *Kiiremini, kõrgemale* valmistatud paberrakett."}
+include_external_graphics("rmd/cv/IMG_20250923_103902_1.jpg")
+
+```
+
+**26. september 2025 kell 16–22 Tallinna Tehnikaülikooli Mustamäe linnak**\
+*TalTechi Teadlaste öö 2025*[@a2020_teadlaste].\
+Tegevus: Laborikülastus – Uurime Ehituse Mäemaja liginullenergia laboreid ning tutvume ehitusjuhi ja ehitusfüüsiku argipäevaga (joonis \@ref(fig:CV-TalTECH-Teadlaste)), tegevus: Töötuba – Keemia arvutiga.
+
+```{r label = "CV-TalTECH-Teadlaste", echo=FALSE, fig.cap = "Tutvumine ehitusjuhi ja ehitusfüüsiku argipäevaga."}
+include_external_graphics("rmd/cv/IMG-20250926-WA0023.jpeg")
+
+```
+
+**26.08.2025.a- Sinimäe Põhikool, registrikood 75015893, asukoht Kesk 1, Sinimäe alevik, Narva-Jõesuu linn,  Ida-Virumaa; 40101[@a2025_sinime]**\
+õpetaja $(1,0\, \text{ametikohale})$.
+
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):
 instructions;
