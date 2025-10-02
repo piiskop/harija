@@ -10,5 +10,6 @@ rmd_files: [
   "rmd/kompetentsid.Rmd",
   "rmd/heiki-pille-endla.Rmd",
   "rmd/huumor.Rmd",
+  "rmd/tänamine.Rmd",
   "references.Rmd"
 ]
