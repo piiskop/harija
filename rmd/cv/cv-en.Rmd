@@ -536,6 +536,11 @@ include_external_graphics("rmd/cv/IMG-20250926-WA0023.jpeg")
 
 ```
 
+**10. okt. 2025 FuseNet**\
+*6th European Fusion Teacher Day*[@fusenet2025teacherday]\
+Kohalik sessioon: Tuumasünteesi tutvustus.\
+Euroopa sessioon: FuseNet õppevahendid & tõlked, EPFL (Šveits) tokamaki tuur, ITER õpretajate külastused DG ENER poolt.
+
 **26.08.2025.a- Sinimäe Põhikool, registrikood 75015893, asukoht Kesk 1, Sinimäe alevik, Narva-Jõesuu linn,  Ida-Virumaa; 40101[@a2025_sinime]**\
 õpetaja $(1,0\, \text{ametikohale})$.
 
