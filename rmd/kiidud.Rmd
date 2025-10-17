@@ -4,7 +4,7 @@
 
 Sinimäe Põhikooli õpetajate toas on silt:
 
-> Mille eest sa täna end kiidad?
+> Mille eest sa täna end kiidaksid?
 
 Jäin ükskord mõtlema sellele ega suutnud leida vastust. Ühes päevas tundsin, et sedapuhku tean vastust ja otsustasin oma vastused siia üles kirjutada.
 
@@ -59,3 +59,7 @@ Kiidan end, et sain matemaatika õpiväljundite skeemi tehtud ja seinale.
 ## 2025-10-15
 
 Kiidan end, et jõudsin ülikooli jaoks teha piisavalt slaide, et aega kohapeal üle ei jääks.
+
+## 2025-10-16
+
+Kiidan end, et läksin ööbimiskohta jõudnuna kohe magama, kuigi und jagus ainult paariks tunniks.
