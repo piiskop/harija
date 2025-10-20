@@ -63,3 +63,15 @@ Kiidan end, et jõudsin ülikooli jaoks teha piisavalt slaide, et aega kohapeal 
 ## 2025-10-16
 
 Kiidan end, et läksin ööbimiskohta jõudnuna kohe magama, kuigi und jagus ainult paariks tunniks.
+
+## 2025-10-17
+
+Kiidan end, et valisin hilisema rongi, sest nii sain nautida koolituse kõige lõbusamat osa.
+
+## 2025-10-18
+
+Kiidan end, et pärast \qty{12}{\kilo\m} jooksmist käisin Tibula supluskohas frigidaariumit kogemas, misjärel oli munand nagu lapsel ja pissimine valulik.
+
+## 2025-10-19
+
+Kiidan end, et võtsin ette *Ubuntu* uuendamise oma arvutis, sest muidu ma poleks selleni jõudnud, et ilma pika toeta versiooni ei tasu panna põhiarvutisse.
