@@ -187,3 +187,7 @@ Kiidan end, et sõitsin vastavalt teeoludele harjumatult väikese kiirusega, ses
 ## 2025-11-16
 
 Kiidan end, et otsustasin tennisemängus "kohal olla", sest tundus, et ma olen mõtetes võimalikus tulevikus.
+
+## 2025-11-17
+
+Kiidan end, et suutsin oma lauaarvutist automaatse kerimise eemaldada. Kulus küll mitu tundi ja eri tarkvaraliste muudatuste katsetamist, kuni taipasin hiire Bluetoothi jubina eemaldada.
