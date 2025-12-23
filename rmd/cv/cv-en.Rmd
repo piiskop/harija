@@ -547,8 +547,8 @@ Euroopa sessioon: FuseNet õppevahendid & tõlked, EPFL (Šveits) tokamaki tuur,
 **14.-15. novembril 2025.a. Estonian Physical Society, Voore puhkekeskus**\
 *füüsikaõpetajate sügisseminar* $(12\, \text{h})$
 
-**26.08.2025.a- Sinimäe Põhikool, registrikood 75015893, asukoht Kesk 1, Sinimäe alevik, Narva-Jõesuu linn,  Ida-Virumaa; 40101[@a2025_sinime]**\
-õpetaja $(1,0\, \text{ametikohale})$.
+**26.08.2025.a-19.12.2025.a Sinimäe Põhikool, registrikood 75015893, asukoht Kesk 1, Sinimäe alevik, Narva-Jõesuu linn,  Ida-Virumaa; 40101[@a2025_sinime]**\
+õpetaja $(1{,}0\, \text{ametikohale})$.
 
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):
