@@ -1,0 +1,1582 @@
+# Kronoloogia
+
+2025 lõpetasin õpetamise kolmes koolis ja asusin õpetama kahte kooli. Kirjeldan järgnevalt fototõendite alusel seda protsessi.
+
+Kuna üks nendest kahest koolist - Sinimäe Põhikool (SPK)[@sinimae_kool] - asus Sillamäele lähemal kui Narvale, otsustasin hakata ööbima Sillamäes[@sillamae_linn]. Esimese ööbimiskoha valisin hinna järgi kõige odavama kasutades Booking.comi[@viru_pst_20_hotel]. Olin küll arvestanud, eelmise õppeaasta hinnaga 20 eurot ööbimise eest jätkata ning kauplesin selle hüvitamise ka töölepingusse, ent Sillamäes nii odavalt ma ühtki ööbimiskohta ei leidnud. Kõige odavam oli 25 eurot öö kohta ja maksin kohe ära kolme esimese järjestikuse ööbimise eest. Mulle vastati inglise keeles ja leppisime kokku saabumisaja. Kui jõudsin kohale, tuli koridoris oodata (joonis \@ref(fig:chronology-accommodation-1-hallway) leheküljel `r render_pageref("fig:chronology-accommodation-1-hallway")`). 
+
+```{r label = "chronology-accommodation-1-hallway", echo=FALSE, fig.cap = "Esimese ööbimiskoha koridor.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/koridor-IMG_20250902_152039.jpg")
+
+```
+
+Saabunud inimene näitas mulle korterit, andis võtme ja võttis pandiks 50 eurot. Ta mainis midagi vaiba kohta vene keeles. Selgus, et ta ei oskagi inglise keelt ning püüdis tõlkerakenduse abi kasutada, mille peale pakkusin, et vestleme vene keeles. Kuigi korteri põrand oli kõikjal räpane, võttis ta jalanõud enda jalgade otsast ja liikus paljajalu. Pärast tema lahkumist tundsin vastikut lõhna elutoas ja ühtlasi midagi niisket. Vaip oli märg ja see haiseski. Magamisase polnud ette valmistatud, nii et tirisin diivani laiali ja hakkasin katma. Sobiliku suurusega tekki seal polnud, nii et kombineerisin mitmest tekist. Et olin väsinud, magasin mõne tunni ja õhtus läksin linna peale jalutama. Et oma masendust ebasobiliku korteri valikul tasakaalustada, otsisin kõigepealt üles ranna (joonis \@ref(fig:chronology-forbidden-city-beach) leheküljel `r render_pageref("fig:chronology-forbidden-city-beach")`).
+
+
+```{r label = "chronology-forbidden-city-beach", echo=FALSE, fig.cap = "Sillamäe rand."}
+include_external_graphics("rmd/kronoloogia/rand-IMG_20250902_192050.jpg")
+
+```
+
+Külastasin samuti *Sillamäe Maksimarketit*[@coop_sillamae_maksimarket] ning sellest poest sai mu igakordne külastussihitis, kuna alates kella 20'st saab sooja sööki poole hinnaga, mille õppisin, kui kuulasin pealt vestlust ühe ostja ja müüja vahel. Isegi kui allahindluse silt pole peale kleebitud, saab poole hinnaga, sest siis müüja kleebib selle peale. Tagasiteel jäädvustasin mälestuse oma esimese ööbimiskoha hoonest. Pildil \@ref(fig:chronology-accommodation-1-house) leheküljel `r render_pageref("fig:chronology-accommodation-1-house")` on haisva elutoa osaliselt avatud aken neljandal korrusel maja otsas. Kuna mu ööbimine ei toimunud viiendal korrusel, ei saanud ma testida, kuidas mu tervisele mõjub katusel olev saatja.
+
+```{r label = "chronology-accommodation-1-house", echo=FALSE, fig.cap = "Esimese ööbimiskoha hoone."}
+include_external_graphics("rmd/kronoloogia/maja-IMG_20250902_201730.jpg")
+
+```
+
+Järgmises hommikus avastasin kümblusnurgast näritud nätsu (joonis \@ref(fig:chronology-accommodation-1-chewing-gum) leheküljel `r render_pageref("fig:chronology-accommodation-1-chewing-gum")`). Ei tea, kas see oli sinna pandud, et hoida koos kaht liistu, varjata tumedat vahet või lihtsalt ei viitsitud enam närida.
+
+```{r label = "chronology-accommodation-1-chewing-gum", echo=FALSE, fig.cap = "Näritud näts esimeses ööbimiskoha kümblusnurgas.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/näts-IMG_20250903_075702.jpg")
+
+```
+
+Kuigi vaibaga oli proovitud ette võtta puhastusprotseduuri, oli mööblil silmnähtavalt tolmu (joonis \@ref(fig:chronology-accommodation-1-dust) leheküljel `r render_pageref("fig:chronology-accommodation-1-dust")`).
+
+```{r label = "chronology-accommodation-1-dust", echo=FALSE, fig.cap = "Klaaspinnaga laud oli tolmune."}
+include_external_graphics("rmd/kronoloogia/tolm-IMG_20250903_075724.jpg")
+
+```
+
+Nagi oli seina küljest hõlpsasti eemaldatav (joonis \@ref(fig:chronology-accommodation-1-coat-hanger) leheküljel `r render_pageref("fig:chronology-accommodation-1-coat-hanger")`).
+
+```{r label = "chronology-accommodation-1-coat-hanger", echo=FALSE, fig.cap = "Nagi oli *Plug and play*."}
+include_external_graphics("rmd/kronoloogia/nagi-IMG_20250903_075739.jpg")
+
+```
+
+Pärast koolipäeva võtsin vaevaks külastada ühe muu elumaja koridori, sest selle uks oli lahti. Väljavaateks oli kaks valikut: kas võrktrellide (joonis \@ref(fig:chronology-forbidden-city-bars) leheküljel `r render_pageref("fig:chronology-forbidden-city-bars")`) või pulktrellide (joonis \@ref(fig:chronology-forbidden-city-vertical-bars) leheküljel `r render_pageref("fig:chronology-forbidden-city-vertical-bars")`) vahelt. Välja sai vaadata pesukuivatuse alalt, kuhu pääses koridorist ukse kaudu (joonis \@ref(fig:chronology-forbidden-city-drying-area) leheküljel `r render_pageref("fig:chronology-forbidden-city-drying-area")`).
+
+```{r label = "chronology-forbidden-city-bars", echo=FALSE, fig.cap = "Väljavaade koridorist."}
+include_external_graphics("rmd/kronoloogia/trellid-IMG_20250903_151654.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-vertical-bars", echo=FALSE, fig.cap = "Väljavaade koridorist püstiste trellide tagant."}
+include_external_graphics("rmd/kronoloogia/püstised-trellid-IMG_20250903_151712.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-drying-area", echo=FALSE, fig.cap = "Pesukuivatuse ala."}
+include_external_graphics("rmd/kronoloogia/kuivatusala-IMG_20250903_151727_1.jpg")
+
+```
+
+Jalutasin taas veidi linna peal (joonised \@ref(fig:chronology-forbidden-city-houses) leheküljel `r render_pageref("fig:chronology-forbidden-city-houses")`, \@ref(fig:chronology-forbidden-city-houses-from-N) leheküljel `r render_pageref("fig:chronology-forbidden-city-houses-from-N")`, \@ref(fig:chronology-forbidden-city-houses-on-road) leheküljel `r render_pageref("fig:chronology-forbidden-city-houses-on-road")` ja  \@ref(fig:chronology-forbidden-city-underpass) leheküljel `r render_pageref("fig:chronology-forbidden-city-underpass")`).
+
+```{r label = "chronology-forbidden-city-houses", echo=FALSE, fig.cap = "Sillamäe majad."}
+include_external_graphics("rmd/kronoloogia/majad-IMG_20250903_153744.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-houses-from-N", echo=FALSE, fig.cap = "Sillamäe majad põhjast."}
+include_external_graphics("rmd/kronoloogia/majad-põhjast-IMG_20250903_153901.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-houses-on-road", echo=FALSE, fig.cap = "Rohkem Sillamäe maju."}
+include_external_graphics("rmd/kronoloogia/teel-IMG_20250903_154427.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-underpass", echo=FALSE, fig.cap = "Kangialune Sillamäes."}
+include_external_graphics("rmd/kronoloogia/kangialune-IMG_20250903_162156.jpg")
+
+```
+
+Kui elutoa kohandasin magamiseks, siis kööki sain kasutada töötegemiseks ja söömiseks (joonis \@ref(fig:chronology-accommodation-1-apartment-in-use) leheküljel `r render_pageref("fig:chronology-accommodation-1-apartment-in-use")`).
+
+```{r label = "chronology-accommodation-1-apartment-in-use", echo=FALSE, fig.cap = "Korter kasutuses."}
+include_external_graphics("rmd/kronoloogia/majutuskoht-IMG_20250904_014811.jpg")
+
+```
+
+Järgmises hommikus tegin ühe jäädvustuse teel bussi (joonis \@ref(fig:chronology-forbidden-city-walk) leheküljel `r render_pageref("fig:chronology-forbidden-city-walk")`).
+
+```{r label = "chronology-forbidden-city-walk", echo=FALSE, fig.cap = "Veel Sillamäe arhitektuuri."}
+include_external_graphics("rmd/kronoloogia/sillamäe-IMG_20250904_080810.jpg")
+
+```
+
+Õhtus otsustasin veel jäädvustada kööki (joonis \@ref(fig:chronology-accommodation-1-kitchen) leheküljel `r render_pageref("fig:chronology-accommodation-1-kitchen")`).
+
+```{r label = "chronology-accommodation-1-kitchen", echo=FALSE, fig.cap = "Esimese majutuskoha köök."}
+include_external_graphics("rmd/kronoloogia/köök-IMG_20250904_212734.jpg")
+
+```
+
+Jätsin majutuskohast Booking.com'i järgmise arvustuse:
+
+Positiivne:
+
+> The Internet connection over Wi-Fi was great. The water had no bad smell or taste. There were no cockroaches. The place was close to my bus stop.
+
+Negatiivne:
+
+> The apartment is kind of patched up. For instance, there is the thing one can hang something but it just falls out of the wall. The fridge door is gluing. The overall image of the apartment - dirty. If one walks on the floor barefoot, the feet get dirty right away. The carpet was wet with yellowish flicks and it was stinking. There glass table was not cleaned. A neighbor did smoke every once and then and the smell was lead into the apartment although it was stated that it was forbidden to smoke inside the apartment. It seems that the owner has done nothing to fight the neighbors regarding smoking. The sleeping place was not prepared. I had to do it on my own: pulling out the couch, putting the cover into the bag and doing the same with the pillow. Some bags were stinking, others were smelling different but tolerable. I had to use two covers as the largest one was just too short and I am just an average man. Some kitchenware was dirty. Although we agreed with the assistant of the owner that she would collect the keys five minutes before eight o'clock at the last day, she was not there. I had to figure out what to do with the keys and decided to put them into the post box. By closing the door of the box, the plastic of the outer door magnet key broke. I called her and she did not respond. Afterwards, she called back and we met and she could not enter as she had no other key. Moreover, she only could speak in Russian and English was available over a translation software. It is not agreeable in a country of European Union.
+
+SPK's sain kasutada kabineti *A2-33*, mille aknast avanes looduskaunis vaade. Ükskord, kui ma taas pilgu selle akna kaudu välja heitsin, nägin, et palju lapsi on väljas ja neile on justkui antud õpiülesanne ning nad teevad paljusid erinevaid tegevusi: kes istub pingil, kes müüril, kes püüab müürile saada, kes ripub puuoksa küljes (pilt \@ref(fig:chronology-learning-outside) leheküljel `r render_pageref("fig:chronology-learning-outside")`). 
+
+```{r label = "chronology-learning-outside", echo=FALSE, fig.cap = "Õpilased õues õppimas."}
+include_external_graphics("rmd/kronoloogia/õuesõpe-IMG_20250911_101901_1.jpg")
+
+```
+
+Kuna esimene majutuskogemus Sillamäes oli minu jaoks ebameeldiv, siis otsustasin sinna enam mitte kunagi naasta. Valisin edaspidisteks ööbimisteks hinna järgi järgmise sobiliku koha kasutades taas Booking.comi[@kvartira_posutochno_sillamae] (pilt \@ref(fig:chronology-accommodation-2) leheküljel `r render_pageref("fig:chronology-accommodation-2")`). Maksin seekord kolme järjestikuse ööbimise eest 88,47 eurot. Hind oli suurem ja kvaliteet oli parem. Sedapuhku pidin võtmenaist ootama välistingimustes. Ta on ukrainlanna, kes õppivat juba kuid eesti keelt, kuid keeldub seda rääkimast. Ka seekord oli meil lihtsam lülituda vene keelele. Ta näitas, et magnetiga saab alt sisse, suure võtmega korterisse ja väikese võtmega prügikonteineri juurde. Nagu eelmiseski hoones, olid uksed väljastpoolt maitsekalt disainitud. Korterisse sisenedes tervitas mind esmalt peegliga esik, kust sai suunduda elutuppa ja vannituppa. Elutoa lagi oli vooderdatud, võimalik et helisummutamise jaoks. Laes rippus kaabel lambipirniga. Sisenedes vasakul on kapp. Toas oli elektriradiaator, mille kasutamise eest sain hiljem pragada - elektriarve olevat mitmekordistunud. Küsis, kas maksan kinni - keeldusin. Talves, kui kurtsin, et õhutemperatuur on toas kõigest \qty{17}{\degreeCelsius}, lubas ta mul lisaahju siiski kasutada. Laudadel ja kummutil hoidsin oma asju, sahtleid ei kasutanud muuks kui ülikoolist toodud vihiku ja mittevajalike paberilehtede hoiustamiseks. Hiljem märkasin, et võtmenaine Angelina oli sahtlisse pannud ka ükskord ukse küljes rippunud suitsuanduri kontrolli ja postkastis olnud gaasiarve teate. Töölaua pind oli konarlik. Elektrivoolu sain anda sülerile laua kõrvalt seinast. Tool ei olnud reguleeritav, aga oli talutav. Vaip ei olnud märg ega haisenud. Läbi elutoa sai magamistuppa. Vannitoa uks oli väljastpoolt haagitav.
+
+```{r label = "chronology-accommodation-2", echo=FALSE, fig.cap = "Teine Sillamäe majutuskoht."}
+include_external_graphics("rmd/kronoloogia/majutuskoht-2-IMG_20250912_025036_1.jpg")
+
+```
+
+Korterist võis leida erinevaid kaunistusi (pildid \@ref(fig:chronology-accommodation-2-wall) leheküljel `r render_pageref("fig:chronology-accommodation-2-wall")`, \@ref(fig:chronology-accommodation-2-wall-decoration) leheküljel `r render_pageref("fig:chronology-accommodation-2-wall-decoration")`, \@ref(fig:chronology-accommodation-2-door-decoration) leheküljel `r render_pageref("fig:chronology-accommodation-2-door-decoration")` ja \@ref(fig:chronology-accommodation-2-door-side) leheküljel `r render_pageref("fig:chronology-accommodation-2-door-side")`). Rippuva kollase kaabli kohta küsisin Angelinalt, kes omakorda lubas omanikult küsida, aga vastata ei osanud ta pärast ikkagi konkreetselt. Kaabli otsas on vajutatav nupp. Ma seekord ei vajutanud. Miski võib müstiliseks ka jääda. Uksemaaling asub magamistoas. See uks paraku kinni ei püsinud. Ukse kõrval olevat termomeetrit kasutasin iga kord, et kindlaks teha, kas tsoon on minu jaoks elamiskõlblik. Uksepiida kividest laotud dekoratsioon asub elutoa ja köögi vahel. Ei tea, kas kivid said otsa, lõppes valuuta või aeg või tahe, aga terves ulatuses seda kaunistust pole.
+
+```{r label = "chronology-accommodation-2-wall", echo=FALSE, fig.cap = "Seinakaunistus."}
+include_external_graphics("rmd/kronoloogia/seinakaunistus-IMG_20250912_030058_1.jpg")
+
+```
+
+```{r label = "chronology-accommodation-2-wall-decoration", echo=FALSE, fig.cap = "Seinakaunistus lähedalt."}
+include_external_graphics("rmd/kronoloogia/seinakaunistus-lähedalt-IMG_20250912_030108.jpg")
+
+```
+
+```{r label = "chronology-accommodation-2-door-decoration", echo=FALSE, fig.cap = "Uksemaaling.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/uksekaunistus-IMG_20250912_030134.jpg")
+
+```
+
+```{r label = "chronology-accommodation-2-door-side", echo=FALSE, fig.cap = "Uksepiida kaunistus.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/uksepiit-IMG_20250912_030148_2.jpg")
+
+```
+
+Elutoas oleva diivani katte peal oli jalajälg (pilt \@ref(fig:chronology-accommodation-2-footprint) leheküljel `r render_pageref("fig:chronology-accommodation-2-footprint")`). Pärast seda, kui ma postitasin arvustuse piltidega Booking.comi, see jalajälg kaotati. Angelina soovitas liiga madala õhutemperatuuri korral kasutada seda diivanit magamiseks, aga õhutemperatuur oli selles kohas sama mis magamistoas.
+
+```{r label = "chronology-accommodation-2-footprint", echo=FALSE, fig.cap = "Tallajälg diivanil."}
+include_external_graphics("rmd/kronoloogia/tallajälg-IMG_20250912_075053_1.jpg")
+
+```
+
+Magamistoast avaneb vaade Kesk- ja Hariduse tänava vahelisele lõigule (pilt \@ref(fig:chronology-accommodation-2-view-from-bedroom) leheküljel `r render_pageref("fig:chronology-accommodation-2-view-from-bedroom")`). Huvitav, miks kasutatakse tänavanimena *Kesk*, kuna see ei ole grammatiliselt korrektne. Nähtavas või järgmises majas majutus kaasõpetaja, kes kurtis, et otsakorteris oli tal nii jahe, et ostis endale soojuskiirguri.
+
+```{r label = "chronology-accommodation-2-view-from-bedroom", echo=FALSE, fig.cap = "Vaade teise Sillamäe majutuskoha magamistoast."}
+include_external_graphics("rmd/kronoloogia/vaade-magamistoast-IMG_20250912_075121_2.jpg")
+
+```
+
+Köögist avaneb vaade Hariduse tänavale (pilt \@ref(fig:chronology-accommodation-2-view-from-kitchen) leheküljel `r render_pageref("fig:chronology-accommodation-2-view-from-kitchen")`).
+
+```{r label = "chronology-accommodation-2-view-from-kitchen", echo=FALSE, fig.cap = "Vaade teise Sillamäe majutuskoha köögist."}
+include_external_graphics("rmd/kronoloogia/vaade-köögist-IMG_20250912_075156_1.jpg")
+
+```
+
+Minu teine majutuskoht Sillamäes asus neljakorruselise hoone kolmandal korrusel (pilt \@ref(fig:chronology-accommodation-2-view-from-outside) leheküljel `r render_pageref("fig:chronology-accommodation-2-view-from-outside")`). Magamistoa aken on maja otsas. Voodil lesides kuulsin aegajalt heli, nagu keegi tõmbaks pillikeelt või traati. Ilmselt tulenes see sellest, et vihm tilkus redelile või oli seal lind.
+
+```{r label = "chronology-accommodation-2-view-from-outside", echo=FALSE, fig.cap = "Sillamäe teine majutuskoht väljaspoolt: kolmas korrus, redel."}
+include_external_graphics("rmd/kronoloogia/väljaspoolt-IMG_20250912_080606_2.jpg")
+
+```
+
+Lahkuda pärast viimast koolipäeva oli otstarbekas mitte Narva, vaid Vaivara rongipeatuse kaudu. Selleks sõitsin liini *33* bussiga kooli juurest otse *Vaivara* peatuseni[@ivytk_reisijatele_2025]. Oleksin võinud muidugi oodata liini *35S* või *35* bussi, täpselt ei mäleta, aga ei tahtnud riskida. Kui olin bussis, nägin, et mõõduka hilinemisega oli saabunud teine buss. Muidu saanuksin Sillamäes bussi vahetada kohaliku liini *3* bussi vastu, millega saanuksin otse rongipeatusse[@sillamae_linnaliin_3_2025]. Bussis sõites nägin, et ma poleks siiski jõudnud liini *3* bussi. Nii et kõmpisin maanteelt rongipeatuseni silmitsedes kergliiklustee ehitamist (pilt \@ref(fig:chronology-vaivara-1) leheküljel `r render_pageref("fig:chronology-vaivara-1")`). 
+
+```{r label = "chronology-vaivara-1", echo=FALSE, fig.cap = "Vaivara kergliiklustee ehitamine."}
+include_external_graphics("rmd/kronoloogia/vaivara-1-IMG_20250912_143034_1.jpg")
+
+```
+
+Kuna teine majutuskoht tundus talutav, otsustasin seal ööbimist jätkata. Kuna mul oli kokkulepe majutuskulu katmiseks vaid 20 euro ulatuses ööbimise kohta, siis proovisin seda hinda välja kaubelda:
+
+> Can we make the deal that I will use this apartment each week from Tuesday to Friday with exceptions and the price per one night will be 20 euros? If the particular night is for Tartu Ülikool then they can also pay the current price but I only need it for once every three weeks. The rest, I calculated based on an apartment in Narva that I used previous study year, so that it is included in my salary. Back then, the owner marked my nights unavailable in AirBnB and I paid in cash.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevale  kolmapäev, 10. sept · 22:18 ')`
+
+> Hello, this apartment will be closed from September 19 to October 8, I need to leave. I talked to the owner about your question, he said that he can offer you 25 euros per day. Because there are a lot of expenses, cleaning, taxes, utilities. And 20 euros per day will not be enough for him.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt  neljapäev, 11. sept · 14:06 ')`
+
+> Does it mean that I can use the apartment during the next week as this week or leaving on Friday morning would be too late? 25 euros is not great but reasonable and acceptable.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevale   neljapäev, 11. sept · 18:31 ')`
+
+> Hello, you can book the apartment by phone whenever you need. The only thing is that the apartment will be forced to close on September 29, but you will be able to leave on Friday, September 29 in the morning. It will be closed for about 3 weeks. Then you will be able to book again.
+>
+> September 19
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt reede, 12. sept · 08:07')`
+
+> Can we agree then that in the next week, I will use the apartment like in this week: from Tuesday to Friday considering the same approximate arrival and departure time? Would it cost for me then 75 euros? How would you prefer to receive the payment?
+> 
+> As I slept in Narva last study year then there was also an occasion when the owner was abroad and as she new that meanwhile, nobody else would want to use the apartment, she left the keys by me and I only used the apartment on agreed days.
+>
+By the way, the first two nights were nice quiet but during the last night, somebody cried at each other until 3 a.m. when they turned on a TV device loud followed by loud music and maybe it was 4 a.m. when they became quiet.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevale reede, 12. sept · 08:07')`
+
+Samas päevas kirjutasin arvustuse Booking.comi:
+
+Positiivne:
+
+> Getting along with the administrator was fluent. The apartment has some good parts like enjoyable art, hot water, bathtub curtain, work desk, a suitable chair for that, a suitable bed fully prepared. During the first two nights, it was also silent and therefore good for sleeping. There is a clean and working fridge and enough other kitchenware. The apartment offers tea and somebody had also left something to eat which I did not do yet. The apartment is clean. Supermarkets are five minutes away and my bus stop was two minutes away. Not for a single moment I smelled some smoke and I am very sensible to it. I could sleep well except the last night. There are enough towels.
+
+Negatiivne:
+
+> In 2025, it is a non-written standard that there is a high-speed Internet connection available. Unfortunately, there is none and even the cell network is pretty slow. The apartment is renovated with some new mostly primitive things that break up easily: for instance, the ceiling is covered by foam tiles, maybe for sound and heat insulation however it is wearing off and somebody had also tried to fix it with an office tape. Beautiful new parts mix with old worn-off-parts. For instance, there is a beautiful painting over a whole door of the dorm room however other inner doors look old and even that one is tired and does not stay closed. The toilet flush is not powerful enough. I had to remove the cover and fill it by shower. During the last night approximately until 4 a.m., some neighbors were yelling at each other, watching television and listening to music loud so that it disturbed my sleep. And it was a night between a Thursday and a Friday in September. The towels smell after washing powder or softener or something like that.
+
+> 
+https://www.booking.com/Share-XP8h0w
+>
+Hello, I think we can come up with something, I’ll ask the owner.
+>
+we can offer another option, link above. The apartment has internet, TV, everything necessary for comfortable living.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt  laupäev, 13. sept · 10:49 ')`
+
+> I found out from the owner, you can use the apartment next week and others. The price for 3 nights will be 75 euros. Payment before check-in can be made to the company account. The accountant will send you a receipt on September 15, she is currently on a business trip.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt   laupäev, 13. sept · 14:24')`
+
+Seega sain kaubeldud hinna küll veidi alla, aga mitte soovitud tasemele, millest ma järeldan, et Sillamäes on majutuse hinna ja kvaliteedi suhe tarbija suhtes kehvem kui Narvas.
+
+Tavaliselt tuli mul oodata võtmenaist maja ees (pilt \@ref(fig:chronology-accommodation-2-in-front-of-house) leheküljel `r render_pageref("fig:chronology-accommodation-2-in-front-of-house")`).
+
+```{r label = "chronology-accommodation-2-in-front-of-house", echo=FALSE, fig.cap = "Sillamäe teise majutuskoha majaesine."}
+include_external_graphics("rmd/kronoloogia/majaesine-IMG_20250916_152145_1.jpg")
+
+```
+
+Magamistoa akna ees oli ruloo, mida sai avada ainult nii palju nagu pildil \@ref(fig:chronology-accommodation-2-window-of-bedroom) leheküljel `r render_pageref("fig:chronology-accommodation-2-window-of-bedroom")`. Sulgeda sai seda küll täielikult, nii et õuevalgus tuppa ei paistnud. Ühtlasi oli see soojusisolaatoriks.
+
+```{r label = "chronology-accommodation-2-window-of-bedroom", echo=FALSE, fig.cap = "Sillamäe teise majutuskoha magamistoa aken."}
+include_external_graphics("rmd/kronoloogia/magamistoa-aken-IMG_20250918_022317_1.jpg")
+
+```
+
+Isegi koridoris oli näha kunstilist innovatsiooni: uksepiida äär põrandas oli tehtud lahtiste kividega (pilt \@ref(fig:chronology-accommodation-2-hallway) leheküljel `r render_pageref("fig:chronology-accommodation-2-hallway")`).
+
+```{r label = "chronology-accommodation-2-hallway", echo=FALSE, fig.cap = "Sillamäe teise majutuskoha koridor."}
+include_external_graphics("rmd/kronoloogia/koridor-IMG_20250918_203528.jpg")
+
+```
+
+Ma polnud rahul ühistranspordi korraldusega:
+
+> Alates septembrist õpetan Sinimäe Põhikoolis ja reedeti lahkun Vaivara kaudu rongiga. Olen nüüdseks kaks reedet jäänud maha liini 3 bussist, sest liini 35 buss regulaarselt hilineb. Ühtlasi on liini 3 sõiduaeg selline, mille puhul jõutaks Vaivara rongipeatusse liiga vara ja seal pole kuskil oodata. Miks ei võiks liini 3 bussid reedeti, pean silmas just 14:39 väljuvat rongi Tallinna suunas, oma viis minutit hiljem Kooli peatusest lahkuda või vähemalt oodata viimase piirini ära 35 bussi, et sellest bussiliinist sellisel kujul reaalselt kasu oleks? Olen pidanud Vaivarasse reisimiseks kasutama liini 33 bussi ja see peatub üsna kaugel rongipeatusest. Kummalgi korral olen olnud ainus väljuja.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- e-kiri Sillamäe linnavalitsusse   2025-09-23 21:42')`
+
+Nagu mainitud, olid poed lähedal ja lähestikku. *Maxima XX*'s käisin eelkõige seetõttu, et seal saab alates kella 19'st alandatud hinnaga pagaritooteid[@maxima_kauplused]. Hiljem avastasin ka, et seal on mahetomateid. Ükskord leidsin sealt ka plastikkastid, millesse sai sektsioonidesse jaotatult tassida nii *A4*-pabereid kui *B5*-raamatuid. Aegajalt kohtasin seal oma kaheksanda aasta õpilast, kes tavaliselt ei liikunud üksi, vaid koos oma kaaskonnaga. Ükskord hõikas ta mulle, et matemaatikaga olevat halvasti. Hiljem selgus, et tal oli tõesti. Purskkaev pritsis siiski värvilist vett, et head tuju taastada (pilt \@ref(fig:chronology-forbidden-city-maxima) leheküljel `r render_pageref("fig:chronology-forbidden-city-maxima")`).
+
+```{r label = "chronology-forbidden-city-maxima", echo=FALSE, fig.cap = "Purskkaev Sillamäe *Maxima XX*i juures."}
+include_external_graphics("rmd/kronoloogia/maxima-IMG_20250924_203029_1.jpg")
+
+```
+
+Päev hiljem sain linnavalitsusest vastuse:
+
+> Saadan Teile infoks allpool oleva kirja seoses busside nr 31 ja 35 sõidugraafikute muutmisega.
+>
+> Lugupidamisega
+>
+Jevgeni Makarov
+
+> Sillamäe Linnavalitsuse linnamajanduse osakond
+> 
+Juhataja asendaja
+>
+jevgeni.makarov@sillamae.ee
+>
+tel +372 39 25 731
+>
+mob +372 5672 6460
+>
+From: heiki.luts@ivytk.ee <heiki.luts@ivytk.ee>
+Sent: Wednesday, September 24, 2025 9:17 PM
+To: IVÜTK <info@ivytk.ee>
+Subject: 1. oktoobrist muutuvad Narva jaamast kaks väljumise aega maakonnaliinidel nr 31 ja 35
+>
+1. oktoobrist muutuvad Narva jaamast kaks väljumise aega maakonnaliinidel nr 31 ja 35
+>
+Liin nr 31 Narva-Narva-Jõesuu
+* Taastatakse väljumine E-P 16:15 (senine 16:30 oli seotud ELRON reisirongi saabumisega, kuid enam ei kehti), millega ühtlustub liini nr 31 väljumiste intervall.
+>
+Liin nr 35 Narva-Sillamäe
+* Taastatakse väljumine E-P 13:30 (senine 13:35 oli seotud ELRON reisirongi saabumisega, kuid enam ei kehti). Muudatus annab võimaluse Sillamäel jätkata sõitu linnaliiniga nr 3 Vaivara jaama, kust kell 14:39 väljub ELRON reisirong Tallinna suunas.
+>
+MTÜ Ida-Viru Ühistranspordikeskus
+e-post: info@ivytk.ee
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- e-kiri Sillamäe linnavalitsusest  2025-09-25 14:54')`
+
+Seega kahe päevaga lahendati probleem, mille oleksid nad võinud lahendada ilma minu kirjata, aga siiski tunnustan neid selle eest.
+
+26\. septembripäevas korraldas SPK huvijuht spordipäeva. Meenutan, et kui minu ajal oli spordipäev, siis korraldati nt orienteerumisvõistlus, milles tuli läbida lahmakas maaala ja kontrollpunktides vastata küsimustele, mis puudutasid nt ajalugu. Üks selliseid küsimusi oli: Millises aastas toimus Jüriöö ülestõus? Teadsin selle vastust peast ja olin uhke, et sain oma võistkonda aidata. Meie võistkonnas oli talendikas laulja ja näitleja, kes suutis kõige kiiremini ja kaugemale joosta ning ta lõpetas ka esimesena olles meie kahe amatööri peale pahane, et aega viitsime. Liiva sees oli raske joosta. Sedapuhku oli üks ala lestade ja ujumisprillidega trajektoori mööda liikumine ja palli täpsusviskamine, mille läbiviijaks valiti mind (pilt \@ref(fig:chronology-spk-sports-day) leheküljel `r render_pageref("fig:chronology-spk-sports-day")`).
+
+```{r label = "chronology-spk-sports-day", echo=FALSE, fig.cap = "Sinimäe Põhikooli 2025. a spordipäev."}
+include_external_graphics("rmd/kronoloogia/spordipäev-IMG_20250926_103557_1.jpg")
+
+```
+
+Pärast spordipäeva läbiviimise abistamist tutvusin ümbruskonnaga. Suves oli suletud minu kodualevikus sellestsaadik, kui Harkusse elama kolisin, tegutsenud Keila Tarbijate Ühistu (KTÜ) üldtarvete pood[@delfi_arileht_vaikepood_kaob_2025], mis on tänaseks asendatud *SuPerAlko* keti poega veinipoe kõrval. Üht Harku endise poe müüjat nägin oktoobris *Rõõmu Kaubamaja*s töötamas[@roomu_kaubamaja_keila]. Huvitav asjaolu on, et *SuPerAlko* kodulehel on endiselt info ainult kolme lähestikku asuva Tallinna poe kohta[@viinarannasta_shops_map]. Segadus paistab siiski olevat selles teemas, sest Harkus on hoopis muu omaniku *SuPerAlko*[@cityalko_shops_map]. Ka see väide pole tõene, sest tuleb välja, et omanik on lausa sama[@aldar_veeb], aga osa *SuperAlko* või *SuPerAlko* poode on hoopis *CityAlko* kodulehe kaudu leitavad. Ei, siiski kõik nende poed on viimase kodulehe kaudu leitavad ja sadamas on lihtsalt *Viinarannasta* erilised turistidele mõeldud poed[@superalko_contact]. Aldaril on 46 poodi, KTÜ'l kaheksa[@keila_ty_kauplused]. Aldar Eesti kasum oli 2024. a \qty{1655357}{\euro}, kuid aasta varem lausa \qty{2922574}{\euro}. KTÜ 2024. a kasum oli \qty{571130}{\euro}, aasta varem \qty{893231}{\euro}[@inforegister_keila_tarbijate_uhistu]. Aldar tegutseb üle Euroopa[@aldar_veeb], KTÜ Harjus. Juba varem suleti Harku alevikus Omniva postkontor, mis asendati pakiautomaadiga. Kui ma Sinimäesse jõudsin, oli ka Sinimäe kaupluse tegevus juba lõpetatud ja kaks õpetajat, kellel oli võimalus elada koolimaja korterites, pidid oma sisseostud tegema Sillamäes, Narvas või Narva-Jõesuus (pilt \@ref(fig:chronology-war-village-shop) leheküljel `r render_pageref("fig:chronology-war-village-shop")`). Kahetoalise kinnisvara saab osta 80 000 euro eest[@trianon_object_4292]. Sinimäesse pole veel alkoholitoodete poodi asemele tekitatud. Sinimäe pood kuulus[@16366_sinimae_kauplus_swilton_trans] väidetavalt maantee vedudega tegelenud Swilton Trans osaühingule[@ariregister_swilton_trans], mis pole vastavalt 2024. a majandusaasta aruandele enam tegutsev[@ariregister_swilton_trans_document_9013159370, lk 4].
+
+```{r label = "chronology-war-village-shop", echo=FALSE, fig.cap = "Sinimäes oli kunagi pood. Nüüd on selle asemel *Coca-Cola* joomise koht."}
+include_external_graphics("rmd/kronoloogia/pood-IMG_20250926_132647_1.jpg")
+
+```
+
+Olin juba varem mööda sõites märganud Sinimäe vaatetorni ja nüüd kasutasin võimalust, et minu transport ei sõltu busside sõiduplaanist ja ronisin torni (pildid \@ref(fig:chronology-war-village-tower-E) leheküljel `r render_pageref("fig:chronology-war-village-tower-E")`, \@ref(fig:chronology-war-village-tower-N) leheküljel `r render_pageref("fig:chronology-war-village-tower-N")`, \@ref(fig:chronology-war-village-tower-E-directly) leheküljel `r render_pageref("fig:chronology-war-village-tower-E-directly")`, \@ref(fig:chronology-war-village-tower-S) leheküljel `r render_pageref("fig:chronology-war-village-tower-S")`, \@ref(fig:chronology-war-village-tower-W) leheküljel `r render_pageref("fig:chronology-war-village-tower-W")`, \@ref(fig:chronology-war-village-tower-N-directly) leheküljel `r render_pageref("fig:chronology-war-village-tower-N-directly")`, \@ref(fig:chronology-war-village-tower-with-me) leheküljel `r render_pageref("fig:chronology-war-village-tower-with-me")`, \@ref(fig:chronology-war-village-tower-stage) leheküljel `r render_pageref("fig:chronology-war-village-tower-stage")` ja \@ref(fig:chronology-war-village-tower-videovalve) leheküljel `r render_pageref("fig:chronology-war-village-tower-videovalve")`).
+
+```{r label = "chronology-war-village-tower-E", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist itta läbi trellide."}
+include_external_graphics("rmd/kronoloogia/torn-e-IMG_20250926_133940_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-N", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist põhja ja piirangute teave."}
+include_external_graphics("rmd/kronoloogia/torn-n-IMG_20250926_134114_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-E-directly", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist itta."}
+include_external_graphics("rmd/kronoloogia/torn-e-IMG_20250926_134406_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-S", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist lõunasse: taamal Auvere elektrijaam."}
+include_external_graphics("rmd/kronoloogia/torn-s-IMG_20250926_134424_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-W", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist läände: vaataja poolt vasakul on muuseum, keskel koolimaja ja taamal Sillamäe."}
+include_external_graphics("rmd/kronoloogia/torn-w-IMG_20250926_134445_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-N-directly", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist põhja."}
+include_external_graphics("rmd/kronoloogia/torn-n-IMG_20250926_134457_2.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-with-me", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist läände minu, koolimaja ja Sillamäega."}
+include_external_graphics("rmd/kronoloogia/torn-minuga-IMG_20250926_134602.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-stage", echo=FALSE, fig.cap = "Vaade Sinimäe vaatetornist alla lavale.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/torn-lava-IMG_20250926_134648_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tower-videovalve", echo=FALSE, fig.cap = "Torni sisenedes tuleb arvestada videoventiiliga."}
+include_external_graphics("rmd/kronoloogia/videovalve-IMG_20250926_135329_2.jpg")
+
+```
+
+Torni ja koolimaja vahel oleva mänguväljaku seinale oli keegi kritseldanud avaldise (pilt \@ref(fig:chronology-war-village-term) leheküljel `r render_pageref("fig:chronology-war-village-term")`). Ma pole kuskil mujal näinud sellist matemaatilist grafitit. Ühest küljest on tegemist matemaatika populariseerimisega avalikus ruumis, teisest küljest näitab õpilase tunnet ja suhtumist. 
+
+```{r label = "chronology-war-village-term", echo=FALSE, fig.cap = "Avaldis."}
+include_external_graphics("rmd/kronoloogia/avaldis-IMG_20250926_135641_1.jpg")
+
+```
+
+Tagasiteel jäädvustasin mälestuse kohast, milles Narva suunas on kahe, Tallinna suunas neljarealine tee, sest selline avanemine tekitas minus erilise tunde (pilt \@ref(fig:chronology-branching) leheküljel `r render_pageref("fig:chronology-branching")`).
+
+```{r label = "chronology-branching", echo=FALSE, fig.cap = "Avanemine."}
+include_external_graphics("rmd/kronoloogia/hargnemine-IMG_20250926_153027.jpg")
+
+```
+
+[]{#chronology-laundry}
+
+Mind väga häirib, kui voodipesu või rätikud on lõhnastatud:
+
+> Oleks tore, kui rätikute ja voodipesu pesemisprotsessis ei kasutataks lõhnastatud vahendeid.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevale  laupäev, 27. sept · 00:12')`
+
+> Me ootame teid, elementary pesuvahendi vahetanud
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt  esmaspäev, 29. sept · 09:58')`
+
+Siis saabus Sillamäesse sügis (pilt \@ref(fig:chronology-forbidden-city-autumn) leheküljel `r render_pageref("fig:chronology-forbidden-city-autumn")`).
+
+```{r label = "chronology-forbidden-city-autumn", echo=FALSE, fig.cap = "Sügis Sillamäes."}
+include_external_graphics("rmd/kronoloogia/sügis-IMG_20251002_162820_1.jpg")
+
+```
+
+Sügiseti on õhtud pimedad (pilt \@ref(fig:chronology-forbidden-city-evening) leheküljel `r render_pageref("fig:chronology-forbidden-city-evening")`).
+
+```{r label = "chronology-forbidden-city-evening", echo=FALSE, fig.cap = "Õhtu Sillamäes."}
+include_external_graphics("rmd/kronoloogia/õhtu-IMG_20251002_200400_1.jpg")
+
+```
+
+Tavaliselt sõitsin koolibussiga[@sinimae_kool_koolibuss] Sillamäest Sinimäesse sisenedes bussi *Sõpruse* peatuses[@peatus_ee_stop_32468] (pilt \@ref(fig:chronology-forbidden-city-morning) leheküljel `r render_pageref("fig:chronology-forbidden-city-morning")`).
+
+```{r label = "chronology-forbidden-city-morning", echo=FALSE, fig.cap = "Hommik Sillamäes."}
+include_external_graphics("rmd/kronoloogia/hommik-IMG_20251008_080627_1.jpg")
+
+```
+
+Sügis saabus ka Sinimäesse (pilt \@ref(fig:chronology-spk-autumn) leheküljel `r render_pageref("fig:chronology-spk-autumn")`).
+
+```{r label = "chronology-spk-autumn", echo=FALSE, fig.cap = "Sügis Sinimäes."}
+include_external_graphics("rmd/kronoloogia/sügis-IMG_20251008_131956_1.jpg")
+
+```
+
+Ükskord, kui taas Vaivara kaudu koju sõitsin, passis seal kaubarong ning ma jälgisin, kuidas selle äraviimist ette valmistati (pildid \@ref(fig:chronology-vaivara-train-1) leheküljel `r render_pageref("fig:chronology-vaivara-train-1")`, \@ref(fig:chronology-vaivara-train-2) leheküljel `r render_pageref("fig:chronology-vaivara-train-2")` ja \@ref(fig:chronology-vaivara-train-3) leheküljel `r render_pageref("fig:chronology-vaivara-train-3")`).
+
+```{r label = "chronology-vaivara-train-1", echo=FALSE, fig.cap = "Rong Vaivaras."}
+include_external_graphics("rmd/kronoloogia/rong-IMG_20251010_142839_1.jpg")
+
+```
+
+```{r label = "chronology-vaivara-train-2", echo=FALSE, fig.cap = "Rong Vaivaras minuga."}
+include_external_graphics("rmd/kronoloogia/rong-IMG_20251010_142859.jpg")
+
+```
+
+```{r label = "chronology-vaivara-train-3", echo=FALSE, fig.cap = "Rong Vaivaras tõkiskingadega."}
+include_external_graphics("rmd/kronoloogia/pidurid-IMG_20251010_143146_1.jpg")
+
+```
+
+Oktoobris hakati Sillamäe minu teise majutuskoha maja esist ja sissekäiku remontima (pilt \@ref(fig:chronology-forbidden-city-renovation) leheküljel `r render_pageref("fig:chronology-forbidden-city-renovation")`).
+
+```{r label = "chronology-forbidden-city-renovation", echo=FALSE, fig.cap = "Minu teise majutuskoha majaesise ja sissekäigu remont."}
+include_external_graphics("rmd/kronoloogia/remont-IMG_20251014_152402_1.jpg")
+
+```
+
+17\. oktoobripäevas koolitati SPK inimesi tulemaks toime hariduslike erivajadustega õpilastega (pildid \@ref(fig:chronology-spk-schooling-1) leheküljel `r render_pageref("fig:chronology-spk-schooling-1")`, \@ref(fig:chronology-spk-schooling-2) leheküljel `r render_pageref("fig:chronology-spk-schooling-2")` ja \@ref(fig:chronology-spk-schooling-3) leheküljel `r render_pageref("fig:chronology-spk-schooling-3")`).
+
+```{r label = "chronology-spk-schooling-1", echo=FALSE, fig.cap = "Õpetajate koolitus hariduslike erivajadustega õpilastega toimetulemiseks: vaja oli seostada end pildiga."}
+include_external_graphics("rmd/kronoloogia/koolitus-IMG_20251017_093302_1.jpg")
+
+```
+
+```{r label = "chronology-spk-schooling-2", echo=FALSE, fig.cap = "Õpetajate koolitus hariduslike erivajadustega õpilastega toimetulemiseks: pallikese valiku kaudu jaotati meid rühmadesse."}
+include_external_graphics("rmd/kronoloogia/lilla-IMG_20251017_105612_1.jpg")
+
+```
+
+```{r label = "chronology-spk-schooling-3", echo=FALSE, fig.cap = "Õpetajate koolitus hariduslike erivajadustega õpilastega toimetulemiseks: näidisolukorra ja enda olukorra analüüs."}
+include_external_graphics("rmd/kronoloogia/analüüs-IMG_20251017_112057_1.jpg")
+
+```
+
+Seekord sõitsin liini *35* bussiga[@ivytk_reisijatele_35_2025] *Kooli* peatuseni[@moovit_kooli_stop_5341601], et jätkata reisi liini *3* bussiga[@sillamae_linnaliin_3_2025]. Hea, et ma lasin enda reisiplaani koostada Peatus.ee rakendusel, sest kohapeal ei oleks ma aru saanud, millal buss väljub: kas 17:157 tähendab \qty{17}{\hour} ja \qty{157}{\minute} ehk siis kell 19:37[@peatus_ee] (pilt \@ref(fig:chronology-forbidden-city-timetable) leheküljel `r render_pageref("fig:chronology-forbidden-city-timetable")`)? 
+
+```{r label = "chronology-forbidden-city-timetable", echo=FALSE, fig.cap = "Mis kell saab Vaivara jaama?"}
+include_external_graphics("rmd/kronoloogia/sõiduplaan-IMG_20251017_172417_1.jpg")
+
+```
+
+Kuu lõpus oli Vaivara kergliiklustee valmis[@narva_joesuu_teade_43853149] (pilt \@ref(fig:chronology-vaivara-bus-stop) leheküljel `r render_pageref("fig:chronology-vaivara-bus-stop")`).
+
+```{r label = "chronology-vaivara-bus-stop", echo=FALSE, fig.cap = "Vaivara kergliiklustee on valmis."}
+include_external_graphics("rmd/kronoloogia/vaivara-IMG_20251028_084324_1.jpg")
+
+```
+
+Narva kaudu tagasi minnes tuli edaspidi oodata mõnikümmend minutit raudteejaamas, sest [@visitnarva_narva_rongiga]. Sellest olukorrast väljapääsu polnud (pilt \@ref(fig:chronology-forbidden-city-timetable) leheküljel `r render_pageref("fig:chronology-narva-no-exit")`). Eriti mitte venelastel.
+
+```{r label = "chronology-narva-no-exit", echo=FALSE, fig.cap = "Miks venekeelne tekst on suurem?"}
+include_external_graphics("rmd/kronoloogia/väljapääsu-pole-IMG_20251031_154112_1.jpg")
+
+```
+
+Järgmise kuu alguses oli võimalik Vaivara rongipeatuses bussi oodata juba katuse all (pilt \@ref(fig:chronology-vaivara-parking-lot) leheküljel `r render_pageref("fig:chronology-vaivara-parking-lot")`).
+
+```{r label = "chronology-vaivara-parking-lot", echo=FALSE, fig.cap = "Vaivara jaama bussipeatus on valmis."}
+include_external_graphics("rmd/kronoloogia/vaivara-IMG_20251104_084134_1.jpg")
+
+```
+
+Kuna plaanisin Tartu Ülikooli (TÜ) Narva Kolledžis (NK) tutvustada ellipsi võrrandi tuletamist, tegin selle pausi kestel SPK's tahvlile[@ut_ois2_svnc_00_053] (pilt \@ref(fig:chronology-spk-ellipsis) leheküljel `r render_pageref("fig:chronology-spk-ellipsis")`). Ellipsi joonestamiseks kasutasin nööri ja teipi. Kaheksanda ja üheksanda aasta õpilased olid samaaegselt õpperuumis. Kui jõudsin pildi allosas oleva raamitud tulemuseni, hõikasin: "Yes!" Seda kordasid mõned õpilased. 
+
+```{r label = "chronology-spk-ellipsis", echo=FALSE, fig.cap = "Tuletasin tahvlile ellipsi võrrandi. Vaataja poolt vasakul on näha, milliseid subatomaarseid osakesi plaanisin õpilastele tutvustada. Üleval pealkirja all olev tekst on ühe külalisõpilase öeldu, sest teda ei huvitanud ja ta tahtis lahkuda. Tahvli küljes ripub õpilase kingitud isemeisterdatud puidust nuga."}
+include_external_graphics("rmd/kronoloogia/ellips-IMG_20251104_132106_1.jpg")
+
+```
+
+Pea iga õhtu tegin ringkäigu kahes poes: *Maxima*s ja *Maksimarketis*. Selleks tuli ainult üks suur autotee ületada (pilt \@ref(fig:chronology-forbidden-city-bus) leheküljel `r render_pageref("fig:chronology-forbidden-city-bus")`). Vaataja taha jääb *Maxima*, buss on just läbinud *Sõpruse* peatuse. Mul oli valida, kas minna ümber kahe maja vasemalt või paremalt. Enamasti läksin vasemalt.
+
+```{r label = "chronology-forbidden-city-bus", echo=FALSE, fig.cap = "Öösiti on külmem kui väljas ka Sillamäes."}
+include_external_graphics("rmd/kronoloogia/sillamäe-IMG_20251105_201945.jpg")
+
+```
+
+SPK's kasutasin heitmete väljastamiseks ennekõike õpetajatele pühendatud käimlat, mida oli koolimajas kaks ja millest ma valisin enda korruse oma. Ükskord peeglisse vaadates avastasin kena vaate ja otsustasin selle jäädvustada (pildid \@ref(fig:chronology-spk-toilet-1) leheküljel `r render_pageref("fig:chronology-spk-toilet-1")` ja \@ref(fig:chronology-spk-toilet-2) leheküljel `r render_pageref("fig:chronology-spk-toilet-2")`).
+
+```{r label = "chronology-spk-toilet-1", echo=FALSE, fig.cap = "SPK teise korruse õpetajate käimlas.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/käimlas-IMG_20251107_141353_1.jpg")
+
+```
+
+```{r label = "chronology-spk-toilet-2", echo=FALSE, fig.cap = "Endiselt SPK teise korruse õpetajate käimlas.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/käimla-IMG_20251107_141411_1.jpg")
+
+```
+
+Teist korda sõitsin autoga Ida-Virru novembris. Kuna ma ei soovinud puhkamata sõita, siis tegin suvalises kohas puhkepausi, mille kestel jalutasin ja nautisin loodust (pilt \@ref(fig:chronology-sponge) leheküljel `r render_pageref("fig:chronology-sponge")`).
+
+```{r label = "chronology-sponge", echo=FALSE, fig.cap = "Samblik kasel.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/sammal-IMG_20251111_110843_1.jpg")
+
+```
+
+Autoga läksin Ida-Virru seetõttu, et soovisin osaleda [füüsikaõpetajate sügiskoolis Voores](#voore-2025) Voore puhkekeskuses[@voore_puhkekeskus] ja sinna polnud mõistlik minna ühistranspordiga ebamõistlikult pika ajakulu tõttu. Osalesin mitmes õppes ja üks nendest viidi läbi põhihoone teisel korrusel, kuhu läksin sussidega ja tegin tallad läbinisti märjaks. Agnes Vask näitas, kuidas määrata telefoni massi telefoni kiirendusarvutiga[@opleht_vase_fuusikatunnid_2020] (pildid \@ref(fig:chronology-voore-1) leheküljel `r render_pageref("fig:chronology-voore-1")` ja \@ref(fig:chronology-voore-2) leheküljel `r render_pageref("fig:chronology-voore-2")`).
+
+```{r label = "chronology-voore-1", echo=FALSE, fig.cap = "Õpilase näidisraport telefoni massi määramise kohta: esimene osa.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/voore-telefon-1-IMG_20251114_183254_1.jpg")
+
+```
+
+```{r label = "chronology-voore-2", echo=FALSE, fig.cap = "Õpilase näidisraport telefoni massi määramise kohta: teine osa."}
+include_external_graphics("rmd/kronoloogia/voore-telefon-2-IMG_20251114_183838.jpg")
+
+```
+
+Eero Uustalu näitas, kuidas tekitada laseri abil hologrammi[@wikipedia_eero_uustalu] (pilt \@ref(fig:chronology-voore-3) leheküljel `r render_pageref("fig:chronology-voore-3")`). Meil tuli olla lauda puudutamata kogu see aeg, mille kestel mingit asjandust valgustati. Pärast võeti kell ära ja kui vaadata läbi selle asjanduse, oli kell endiselt justkui seal.
+
+```{r label = "chronology-voore-3", echo=FALSE, fig.cap = "Kella hologramm."}
+include_external_graphics("rmd/kronoloogia/hologramm-IMG_20251114_205409_1.jpg")
+
+```
+
+Pärast esimesi õpetusi sügisseminaris oli võimalik minna uudistama oma magamistuba (pilt \@ref(fig:chronology-voore-4) leheküljel `r render_pageref("fig:chronology-voore-4")`). Juba kolmandat korda ööbisin samas toas Viimsi õpetajaga. Lisaks oli meie toas üks pikk Haapsalu ja Tallinna õpetaja. Esimesena sisenesime tuppa meie: Viimsi õpetaja ja mina. Seetõttu me tegime esmase voodite valiku. Huvitaval kombel olid voodid nagu *Kolme Karu* muinasloos: kitsas, laiem ja kõige laiem voodi[@youtube_S8u5ekT0lfM]. Mina võtsin keskmise, kuigi suuruse järgi vastanuks mulle kõige kitsam voodi, aga ma teadsin, et ma vajan ruumi jalgadele ja sellises kitsikuses polnud ma nõus magama. Viimsi õpetaja võttis kõige suurema voodi ning kõige suuremale mehele jätsime kõige väiksema voodi, kes endise sõdurina ei kurtnud. Norskasime kõik.
+
+```{r label = "chronology-voore-4", echo=FALSE, fig.cap = "Tuba, milles elasin Voore puhkekeskuses."}
+include_external_graphics("rmd/kronoloogia/voore-tuba-IMG_20251115_015359_1.jpg")
+
+```
+
+Toa akna kaudu polnud palju näha, kuna väljas oli juba pime (pilt \@ref(fig:chronology-voore-5) leheküljel `r render_pageref("fig:chronology-voore-5")`). Aknast paistis bassein, mille vesi oli kaetud koormakattega. Katsusin jalaga: vesi oli märg.
+
+```{r label = "chronology-voore-5", echo=FALSE, fig.cap = "Voore puhkekeskus: vaade meie toast."}
+include_external_graphics("rmd/kronoloogia/voore-vaade-IMG_20251115_015419_2.jpg")
+
+```
+
+Parkida oli võimalik kummalegi poole peamaja ja allpool oleva söögi- ja elumaja juurde, kus on ka bassein (pilt \@ref(fig:chronology-voore-6) leheküljel `r render_pageref("fig:chronology-voore-6")`). Vahel on näha veel üks maja, kus külalised majutusid.
+
+```{r label = "chronology-voore-6", echo=FALSE, fig.cap = "Voore puhkekeskus: vaade põhimajast."}
+include_external_graphics("rmd/kronoloogia/voore-vaade-IMG_20251115_121617_1.jpg")
+
+```
+
+Eero rääkis meile ka radioaktiivsusest, nii et isegi SPK kolleegi kaasa võetud Madis *kuulas* istudes nutitelefonil (pilt \@ref(fig:chronology-voore-7) leheküljel `r render_pageref("fig:chronology-voore-7")`). Kolleeg hakkas mitu korda Eerole vastu. Nad vaidlesid selle üle, kas elektromagnetkiirgus kahjustab munasarju. Kolleeg oli lugenud, et kahjustuvad ainult mehed, kuna uusi spermatosoide pärast sündi ei toodetavat. Kui ma midagi küsisin, nähvas ennasttäis Eero vastu ning aruteluks läks üksnes siis, kui muu õpetaja mu küsimust kordas. Ei talu see mees, kui keegi esitab talle küsimusi, kes ise vastust ei tea, ja ta peab justkui tasuta vastama. Eero rääkis ka, et Sinimägede lahinguid peeti seetõttu, et vallutada Sillamäe uraanirikastamise tehas, kuid tehase eelduseks vajalikke uuringuid hakati tegema alles kaks aastat pärast lahinguid. Madis on aga kolleegil alati kaasas. Kolleeg on üks kahest õpetajast, kellel on au elada SPK korteris. Naaberkorteris elav kolleeg oli Madise kunagi ostnud Jõhvist.
+
+```{r label = "chronology-voore-7", echo=FALSE, fig.cap = "Füüsikaõpetajate sügisseminar: radioaktiivsus."}
+include_external_graphics("rmd/kronoloogia/voore-radioaktiivsus-IMG_20251115_123358_1.jpg")
+
+```
+
+Jäädvustasin meie magamistoa akna kaudu vaate basseinile ka päevavalges (pilt \@ref(fig:chronology-voore-8) leheküljel `r render_pageref("fig:chronology-voore-8")`). Huvitaval kombel kaotas mu auto selleks ajaks erkpunase värvuse.
+
+```{r label = "chronology-voore-8", echo=FALSE, fig.cap = "Voore puhkekeskus: vaade meie toast päevavalges."}
+include_external_graphics("rmd/kronoloogia/voore-vaade-IMG_20251115_140256_1.jpg")
+
+```
+
+Tagasiteel tegin peatuse Veneveres, kuna nägin seal küngast, kuhu tahtsin ronida ja pissihäda oli ka (pildid \@ref(fig:chronology-venevere-1) leheküljel `r render_pageref("fig:chronology-venevere-1")`, \@ref(fig:chronology-venevere-2) leheküljel `r render_pageref("fig:chronology-venevere-2")` ja \@ref(fig:chronology-venevere-3) leheküljel `r render_pageref("fig:chronology-venevere-3")`).
+
+```{r label = "chronology-venevere-1", echo=FALSE, fig.cap = "Venevere: sild teispoolsusse."}
+include_external_graphics("rmd/kronoloogia/venevere-sild-IMG_20251115_150422_1.jpg")
+
+```
+
+```{r label = "chronology-venevere-2", echo=FALSE, fig.cap = "Venevere: paadisild siinpoolsuses."}
+include_external_graphics("rmd/kronoloogia/venevere-2-IMG_20251115_150737_1.jpg")
+
+```
+
+```{r label = "chronology-venevere-3", echo=FALSE, fig.cap = "Venevere: sild teispoolsusse taamal."}
+include_external_graphics("rmd/kronoloogia/venevere-3-IMG_20251115_150806.jpg")
+
+```
+
+Rongis saab vahel lugeda ajalehti. Ükskord oli seal kilplaste raamat, millest leidsin hauatennise, millest informeerisin muidugi koheselt üht Brasiilia füüsikaõpetajat, kellega Prantsusmaas lauatennist mängisime, kui meile tuumauuringute keskust tutvustati (pilt \@ref(fig:chronology-grave-tennis) leheküljel `r render_pageref("fig:chronology-grave-tennis")`).
+
+```{r label = "chronology-grave-tennis", echo=FALSE, fig.cap = "Hauatennis."}
+include_external_graphics("rmd/kronoloogia/hauatennis-IMG_20251118_063105_1.jpg")
+
+```
+
+Samas teoses on näited, kuidas palke mitte transportida, ning seetõttu saab seda raamatut kasutada lausa mehaanikaõpikuna (pildid \@ref(fig:chronology-moving-logs-1) leheküljel `r render_pageref("fig:chronology-moving-logs-1")`, \@ref(fig:chronology-moving-logs-2) leheküljel `r render_pageref("fig:chronology-moving-logs-2")` ja \@ref(fig:chronology-moving-logs-3) leheküljel `r render_pageref("fig:chronology-moving-logs-3")`).
+
+```{r label = "chronology-moving-logs-1", echo=FALSE, fig.cap = "Kilplased liigutamas palke üle künka."}
+include_external_graphics("rmd/kronoloogia/kilplased-IMG_20251118_063625_1.jpg")
+
+```
+
+```{r label = "chronology-moving-logs-2", echo=FALSE, fig.cap = "Kilplased otsustasid, et kuna nad tulid paremale juhtmõttele palkide liigutamiseks, on vaja seda kohe testida."}
+include_external_graphics("rmd/kronoloogia/kilplased-IMG_20251118_063737_1.jpg")
+
+```
+
+```{r label = "chronology-moving-logs-3", echo=FALSE, fig.cap = "Kilplaste gravitatsiooni definitsioon."}
+include_external_graphics("rmd/kronoloogia/kilplased-IMG_20251118_063854_1.jpg")
+
+```
+
+Vahepeal langes Maale lumi ja *Vaivara jaama* peatuses sai bussi oodata katuse all[@moovit_vaivara_jaam_stop] (pilt \@ref(fig:chronology-vaivara-bus-stop-in-snow) leheküljel `r render_pageref("fig:chronology-vaivara-bus-stop-in-snow")`).
+
+```{r label = "chronology-vaivara-bus-stop-in-snow", echo=FALSE, fig.cap = "Lumine bussi- ja rongipeatus Vaivaras."}
+include_external_graphics("rmd/kronoloogia/vaivara-IMG_20251118_084345_1.jpg")
+
+```
+
+Majutuskohas ootas kardetud üllatus:
+
+> õhu temperatuur on 18 °C
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevale   teisipäev, 18. nov · 18:09')`
+
+Vastust ootamata lülitasin radiaatori sisse. Vastus saabus järgmises päevas:
+
+> Hello, sorry I saw the message late. You can turn on the heater when the temperature is low.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt    kolmapäev, 19. nov · 14:47')`
+
+
+Novembri lõpp tõi mulle SPK'sse nii lume kui iiyama *ProLite TE7513A* isendi, mille olin direktori asemiku korjatud pakkumistest välja valinud[@iiyama_prolite_te7513a_b1ag] (pilt \@ref(fig:chronology-spk-iiyama-snow) leheküljel `r render_pageref("fig:chronology-spk-iiyama-snow")`).
+
+```{r label = "chronology-spk-iiyama-snow", echo=FALSE, fig.cap = "Minu õpperuum uue puutetundliku kuva ja lumise vaatega."}
+include_external_graphics("rmd/kronoloogia/spk-iiyama-talv-IMG_20251125_100855.jpg")
+
+```
+
+Kuna pidin jälle kogema seda teravat pesuvahendi lõhna voodipesus ja rätikutes, mille üle [kurtsin juba kaks kuud varem](#chronology-laundry), kirjutasin sellest veel:
+
+> Endiselt oleks tore, kui rätikute ja voodipesu pesemisprotsessis ei kasutataks lõhnastatud vahendeid.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevale     teisipäev, 25. nov · 20:42')`
+
+Sedagi vastust ei pidanud kaua ootama:
+
+> Tere hommikust, head
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- lühisõnum Angelina Kozirevalt      kolmapäev, 26. nov · 09:50')`
+
+Seejärel sain taas magada ilma lõhnahäireteta.
+
+Olin õpilastele näidanud, kuidas teha elektronide ruutskeeme ja kuidas neid kasutada. Nüüd lugesin *Chemical principles : the quest for insight*-teosest, et kovalentne side luuakse elektroni ergastamise kaudu[@atkins_2010_chemical, lk 107-108]. Proovisin oma koduuksel kohe läbi, kuidas seda õpilastele selgitada (pilt \@ref(fig:chronology-promotion) leheküljel `r render_pageref("fig:chronology-promotion")`).
+
+```{r label = "chronology-promotion", echo=FALSE, fig.cap = "Ettevalmistus elektronide ergastamise selgitamiseks."}
+include_external_graphics("rmd/kronoloogia/ergastamine-IMG_20251201_234111_1.jpg")
+
+```
+
+Kui tulin liini *84* bussiga[@ivytk_80_koond_reisijatele_2025], pidin väljuma *Sinimäe* peatuses[@moovit_sinimae_stop_5335612] ja sealt oli koolimaja juurde vaja kõndida autoteede servas, sest kergliiklusteed on veidi ainult kooli bussipeatuse juures. Vahel lühendasin oma teekonda ja jalutasin üle heinamaa (pilt \@ref(fig:chronology-war-village-walking) leheküljel `r render_pageref("fig:chronology-war-village-walking")`). Muidugi oli selleks vaja säärikuid, sest see ala oli nii märg kui kohati mudane.
+
+```{r label = "chronology-war-village-walking", echo=FALSE, fig.cap = "Teekonna lühendamine teel kooli."}
+include_external_graphics("rmd/kronoloogia/walking-IMG_20251202_091015.jpg")
+
+```
+
+Detsembris oli Sillamäes märgata valgustatud kaunistusi (pildid \@ref(fig:chronology-forbidden-city-decoration) leheküljel `r render_pageref("fig:chronology-forbidden-city-decoration")` ja \@ref(fig:chronology-forbidden-city-lamp) leheküljel `r render_pageref("fig:chronology-forbidden-city-lamp")`).
+
+```{r label = "chronology-forbidden-city-decoration", echo=FALSE, fig.cap = "Hiidkuuseehe Sillamäes."}
+include_external_graphics("rmd/kronoloogia/sillamäe-ehe-IMG_20251202_162829_1.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-lamp", echo=FALSE, fig.cap = "Lambikaunistused Sillamäes.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/sillamäe-lamp-IMG_20251202_162923_1.jpg")
+
+```
+
+Ükskord NK'st lahkudes avastasin tudengite tehtud maketid. Mulle väga meeldivad maketid ja nii ma mälestuse nendest jäädvustasin (pildid \@ref(fig:chronology-nk-model-1) leheküljel `r render_pageref("fig:chronology-nk-model-1")`, \@ref(fig:chronology-nk-model-2) leheküljel `r render_pageref("fig:chronology-nk-model-2")`, \@ref(fig:chronology-nk-model-3) leheküljel `r render_pageref("fig:chronology-nk-model-3")`, \@ref(fig:chronology-nk-model-4) leheküljel `r render_pageref("fig:chronology-nk-model-4")`, \@ref(fig:chronology-nk-model-5) leheküljel `r render_pageref("fig:chronology-nk-model-5")`, \@ref(fig:chronology-nk-model-6) leheküljel `r render_pageref("fig:chronology-nk-model-6")`, \@ref(fig:chronology-nk-model-2-close) leheküljel `r render_pageref("fig:chronology-nk-model-2-close")` ja \@ref(fig:chronology-nk-model-1-close) leheküljel `r render_pageref("fig:chronology-nk-model-1-close")`).
+
+```{r label = "chronology-nk-model-1", echo=FALSE, fig.cap = "Esimene makett."}
+include_external_graphics("rmd/kronoloogia/makett-1-IMG_20251203_190041_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-2", echo=FALSE, fig.cap = "Teine makett."}
+include_external_graphics("rmd/kronoloogia/makett-2-IMG_20251203_190050_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-3", echo=FALSE, fig.cap = "Kolmas makett."}
+include_external_graphics("rmd/kronoloogia/makett-3-IMG_20251203_190058_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-4", echo=FALSE, fig.cap = "Neljas makett."}
+include_external_graphics("rmd/kronoloogia/makett-4-IMG_20251203_190111_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-5", echo=FALSE, fig.cap = "Viies makett."}
+include_external_graphics("rmd/kronoloogia/makett-5-IMG_20251203_190121_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-6", echo=FALSE, fig.cap = "Kuues makett."}
+include_external_graphics("rmd/kronoloogia/makett-6-IMG_20251203_190131_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-2-close", echo=FALSE, fig.cap = "Teine makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-2-IMG_20251203_190257.jpg")
+
+```
+
+```{r label = "chronology-nk-model-1-close", echo=FALSE, fig.cap = "Esimene makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-1-IMG_20251203_190311_1.jpg")
+
+```
+
+Ametlik nõustamissessioon oli mul teisipäeviti algusega kell 15:05. Vahel õpilased küsisid nõu ka muus ajavahemikus (pilt \@ref(fig:chronology-spk-consultation-1) leheküljel `r render_pageref("fig:chronology-spk-consultation-1")`).
+
+```{r label = "chronology-spk-consultation-1", echo=FALSE, fig.cap = "Kui nõustamissessiooni tuli õpilasi eri teemasoovidega, tegin plaani."}
+include_external_graphics("rmd/kronoloogia/nõustamine-07-5.jpg")
+
+```
+
+ *ProLite TE7513A* isendi tarkvara pole päris sama mis Narva Täiskasvanute Koolis kasutatud puutekuva tarkvara. Õppisin uut mänguasja kasutama esialgu ilma kasutusjuhendita. Pilti \@ref(fig:chronology-spk-iiyama) leheküljel `r render_pageref("fig:chronology-spk-iiyama")` vaadates näeme enda poolt vasakul slaidide nimekirja. Tarkvara võimaldas ühes failis hoida kuni 20 slaidi. Paremale serva kirjutasin, kes millise keemilise elemendi kohta neid asju tegema peaks, mis on kuval näha. Paremal kuva kõrval on osaliselt näha *Põhikooli riikliku õppekava* kolmanda kooliastme matemaatikavaldkonna need õpiväljundid, mis minu õpilaste kohta olid, seostatult, nii, nagu ma suutsin neid seostada. Sinna on märgitud ka, kes kus oma õpiteekonnal on.
+
+```{r label = "chronology-spk-iiyama", echo=FALSE, fig.cap = "Füüsikalise keemia õppesessiooni läbiviimine puutekuva abil."}
+include_external_graphics("rmd/kronoloogia/iiyama-IMG_20251205_140208_1.jpg")
+
+```
+
+Ükskord meie NK kabinetis üksi nina nokkides märkasin, et aatriumi vastaskaldal vaatavad naised mind. Ühtlasi mõtlesin, et ma polnud seal mitte kunagi käinud. Nigulapäevas oli mul enne õpetamist aega ringi vaadata ning läksingi sinna ja avastasin veel makette (pildid \@ref(fig:chronology-nk-model-7) leheküljel `r render_pageref("fig:chronology-nk-model-7")`, \@ref(fig:chronology-nk-model-8) leheküljel `r render_pageref("fig:chronology-nk-model-8")`, \@ref(fig:chronology-nk-model-9) leheküljel `r render_pageref("fig:chronology-nk-model-9")`, \@ref(fig:chronology-nk-model-10) leheküljel `r render_pageref("fig:chronology-nk-model-10")`, \@ref(fig:chronology-nk-model-11) leheküljel `r render_pageref("fig:chronology-nk-model-11")`, \@ref(fig:chronology-nk-model-12) leheküljel `r render_pageref("fig:chronology-nk-model-12")`, \@ref(fig:chronology-nk-model-12-close-1) leheküljel `r render_pageref("fig:chronology-nk-model-12-close-1")`, \@ref(fig:chronology-nk-model-12-close-2) leheküljel `r render_pageref("fig:chronology-nk-model-12-close-2")`, \@ref(fig:chronology-nk-model-12-close-3) leheküljel `r render_pageref("fig:chronology-nk-model-12-close-3")`, \@ref(fig:chronology-nk-model-12-close-4) leheküljel `r render_pageref("fig:chronology-nk-model-12-close-4")`, \@ref(fig:chronology-nk-model-10-close) leheküljel `r render_pageref("fig:chronology-nk-model-10-close")`, \@ref(fig:chronology-nk-model-9-close-1) leheküljel `r render_pageref("fig:chronology-nk-model-9-close-1")`, \@ref(fig:chronology-nk-model-9-close-2) leheküljel `r render_pageref("fig:chronology-nk-model-9-close-2")`, \@ref(fig:chronology-nk-model-8-close-1) leheküljel `r render_pageref("fig:chronology-nk-model-8-close-1")`, \@ref(fig:chronology-nk-model-8-close-2) leheküljel `r render_pageref("fig:chronology-nk-model-8-close-2")`, \@ref(fig:chronology-nk-model-7-close-1) leheküljel `r render_pageref("fig:chronology-nk-model-7-close-1")`, \@ref(fig:chronology-nk-model-7-close-2) leheküljel `r render_pageref("fig:chronology-nk-model-7-close-2")` ja \@ref(fig:chronology-nk-model-7-close-3) leheküljel `r render_pageref("fig:chronology-nk-model-7-close-3")`).
+
+```{r label = "chronology-nk-model-7", echo=FALSE, fig.cap = "Seitsmes makett."}
+include_external_graphics("rmd/kronoloogia/makett-7-IMG_20251206_144249_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-8", echo=FALSE, fig.cap = "Kaheksas makett."}
+include_external_graphics("rmd/kronoloogia/makett-8-IMG_20251206_144312_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-9", echo=FALSE, fig.cap = "Üheksas makett."}
+include_external_graphics("rmd/kronoloogia/makett-9-IMG_20251206_144347_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-10", echo=FALSE, fig.cap = "Kümnes makett."}
+include_external_graphics("rmd/kronoloogia/makett-10-IMG_20251206_144401_2.jpg")
+
+```
+
+```{r label = "chronology-nk-model-11", echo=FALSE, fig.cap = "11. makett."}
+include_external_graphics("rmd/kronoloogia/makett-11-IMG_20251206_144422_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-12", echo=FALSE, fig.cap = "12. makett."}
+include_external_graphics("rmd/kronoloogia/makett-12-IMG_20251206_144436_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-12-close-1", echo=FALSE, fig.cap = "12. makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-12-IMG_20251206_144459_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-12-close-2", echo=FALSE, fig.cap = "12. makett muust perspektiivist."}
+include_external_graphics("rmd/kronoloogia/makett-12-IMG_20251206_144518_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-12-close-3", echo=FALSE, fig.cap = "12. makett uuest perspektiivist."}
+include_external_graphics("rmd/kronoloogia/makett-12-IMG_20251206_144530_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-12-close-4", echo=FALSE, fig.cap = "12. makett veel ühest perspektiivist.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/makett-12-IMG_20251206_144602_2.jpg")
+
+```
+
+```{r label = "chronology-nk-model-10-close", echo=FALSE, fig.cap = "Kümnes makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-10-IMG_20251206_144739.jpg")
+
+```
+
+```{r label = "chronology-nk-model-9-close-1", echo=FALSE, fig.cap = "Üheksas makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-9-IMG_20251206_144850.jpg")
+
+```
+
+```{r label = "chronology-nk-model-9-close-2", echo=FALSE, fig.cap = "Üheksas makett muust perspektiivist."}
+include_external_graphics("rmd/kronoloogia/makett-9-IMG_20251206_144903.jpg")
+
+```
+
+```{r label = "chronology-nk-model-8-close-1", echo=FALSE, fig.cap = "Kaheksas makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-8-IMG_20251206_144944.jpg")
+
+```
+
+```{r label = "chronology-nk-model-8-close-2", echo=FALSE, fig.cap = "Kaheksas makett muust perspektiivist."}
+include_external_graphics("rmd/kronoloogia/makett-8-IMG_20251206_145034.jpg")
+
+```
+
+```{r label = "chronology-nk-model-7-close-1", echo=FALSE, fig.cap = "Seitsmes makett lähemalt."}
+include_external_graphics("rmd/kronoloogia/makett-7-IMG_20251206_145057_1.jpg")
+
+```
+
+```{r label = "chronology-nk-model-7-close-2", echo=FALSE, fig.cap = "Seitsmes makett muust perspektiivist."}
+include_external_graphics("rmd/kronoloogia/makett-7-IMG_20251206_145119.jpg")
+
+```
+
+```{r label = "chronology-nk-model-7-close-3", echo=FALSE, fig.cap = "Seitsmes makett uuest perspektiivist."}
+include_external_graphics("rmd/kronoloogia/makett-7-IMG_20251206_145132_1.jpg")
+
+```
+
+Tegin ka mõned jäädvustused seoses meie kabinetiga *319* (pildid \@ref(fig:chronology-nk-view-in) leheküljel `r render_pageref("fig:chronology-nk-view-in")`, \@ref(fig:chronology-nk-view-out) leheküljel `r render_pageref("fig:chronology-nk-view-out")` ja \@ref(fig:chronology-nk-view-E) leheküljel `r render_pageref("fig:chronology-nk-view-E")`).
+
+```{r label = "chronology-nk-view-in", echo=FALSE, fig.cap = "Vaade ruumile *319* aatriumi vastaskaldalt. All on näha *Muna* kohviku sisehoov[@kohvik_muna]."}
+include_external_graphics("rmd/kronoloogia/nk-IMG_20251206_145242.jpg")
+
+```
+
+```{r label = "chronology-nk-view-out", echo=FALSE, fig.cap = "Vaade ruumist *319* aatriumi vastaskaldale. Taamal on näha Narva raekoja torn[@visitnarva_narva_raekoda]."}
+include_external_graphics("rmd/kronoloogia/nk-IMG_20251206_145634.jpg")
+
+```
+
+```{r label = "chronology-nk-view-E", echo=FALSE, fig.cap = "Vaade ruumist *319* itta. Taamal on näha Narva meri."}
+include_external_graphics("rmd/kronoloogia/nk-IMG_20251206_145657_1.jpg")
+
+```
+
+Üheksandas detsembripäevas toimus regulaarne nõustamine (pilt \@ref(fig:chronology-spk-consultation-2) leheküljel `r render_pageref("fig:chronology-spk-consultation-2")`).
+
+```{r label = "chronology-spk-consultation-2", echo=FALSE, fig.cap = "2025-12-9 nõustamisplaan."}
+include_external_graphics("rmd/kronoloogia/nõustamine-08-5.jpg")
+
+```
+
+Üheksandas detsembripäevas tegin veel mõned jäädvustused Sillamäe teisest majutuspaigast (pildid \@ref(fig:chronology-forbidden-city-view-at-entrance) leheküljel `r render_pageref("fig:chronology-forbidden-city-view-at-entrance")` ja \@ref(fig:chronology-forbidden-city-view-at-window) leheküljel `r render_pageref("fig:chronology-forbidden-city-view-at-window")`).
+
+```{r label = "chronology-forbidden-city-view-at-entrance", echo=FALSE, fig.cap = "Vaataja poolt vaadatuna paremal on esik, mille majakujuline seinal rippuv asi on võtmenagi. Selle taga on korteri välisuste paar. Tavaliselt sulgesin ka siseukse, et vältida koridorist suitsuhaisu tungimist korterisse. Vasakul on näha köögis tööpinna peal veekeetmise kann. Võtmehaldur oli selle alati elektrivõrgust lahti ühendanud."}
+include_external_graphics("rmd/kronoloogia/sillamäe-IMG_20251209_173751_1.jpg")
+
+```
+
+```{r label = "chronology-forbidden-city-view-at-window", echo=FALSE, fig.cap = "Vannitoa ukse küljes ripub käterätik."}
+include_external_graphics("rmd/kronoloogia/sillamäe-IMG_20251209_173827.jpg")
+
+```
+
+Õpilane Zahar Orikovi avastas, et mul on seljale kirjutatud *TTÜ* (pilt \@ref(fig:chronology-forbidden-city-tut) leheküljel `r render_pageref("fig:chronology-forbidden-city-tut")`).
+
+```{r label = "chronology-forbidden-city-tut", echo=FALSE, fig.cap = "TTÜ akronüüm kumamas läbi kampsuni."}
+include_external_graphics("rmd/kronoloogia/ttü-IMG_20251209_173909.jpg")
+
+```
+
+Avastasin, et elektronide energiatasemeid on ilmekas selgitada väheneva energiaga elektroni poolt eritatava valguse abil (pilt \@ref(fig:chronology-spk-promotion-2) leheküljel `r render_pageref("fig:chronology-spk-promotion-2")`).
+
+```{r label = "chronology-spk-promotion-2", echo=FALSE, fig.cap = "Tabel õpilastele täitmiseks simulatsiooni abil."}
+include_external_graphics("rmd/kronoloogia/iiyama-IMG_20251211_145450_1.jpg")
+
+```
+
+Viimases töönädalas sai iga SPK töötaja enda isikunimega piparkoogi (pilt \@ref(fig:chronology-spk-gingerbread) leheküljel `r render_pageref("fig:chronology-spk-gingerbread")`).
+
+```{r label = "chronology-spk-gingerbread", echo=FALSE, fig.cap = "Mina mulle tehtud piparkoogiga. Taamal on vana magnettahvel, mis tõsteti puutekuva seina vastasseina minu soovil. Ühtlasi näeme tõmbekappi, mida kogu minu SPK's töötamise kestel ei suudetud ventilatsiooniga ühendada."}
+include_external_graphics("rmd/kronoloogia/piparkook-IMG_20251217_124118.jpg")
+
+```
+
+[]{#chronology-war-village-art}
+
+Oma viimases SPK töönädalas otsustasin sõita autoga ümber Pargimäe ja leidsin kunstiinstallatsiooni[@vaivara_tourism_nature] (pilt \@ref(fig:chronology-war-village-ghost) leheküljel `r render_pageref("fig:chronology-war-village-ghost")`).
+
+```{r label = "chronology-war-village-ghost", echo=FALSE, fig.cap = "Sinimäe kunst."}
+include_external_graphics("rmd/kronoloogia/tont-IMG_20251217_141959_1.jpg")
+
+```
+
+Kui ma esimest korda liini *3* bussiga *Vaivara jaama* sõitsin, läbis see buss peatuse *Suvila tee* keset Suvila teed Vaivara külas, mida kunagi hiljem ei juhtunud ja buss lihtsalt sõitis Suvila tee otsast mööda. Toona panin tähele, et bussipeatuse juures oli ajandusühistu silt (pilt \@ref(fig:chronology-vaivara-timing) leheküljel `r render_pageref("fig:chronology-vaivara-timing")`). Tegemist on ilmselt maailmas unikaalse ühistuga, milles tegeletakse ajaküsimustega. Omapärane monstrum on ka Narva-Jõesuu linn, milles on külad[@evald_narva_joesuu_linn]. Paraku linna enda kodulehel pole isegi linna struktuuri mainitud.
+
+```{r label = "chronology-vaivara-timing", echo=FALSE, fig.cap = "Ajandusühistu."}
+include_external_graphics("rmd/kronoloogia/ajandusühistu-IMG_20251217_144345_1.jpg")
+
+```
+
+Järgmisena avastasin Langevoja joa[@idaviru_langevoja_juga] (pilt \@ref(fig:chronology-langevoja-1) leheküljel `r render_pageref("fig:chronology-langevoja-1")`).
+
+```{r label = "chronology-langevoja-1", echo=FALSE, fig.cap = "Langevoja juga minuga.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/langevoja-IMG_20251217_145053.jpg")
+
+```
+
+Ümbruskond oli mudane (pilt \@ref(fig:chronology-boots) leheküljel `r render_pageref("fig:chronology-boots")`).
+
+```{r label = "chronology-boots", echo=FALSE, fig.cap = "Säärikud pärast Langevoja joa ümbruse külastamist."}
+include_external_graphics("rmd/kronoloogia/säärikud-IMG_20251217_151808.jpg")
+
+```
+
+Esimene kord Sillamäe teise majutuskoha juures parkisin maja ees oleva põigiti asetseva maja taha. Teine kord oli see koht hõivatud ja parkisin viimati mainitud maja kõrvale. Mõnikord parkisin selle maja ette, kui kumbki koht oli hõivatud, kuni üks eakas naine vene keeles mulle ütles, et seal ei tohtivat parkida ja mainis viit meetrit. Nii et edaspidi parkisin oma magamistoa akna juurde (pilt \@ref(fig:chronology-forbidden-city-parking) leheküljel `r render_pageref("fig:chronology-forbidden-city-parking")`). Korra ma ka oma parkimiskoha kaotasin, kui läksin vahepeal sõitma.
+
+```{r label = "chronology-forbidden-city-parking", echo=FALSE, fig.cap = "Magamistoa akna kaudu nägin oma autot."}
+include_external_graphics("rmd/kronoloogia/parkimine-IMG_20251217_152219.jpg")
+
+```
+
+Mäletan juba lapsepõlvest *Moskva* saia. Mulle ikka meeldis selle saia puhul ennekõike vaniljekreem. Sillamäe *Maxima XX*'s avastasin ükskord, et ilmselt poliitilisel põhjusel seda saia enam nii ei nimetatae (pilt \@ref(fig:chronology-forbidden-city-moskva) leheküljel `r render_pageref("fig:chronology-forbidden-city-moskva")`).
+
+```{r label = "chronology-forbidden-city-moskva", echo=FALSE, fig.cap = "*Moskva* saiast on saanud lihtsalt kreemisai."}
+include_external_graphics("rmd/kronoloogia/kreemisai-IMG_20251217_200059_1.jpg")
+
+```
+
+2025-12-18 oli viimane aeg lugeda *ProLite TE7513A* kasutusjuhendit, et teada saada, kuidas salvestatud slaidid sealt masinast välja kopeerida[@iiyama_te_13a_b1ag_manual] (pildid \@ref(fig:chronology-spk-covalent-1) leheküljel `r render_pageref("fig:chronology-spk-covalent-1")`, \@ref(fig:chronology-spk-single-terms) leheküljel `r render_pageref("fig:chronology-spk-single-terms")`, \@ref(fig:chronology-spk-rooting-1) leheküljel `r render_pageref("fig:chronology-spk-rooting-1")`, \@ref(fig:chronology-spk-triangle) leheküljel `r render_pageref("fig:chronology-spk-triangle")`, \@ref(fig:chronology-spk-rooting-2) leheküljel `r render_pageref("fig:chronology-spk-rooting-2")`, \@ref(fig:chronology-spk-covalent-2) leheküljel `r render_pageref("fig:chronology-spk-covalent-2")`, \@ref(fig:chronology-spk-rooting-3) leheküljel `r render_pageref("fig:chronology-spk-rooting-3")`, \@ref(fig:chronology-spk-quadratic-equality-1) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-1")`, \@ref(fig:chronology-spk-electron-proton-neutron) leheküljel `r render_pageref("fig:chronology-spk-electron-proton-neutron")`, \@ref(fig:chronology-spk-visible-light) leheküljel `r render_pageref("fig:chronology-spk-visible-light")`, \@ref(fig:chronology-spk-boiling) leheküljel `r render_pageref("fig:chronology-spk-boiling")`, \@ref(fig:chronology-spk-quadratic-function-1) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-1")`, \@ref(fig:chronology-spk-relation-multiterms) leheküljel `r render_pageref("fig:chronology-spk-relation-multiterms")`, \@ref(fig:chronology-spk-O-1) leheküljel `r render_pageref("fig:chronology-spk-O-1")`, \@ref(fig:chronology-spk-questions-1) leheküljel `r render_pageref("fig:chronology-spk-questions-1")`, \@ref(fig:chronology-spk-Sun-1) leheküljel `r render_pageref("fig:chronology-spk-Sun-1")`, \@ref(fig:chronology-spk-redefinition) leheküljel `r render_pageref("fig:chronology-spk-redefinition")`, \@ref(fig:chronology-spk-quadratic-function-2) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-2")`, \@ref(fig:chronology-spk-quadratic-equality-2) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-2")`, \@ref(fig:chronology-spk-rooting-4) leheküljel `r render_pageref("fig:chronology-spk-rooting-4")`, \@ref(fig:chronology-spk-Cl-Ge) leheküljel `r render_pageref("fig:chronology-spk-Cl-Ge")`, \@ref(fig:chronology-spk-questions-2) leheküljel `r render_pageref("fig:chronology-spk-questions-2")`, \@ref(fig:chronology-spk-rounding) leheküljel `r render_pageref("fig:chronology-spk-rounding")`, \@ref(fig:chronology-spk-quadratic-function-3) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-3")`, \@ref(fig:chronology-spk-quadratic-equality-3) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-3")`, \@ref(fig:chronology-spk-rational-equation-consultation) leheküljel `r render_pageref("fig:chronology-spk-rational-equation-consultation")`, \@ref(fig:chronology-spk-quadratic-function-4) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-4")`, \@ref(fig:chronology-spk-source-of-light) leheküljel `r render_pageref("fig:chronology-spk-source-of-light")`, \@ref(fig:chronology-spk-domain-range-value) leheküljel `r render_pageref("fig:chronology-spk-domain-range-value")`, \@ref(fig:chronology-spk-quadratic-function-5) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-5")`, \@ref(fig:chronology-spk-quadratic-equality-4) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-4")`, \@ref(fig:chronology-spk-F) leheküljel `r render_pageref("fig:chronology-spk-F")`, \@ref(fig:chronology-spk-quadratic-function-6) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-6")`, \@ref(fig:chronology-spk-chemical-elements) leheküljel `r render_pageref("fig:chronology-spk-chemical-elements")`, \@ref(fig:chronology-spk-car-from-Sun) leheküljel `r render_pageref("fig:chronology-spk-car-from-Sun")`, \@ref(fig:chronology-spk-quadratic-function-7) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-7")`, \@ref(fig:chronology-spk-stats) leheküljel `r render_pageref("fig:chronology-spk-stats")`, \@ref(fig:chronology-spk-quadratic-equality-5) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-5")`, \@ref(fig:chronology-spk-O-2) leheküljel `r render_pageref("fig:chronology-spk-O-2")`, \@ref(fig:chronology-spk-relations) leheküljel `r render_pageref("fig:chronology-spk-relations")`, \@ref(fig:chronology-spk-quadratic-function-8) leheküljel `r render_pageref("fig:chronology-spk-quadratic-function-8")`, \@ref(fig:chronology-spk-quadratic-equality-6) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-6")`, \@ref(fig:chronology-spk-Sun-2) leheküljel `r render_pageref("fig:chronology-spk-Sun-2")`, \@ref(fig:chronology-spk-Si-B-C) leheküljel `r render_pageref("fig:chronology-spk-Si-B-C")`, \@ref(fig:chronology-spk-questions-Sun-1) leheküljel `r render_pageref("fig:chronology-spk-questions-Sun-1")`, \@ref(fig:chronology-spk-consultation-3) leheküljel `r render_pageref("fig:chronology-spk-consultation-3")`, \@ref(fig:chronology-spk-factoring) leheküljel `r render_pageref("fig:chronology-spk-factoring")`, \@ref(fig:chronology-spk-stellarium) leheküljel `r render_pageref("fig:chronology-spk-stellarium")`, \@ref(fig:chronology-spk-Sun-3) leheküljel `r render_pageref("fig:chronology-spk-Sun-3")`, \@ref(fig:chronology-spk-Sun-4) leheküljel `r render_pageref("fig:chronology-spk-Sun-4")`, \@ref(fig:chronology-spk-questions-Sun-2) leheküljel `r render_pageref("fig:chronology-spk-questions-Sun-2")`, \@ref(fig:chronology-spk-calculating-time) leheküljel `r render_pageref("fig:chronology-spk-calculating-time")`, \@ref(fig:chronology-spk-quadratic-equality-7) leheküljel `r render_pageref("fig:chronology-spk-quadratic-equality-7")`, \@ref(fig:chronology-spk-percent) leheküljel `r render_pageref("fig:chronology-spk-percent")`, \@ref(fig:chronology-spk-Sun-5) leheküljel `r render_pageref("fig:chronology-spk-Sun-5")`, \@ref(fig:chronology-spk-Sun-6) leheküljel `r render_pageref("fig:chronology-spk-Sun-6")` ja \@ref(fig:chronology-spk-Sun-7) leheküljel `r render_pageref("fig:chronology-spk-Sun-7")`).
+
+```{r label = "chronology-spk-covalent-1", echo=FALSE, fig.cap = "Ruutskeemide abil kovalentsete sidemete moodustumise põhjuse näitamine."}
+include_external_graphics("rmd/kronoloogia/ruutskeemid-2025-12-18-01.jpg")
+
+```
+
+```{r label = "chronology-spk-single-terms", echo=FALSE, fig.cap = "Ülaosas on näidatud, kuidas suhet lihtsustada. Vaataja poolt paremal on näidatud, milline erinevus on üksliikmete liitmisel ja korrutamisel. Tahvli alumises osas on mitmevärviliselt näidatud, kuidas üksliikmeid liita. All paremal on näidatud, kuidas õpilase õigeks märgitud suhete võrdus on tegelikult vale võrdus."}
+include_external_graphics("rmd/kronoloogia/üksliikmed-01-1.jpg")
+
+```
+
+```{r label = "chronology-spk-rooting-1", echo=FALSE, fig.cap = "Juuravaldise lihtsustamine ja selle esitamine eri kujul. Astme esitamine eri kujul. Mõni õpilane ei saanud aru enne aru, et kui kasutatakse sulge, jäetakse vahel korrutusmärk ära."}
+include_external_graphics("rmd/kronoloogia/juurimine-01-3.jpg")
+
+```
+
+```{r label = "chronology-spk-triangle", echo=FALSE, fig.cap = "Kolmnurga $ABF$ muutmine punktist (0; 2) kahekordseks."}
+include_external_graphics("rmd/kronoloogia/kolmnurgad-02.jpg")
+
+```
+
+```{r label = "chronology-spk-rooting-2", echo=FALSE, fig.cap = "Juuravaldise teisendamine: Õpilane kirjutas mustas värvitoonis, mina korrigeerisin."}
+include_external_graphics("rmd/kronoloogia/juuravaldis-02-1.jpg")
+
+```
+
+```{r label = "chronology-spk-covalent-2", echo=FALSE, fig.cap = "Näitasin, kuidas elektroni ergastamise kaudu moodustatud kovalentses sidemes on elektron väiksema energiaga kui ergastamata kujul."}
+include_external_graphics("rmd/kronoloogia/ergastamine-02-2.jpg")
+
+```
+
+```{r label = "chronology-spk-rooting-3", echo=FALSE, fig.cap = "Juuravaldiste liitmine: teisendasin segaarvu liigosamääraks, lahutasin juure alamjuurteks, juurisin, liitsin, lihtsustasin, teisendasin kümnendosamääraks."}
+include_external_graphics("rmd/kronoloogia/juuravaldiste-liitmine-02-3.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-1", echo=FALSE, fig.cap = "Ruutvõrrandi lahendamine, milles konstant puudub: tegurdamine, kummagi teguri võrdsustamine nulliga, lineaarvõrrandi lahendamine, lahendihulga määramine."}
+include_external_graphics("rmd/kronoloogia/ruutvõrrand-02-4.jpg")
+
+```
+
+```{r label = "chronology-spk-electron-proton-neutron", echo=FALSE, fig.cap = "Elektroni, prootoni ja neutroni laeng ja avastamisaasta."}
+include_external_graphics("rmd/kronoloogia/elektron-prooton-neutron-02-5.jpg")
+
+```
+
+```{r label = "chronology-spk-visible-light", echo=FALSE, fig.cap = "Valmistasin õpilastele nähtava valguse värvide tekkimise uurimiseks simulatsiooni põhjal tabeli ühe näitega[@fundamentaalsed_loodusteadused_matemaatiliselt_pdf, lk 149-154]."}
+include_external_graphics("rmd/kronoloogia/nähtava-valguse-värvide-tekkimine-02-6.jpg")
+
+```
+
+```{r label = "chronology-spk-boiling", echo=FALSE, fig.cap = "Tahvlil on esitatud ruutfunktsioon täielikuna ning ilma lineaarliikme ja konstandita, lineaarfunktsioon täielikuna ja konstandita, ning pöördvõrdelise seose funktsioon. Tahvli allosas on esitatud sirgjoonelise liikumise üldvalem. Vaataja poolt paremal on funktsioon, mis seob omavahel temperatuuri ja kõrguse, mille korral vesi keeb. Näidatud on, et temperatuuril \\qty{100}{\\degreeCelsius} keeb temperatuur kõrgusel 0 Amsterdami nullist."}
+include_external_graphics("rmd/kronoloogia/ruutfunktsioon-temperatuur-kõrgus-02-7.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-1", echo=FALSE, fig.cap = "Õpilane püüdis visandada etteantud ruutfunktsiooni graafikut. Millised kaks eksimust ta tegi?"}
+include_external_graphics("rmd/kronoloogia/ruutfunktsioon-graafik-02-8.jpg")
+
+```
+
+```{r label = "chronology-spk-relation-multiterms", echo=FALSE, fig.cap = "Suhte ja hulkliikme lihtsustamine."}
+include_external_graphics("rmd/kronoloogia/suhe-üksliikmed-03-1.jpg")
+
+```
+
+```{r label = "chronology-spk-O-1", echo=FALSE, fig.cap = "Hapniku suurima energiaga elektroni ruutskeem, elektronide arv eri energiatasemetel, elektronkonfiguratsioon ja kvantarvude väärtused."}
+include_external_graphics("rmd/kronoloogia/o-03-2.jpg")
+
+```
+
+```{r label = "chronology-spk-questions-1", echo=FALSE, fig.cap = "Kui õpilane esitas küsimuse, millele ma vastust ei teadnud, kirjutasin selle tahvlile ja lasin kõigil õpilastel koduse ülesandena vastus välja selgitada."}
+include_external_graphics("rmd/kronoloogia/küsimused-uurimiseks-03-3.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-1", echo=FALSE, fig.cap = "Päike. Õpilane kiitis selle minu tehtud pildi ilusaks."}
+include_external_graphics("rmd/kronoloogia/päike-03-4.jpg")
+
+```
+
+```{r label = "chronology-spk-redefinition", echo=FALSE, fig.cap = "Koolibussis väitis üks õpilane, et teine õpilane oli talle öelnud, et 10 + 0 = 11. Selgitasin, et kui rederineerime nulli, siis on, muidu mitte."}
+include_external_graphics("rmd/kronoloogia/redefineerimine-03-5.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-2", echo=FALSE, fig.cap = "Arvutasime, millisel kõrgusel Amsterdami nullist keeb vesi \\qty{90}{\\degreeCelsius} juures. Hiljem küsisin, milline mägi võiks nii kõrge olla. Pakuti Mount Everesti."}
+include_external_graphics("rmd/kronoloogia/ruutfunktsioon-kõrgus-03-6.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-2", echo=FALSE, fig.cap = "Kui on teada ruutvõrrandi lahendid, on võimalik Viète'i teoreemi järgi määratleda ruutvõrrand[@wolfram_vietas_formulas]."}
+include_external_graphics("rmd/kronoloogia/ruutvõrrand-viète-04-1.jpg")
+
+```
+
+```{r label = "chronology-spk-rooting-4", echo=FALSE, fig.cap = "Ratsionaalavaldise teisendamine: sinisega on märgitud minu abi."}
+include_external_graphics("rmd/kronoloogia/juuravaldis-04-2.jpg")
+
+```
+
+```{r label = "chronology-spk-Cl-Ge", echo=FALSE, fig.cap = "Õpilane tegi kloori orbitaalide täitumise skeemi, märkis, mitu elektroni mingil energiatasemel on, ja joonistas ka täppskeemi. Esimene ja viimane on vigased. Punaselt tegin mina ühe muu elemendi orbitaalide täitumise skeemi. Millise?"}
+include_external_graphics("rmd/kronoloogia/cl-ge-04-3.jpg")
+
+```
+
+```{r label = "chronology-spk-questions-2", echo=FALSE, fig.cap = "Veel küsimusi seoses Päikesega õpilastele uurimiseks."}
+include_external_graphics("rmd/kronoloogia/päike-04-5.jpg")
+
+```
+
+```{r label = "chronology-spk-rounding", echo=FALSE, fig.cap = "Üks õpilane soovis, et testiksin tema ümardamisoskust. Ta pakkus alul välja, et 2,5 on ühelisteni ümardatult 3, hiljem, et 2. Selgitasin, kuna teema oli segane."}
+include_external_graphics("rmd/kronoloogia/ümardamine-04-6.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-3", echo=FALSE, fig.cap = "Väärtuste tabel kuubi pindala funktsiooni jaoks."}
+include_external_graphics("rmd/kronoloogia/ruutfunktsioon-kuup-04-7.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-3", echo=FALSE, fig.cap = "Tekstülesande lahendamine ruutvõrrandi abil."}
+include_external_graphics("rmd/kronoloogia/tekstülesande-lahendamine-ruutvõrrandi-abil-05-1.jpg")
+
+```
+
+```{r label = "chronology-spk-rational-equation-consultation", echo=FALSE, fig.cap = "Ratsionaalavaldise teisendamine ja nõustamisaja algus."}
+include_external_graphics("rmd/kronoloogia/ratsionaalavaldis-nõustamine-05-2.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-4", echo=FALSE, fig.cap = "Võimalike nullkohtade arvutamine."}
+include_external_graphics("rmd/kronoloogia/nullkohad-05-3.jpg")
+
+```
+
+```{r label = "chronology-spk-source-of-light", echo=FALSE, fig.cap = "Kas valgusallikas?"}
+include_external_graphics("rmd/kronoloogia/valgusallikas-05-4.jpg")
+
+```
+
+```{r label = "chronology-spk-domain-range-value", echo=FALSE, fig.cap = "Määramis- ja muutumispiirkond ning funktsiooni väärtus."}
+include_external_graphics("rmd/kronoloogia/määramispiirkond-muutumispiirkond-funktsiooni-väärtus-05-5.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-5", echo=FALSE, fig.cap = "Ruutfunktsiooni graafiku tegemine ning sellelt ruutjuure väljalugemine, millega oli õpilastel parasjagu pusimist."}
+include_external_graphics("rmd/kronoloogia/ruutfunktsiooni-graafik-06.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-4", echo=FALSE, fig.cap = "Tekstülesande lahendamine ruutvõrrandi abil."}
+include_external_graphics("rmd/kronoloogia/tee-06-1.jpg")
+
+```
+
+```{r label = "chronology-spk-F", echo=FALSE, fig.cap = "Õpilane tegi fluori orbitaalide täitumise skeemi, täppskeemi, elektronkonfiguratsiooni, määras elektronide arvu energiatasemetel ja kvantarvude väärtused."}
+include_external_graphics("rmd/kronoloogia/f-06-2.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-6", echo=FALSE, fig.cap = "Ruutfunktsioon."}
+include_external_graphics("rmd/kronoloogia/ruutfunktsioon-06-3.jpg")
+
+```
+
+```{r label = "chronology-spk-chemical-elements", echo=FALSE, fig.cap = "Kirjutasin, millised toimingud tuleb keemiliste elementidega teha. Näitasin võimalikke kvantarvude väärtusi. Tegin ette boori näite. Märkisin, kes mille kohta teeb."}
+include_external_graphics("rmd/kronoloogia/elemendid-06-4.jpg")
+
+```
+
+```{r label = "chronology-spk-car-from-Sun", echo=FALSE, fig.cap = "Eluvõõras ülesanne, millele õpilaste seast kostus ka see hinnang. Ometi me selle mõtteeksperimendi läbi tegime, et kui kaua liiguks auto Päikeselt Maale sirgjooneliselt ühtlase kiirusega \\qty{90}{\\kilo\\m\\per\\hour}. Kas arvutus on õige?"}
+include_external_graphics("rmd/kronoloogia/auto-päikeselt-06-5.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-7", echo=FALSE, fig.cap = "Etteantud sisenditele tuli arvutada vastavad väljundid."}
+include_external_graphics("rmd/kronoloogia/määramispiirkond-muutumispiirkond-06-6.jpg")
+
+```
+
+```{r label = "chronology-spk-stats", echo=FALSE, fig.cap = "Aritmeetiline keskmine, mediaan, mood, ulatus, minimaalne ja maksimaalne väärtus."}
+include_external_graphics("rmd/kronoloogia/statistikud-07-1.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-5", echo=FALSE, fig.cap = "Ruutvõrrandi lahendamine õpilase abiga."}
+include_external_graphics("rmd/kronoloogia/ruutvõrrand-07-2.jpg")
+
+```
+
+```{r label = "chronology-spk-O-2", echo=FALSE, fig.cap = "Kas hapniku täppskeem on õige? Millise keemilise elemendi orbitaalide täitumise skeem on pildil?"}
+include_external_graphics("rmd/kronoloogia/o-07-3.jpg")
+
+```
+
+```{r label = "chronology-spk-relations", echo=FALSE, fig.cap = "Lineaarne, võrdeline ja pöördvõrdeline seos."}
+include_external_graphics("rmd/kronoloogia/funktsioonide-võrdlus-07-4.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-function-8", echo=FALSE, fig.cap = "Ruutliikme teguri arvutamine."}
+include_external_graphics("rmd/kronoloogia/ruutfunktsioon-07-6.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-6", echo=FALSE, fig.cap = "Ruutvõrrandi teisendamine standardkujule ja selle lahendamise valem."}
+include_external_graphics("rmd/kronoloogia/taandatud-ruutvõrrand-08-1.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-2", echo=FALSE, fig.cap = "Päike ja kliimavöötmed."}
+include_external_graphics("rmd/kronoloogia/päike-kliimavöötmed-08-2.jpg")
+
+```
+
+```{r label = "chronology-spk-Si-B-C", echo=FALSE, fig.cap = "Räni, boori ja süsiniku orbitaalide täitumise skeemid."}
+include_external_graphics("rmd/kronoloogia/si-b-c-08-3.jpg")
+
+```
+
+```{r label = "chronology-spk-questions-Sun-1", echo=FALSE, fig.cap = "Veel küsimusi. Üks õpilane oli veendunud, et kuusk ei fotosünteesi ning lasin tal uurida, mille tulemusel ta oli veendunud, et kuusk fotosüteesib. Ühtlasi on pildil Päikese kihtide mudel."}
+include_external_graphics("rmd/kronoloogia/küsimused-09-1.jpg")
+
+```
+
+```{r label = "chronology-spk-consultation-3", echo=FALSE, fig.cap = "Ühe teema nõustamissessioonist välistasime."}
+include_external_graphics("rmd/kronoloogia/nõustamine-09-2.jpg")
+
+```
+
+```{r label = "chronology-spk-factoring", echo=FALSE, fig.cap = "Tegurdamine."}
+include_external_graphics("rmd/kronoloogia/tegurdamine-09-3.jpg")
+
+```
+
+```{r label = "chronology-spk-stellarium", echo=FALSE, fig.cap = "Soovitasin õpilastele kasutada rakendust *Stellarium*, kuid see ei hakanud korralikult sisetingimustes näitama[@stellarium_software]. Arvutasime Proxima Centauri[@earthsky_proxima_centauri_2025] kauguse Maast."}
+include_external_graphics("rmd/kronoloogia/stellarium-10.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-3", echo=FALSE, fig.cap = "Päikese massi arvutamine õpilaste poolt välja selgitatud valemi põhjal."}
+include_external_graphics("rmd/kronoloogia/päikese-massi-arvutamine-10-2.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-4", echo=FALSE, fig.cap = "Päikese koostis, kihid ja läbimõõt."}
+include_external_graphics("rmd/kronoloogia/päike-11.jpg")
+
+```
+
+```{r label = "chronology-spk-questions-Sun-2", echo=FALSE, fig.cap = "Lasin õpilastel teha valitud keemiliste elementide kohta viis asja. Üks õpilane soovis teada, kas tegemist on liitsõnaga, mistõttu tegin kriipsud sõnadesse, aga need hoopis segavat teda. Õppesessiooni seiranud haridusnõunik esitas pildil oleva küsimuse. Andsin sellele vastuse välja selgitamise ülesandeks õpilastele."}
+include_external_graphics("rmd/kronoloogia/keemilised-elemendid-11-1.jpg")
+
+```
+
+```{r label = "chronology-spk-calculating-time", echo=FALSE, fig.cap = "Mingi ajavahemiku arvutamine vahemaa ja keskmise kiiruse põhjal - õpilase arendus. Millise taevakeha kaugus Maast on selline?"}
+include_external_graphics("rmd/kronoloogia/4-2-12.jpg")
+
+```
+
+```{r label = "chronology-spk-quadratic-equality-7", echo=FALSE, fig.cap = "Ruutvõrrandi lahendamine, milles konstant puudub."}
+include_external_graphics("rmd/kronoloogia/ruutvõrrand-12-1.jpg")
+
+```
+
+```{r label = "chronology-spk-percent", echo=FALSE, fig.cap = "Osale õpilastest ei meeldinud, et ma küsisin testis, kuidas on *protsent* prantsuse keeles. Ometi on see teadmine vajalik, et mõista, mida see mõiste tähendab."}
+include_external_graphics("rmd/kronoloogia/protsent-13.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-5", echo=FALSE, fig.cap = "Õpilane arvutas, kui kaua liigub footon Päikeselt Maale."}
+include_external_graphics("rmd/kronoloogia/aeg-footon-päikeselt-15.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-6", echo=FALSE, fig.cap = "Õpilane arvutas, kui kaua liigub footon Päikeselt Maale. Kas seekord õigesti?"}
+include_external_graphics("rmd/kronoloogia/aeg-päikeselt-16.jpg")
+
+```
+
+```{r label = "chronology-spk-Sun-7", echo=FALSE, fig.cap = "Kui suur on Päike, Maaga võrreldes?"}
+include_external_graphics("rmd/kronoloogia/päike-maa-18.jpg")
+
+```
+
+SPK's korraldati kooli töötajatele, õpilastele ja lapsevanematele jõulukontsert (pilt \@ref(fig:chronology-spk-christmas) leheküljel `r render_pageref("fig:chronology-spk-christmas")`).
+
+```{r label = "chronology-spk-christmas", echo=FALSE, fig.cap = "*HÄIDJÕULUUPÜHI*. Vaataja poolt paremal on näha trellitatud söökla, milles augustis sai veel supi pooleteise euro eest, millise hinna tasusin ka septembri söökide eest, kuna mulle ei tutvustatud uut hinnakirja, mille kohaselt maksin alates oktoobri söökidest üks kuu korraga tagantjärele. Viimati maksis seal supp \\qty{1.8}{\\euro} ja praad neli eurot. Kooli sissepääs on ülakorruselt. Algkool oli täielikult allkorrusel."}
+include_external_graphics("rmd/kronoloogia/jõulupühi-IMG_20251218_121638_1.jpg")
+
+```
+
+Kuna jõukontsert oli minu eelviimases tööpäevas SPK's, siis ütlesin ühele nendest õpetajatest, kes koolimajas elab, et nüüd on tal viimased kaks päeva võimalik mulle oma korterit näidata. Ta siis näitaski. Korter oli umes sama suur ja sama talitluslikkusega nagu minu Harku korter, ent rõdu, millele liikumiseks tuli ületada mõni trepiaste, on palju suurem. Tema naaberkorteris elav õpetaja oli ka arvutanud välja, et sealt avaneb \num{1,2} miljoni vaade, sest taamalt paistvasse Auvere elektrijaama[@auvere_asula] olevat just nii palju finantse sisse pandud (pilt \@ref(fig:chronology-spk-auvere) leheküljel `r render_pageref("fig:chronology-spk-auvere")`). Tema seda vaadet nautida ei saa, kuna pärnad jäävat vahele.
+
+```{r label = "chronology-spk-auvere", echo=FALSE, fig.cap = "Ühe SPK's elava õpetaja korteri rõdule paistavad kätte nii all olev lasteaia osa, teeäärsed pärnad kui eemal olev Auvere elektrijaam."}
+include_external_graphics("rmd/kronoloogia/auvere-IMG_20251218_125630_1.jpg")
+
+```
+
+Pärast jõulukontserti anti õpetajatele võimalus maalida meeleolu (pildid \@ref(fig:chronology-spk-painting-1) leheküljel `r render_pageref("fig:chronology-spk-painting-1")` ja \@ref(fig:chronology-spk-painting-2) leheküljel `r render_pageref("fig:chronology-spk-painting-2")`).
+
+```{r label = "chronology-spk-painting-1", echo=FALSE, fig.cap = "Minu SPK meeleolu maalimisepilt: Tunnen, et ma järjest täiendan end ja seetõttu ma ei saa õpetada - uuendamisaken ei sulgu, enne kui uuendamine on lõpule jõudnud, aga on juba üle lõpu..."}
+include_external_graphics("rmd/kronoloogia/update-IMG_20251218_141337_1.jpg")
+
+```
+
+```{r label = "chronology-spk-painting-2", echo=FALSE, fig.cap = "Kõik SPK meeleolu maalimise pildid."}
+include_external_graphics("rmd/kronoloogia/maalid-IMG_20251218_151320_1.jpg")
+
+```
+
+Pärast meeleolu maalimist sõid koolitöötajad ühist jõululõunat, mille kestel arutasid koolimajas elavad õpetajad, et lähevad pärast Narva-Jõesuu randa. Pakkusin neile välja, et lähme autoga ja nii me läksime. Pärast jalutuskäiku tahtis üks neist osta endale konjakit ning Värska mullivesi oli tema *konjak*. Teine lahkus 24 Saku *Heledaga*. Enne lahkumist soovitati mul veel osta müts (pilt \@ref(fig:chronology-coop) leheküljel `r render_pageref("fig:chronology-coop")`). Müügis oli ka \qty{899}{\euro} maksev põdra kuju.
+
+```{r label = "chronology-coop", echo=FALSE, fig.cap = "Mina kolleegi soovitatud mütsiga.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/mütsiga-IMG_20251218_171124.jpg")
+
+```
+
+Pimedas tegin veel ühe jäädvustuse mälestusest koolimaja osast, kus elavad õpetajad (pilt \@ref(fig:chronology-spk-schoolhouse) leheküljel `r render_pageref("fig:chronology-spk-schoolhouse")`).
+
+```{r label = "chronology-spk-schoolhouse", echo=FALSE, fig.cap = "Vaade SPK'le õpetajate korterite poolel. All on vaataja poolt vasakul jupp lasteaeda."}
+include_external_graphics("rmd/kronoloogia/koolimaja-IMG_20251218_173529_1.jpg")
+
+```
+
+Pärast läksin nende kahe õpetajaga rännakule. Kaasa võeti ka hüpoallergeenne kass, keda tuli alatasa järele oodata, sest ta läks ümberringi hulkuma. Kõndisime mööda samas hoovist, kus olin [päevavalges märganud hoovikaunistusi](#chronology-war-village-art) (pildid \@ref(fig:chronology-war-village-snowman) leheküljel `r render_pageref("fig:chronology-war-village-snowman")`, \@ref(fig:chronology-war-village-tree) leheküljel `r render_pageref("fig:chronology-war-village-tree")`, \@ref(fig:chronology-war-village-shadow) leheküljel `r render_pageref("fig:chronology-war-village-shadow")`, \@ref(fig:chronology-war-village-cat-1) leheküljel `r render_pageref("fig:chronology-war-village-cat-1")`, \@ref(fig:chronology-war-village-cat-2) leheküljel `r render_pageref("fig:chronology-war-village-cat-2")` ja \@ref(fig:chronology-war-village-cat-3) leheküljel `r render_pageref("fig:chronology-war-village-cat-3")`). 
+
+```{r label = "chronology-war-village-snowman", echo=FALSE, fig.cap = "Päevavalges nähtud kaunistused Sinimäe külas pimedas."}
+include_external_graphics("rmd/kronoloogia/lumememm-IMG_20251218_174126_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-tree", echo=FALSE, fig.cap = "Sinimäe kaunistused lähemalt."}
+include_external_graphics("rmd/kronoloogia/puu-IMG_20251218_174200_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-shadow", echo=FALSE, fig.cap = "Sinimäe kaunistused kaugemalt."}
+include_external_graphics("rmd/kronoloogia/koll-IMG_20251218_174713_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-cat-1", echo=FALSE, fig.cap = "Leia pildilt kass!"}
+include_external_graphics("rmd/kronoloogia/kassiga-IMG_20251218_174716_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-cat-2", echo=FALSE, fig.cap = "\"Hüppaks üle?\""}
+include_external_graphics("rmd/kronoloogia/üles-IMG_20251218_175101_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-cat-3", echo=FALSE, fig.cap = "Kuna ma aia juures passisin, olevat kass läinud järgmise kaunistuse juurde ja jätnud meid edasi ootama."}
+include_external_graphics("rmd/kronoloogia/järgmine-IMG_20251218_175152_2.jpg")
+
+```
+
+Oma viimase koolipäeva järel tutvusin enne ärasõitu ümbruskonnaga (pildid \@ref(fig:chronology-spk-eldershome) leheküljel `r render_pageref("fig:chronology-spk-eldershome")`, \@ref(fig:chronology-war-village-pouch) leheküljel `r render_pageref("fig:chronology-war-village-pouch")`, \@ref(fig:chronology-war-village-hell-1) leheküljel `r render_pageref("fig:chronology-war-village-hell-1")`, \@ref(fig:chronology-war-village-back) leheküljel `r render_pageref("fig:chronology-war-village-back")`, \@ref(fig:chronology-war-village-sculpture) leheküljel `r render_pageref("fig:chronology-war-village-sculpture")`, \@ref(fig:chronology-war-village-cross-1) leheküljel `r render_pageref("fig:chronology-war-village-cross-1")`, \@ref(fig:chronology-war-village-cross-2) leheküljel `r render_pageref("fig:chronology-war-village-cross-2")`, \@ref(fig:chronology-war-village-hell-2) leheküljel `r render_pageref("fig:chronology-war-village-hell-2")`, \@ref(fig:chronology-war-village-hell-3) leheküljel `r render_pageref("fig:chronology-war-village-hell-3")`, \@ref(fig:chronology-war-village-hell-4) leheküljel `r render_pageref("fig:chronology-war-village-hell-4")`, \@ref(fig:chronology-war-village-hell-5) leheküljel `r render_pageref("fig:chronology-war-village-hell-5")`, \@ref(fig:chronology-spk-pouch-1) leheküljel `r render_pageref("fig:chronology-spk-pouch-1")`, \@ref(fig:chronology-spk-pouch-2) leheküljel `r render_pageref("fig:chronology-spk-pouch-2")` ja \@ref(fig:chronology-war-village-map) leheküljel `r render_pageref("fig:chronology-war-village-map")`).
+
+```{r label = "chronology-spk-eldershome", echo=FALSE, fig.cap = "Üks SPK külaline oli kord öelnud, et ta on sellises vanadekodus olnud."}
+include_external_graphics("rmd/kronoloogia/vanadekodu-IMG_20251219_115644_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-pouch", echo=FALSE, fig.cap = "Leidsin tiigi."}
+include_external_graphics("rmd/kronoloogia/tiik-IMG_20251219_120011_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-hell-1", echo=FALSE, fig.cap = "Vaade Põrgumäele."}
+include_external_graphics("rmd/kronoloogia/põrgumägi-IMG_20251219_120018_2.jpg")
+
+```
+
+```{r label = "chronology-war-village-back", echo=FALSE, fig.cap = "Vaade Põrgumäe jalami juurest tagasi."}
+include_external_graphics("rmd/kronoloogia/tagasi-IMG_20251219_120249_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-sculpture", echo=FALSE, fig.cap = "Märkasin Põrgumäel suurt risti."}
+include_external_graphics("rmd/kronoloogia/sculpture-IMG_20251219_121351_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-cross-1", echo=FALSE, fig.cap = "Rist ühelt poolt.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/rist-tagant-IMG_20251219_121553_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-cross-2", echo=FALSE, fig.cap = "Rist teiselt poolt.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/rist-eest-IMG_20251219_121656_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-hell-2", echo=FALSE, fig.cap = "Põrgumäel."}
+include_external_graphics("rmd/kronoloogia/põrgumäel-IMG_20251219_122028_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-hell-3", echo=FALSE, fig.cap = "Sinimäe vaatetorn Põrgumäelt otse."}
+include_external_graphics("rmd/kronoloogia/torn-põrgumäelt-IMG_20251219_122142_2.jpg")
+
+```
+
+```{r label = "chronology-war-village-hell-4", echo=FALSE, fig.cap = "Sinimäe vaatetorn Põrgumäelt puude vahelt."}
+include_external_graphics("rmd/kronoloogia/ämber-IMG_20251219_122711_1.jpg")
+
+```
+
+```{r label = "chronology-war-village-hell-5", echo=FALSE, fig.cap = "Sinimäe vaatetorn paistmas korstende vahel Põrgumäe jalami ääres."}
+include_external_graphics("rmd/kronoloogia/korstnad-IMG_20251219_123051_1.jpg")
+
+```
+
+```{r label = "chronology-spk-pouch-1", echo=FALSE, fig.cap = "Leidsin veel ühe tiigi."}
+include_external_graphics("rmd/kronoloogia/tiik-IMG_20251219_123647_1.jpg")
+
+```
+
+```{r label = "chronology-spk-pouch-2", echo=FALSE, fig.cap = "SPK's elav õpetaja teadis rääkida, et ta on viinud selles varjualuses läbi õuesõpet."}
+include_external_graphics("rmd/kronoloogia/tiik-IMG_20251219_123651_2.jpg")
+
+```
+
+```{r label = "chronology-war-village-map", echo=FALSE, fig.cap = "Mina läbisin \\num{2,5}-\\unit{\\kilo\\m} raja mööndustega. Juhin tähelepanu \\num{600}-\\unit{\\kilo\\m} rajale ümber tiigi. Mitu korda tuleb selleks rada läbida?"}
+include_external_graphics("rmd/kronoloogia/kaart-IMG_20251219_124019_1.jpg")
+
+```
+
+Ja oligi kõik. Sõitsin ära. Uudistasin veel veidi kalmistute juures ja proovisin Surnuaia tee kaudu teisele poole raudteed saada, aga sellel liivakattega teel olid laskumise eel sügavad niisked roopad, nii et sõitsin sealtkandist üldse ära. Järgmise peatuse tekin Vokas (pilt \@ref(fig:chronology-voka) leheküljel `r render_pageref("fig:chronology-voka")`), kust leidsin Madis Tuuderi, keda pärast ajaloost rääkimist Narvas rünnati kehaliselt[@pohjarannik_tuuder_runnak_2025], tekstidega silte. 
+
+```{r label = "chronology-voka", echo=FALSE, fig.cap = "Vaade veekogule Vokas."}
+include_external_graphics("rmd/kronoloogia/voka-IMG_20251219_132050_1.jpg")
+
+```
+
+Edasi sõitsin Valastesse. Olin maailma kõrgeimat Eesti juba oma keha isa omanikuga käinud viis aastat varem septembris ja nagu pildilt \@ref(fig:chronology-valaste-1) leheküljel `r render_pageref("fig:chronology-valaste-1")` on näha, siis vett langeb võrdlemisi vähevõitu[@puhkaeestis_valaste_juga]. Piltidel \@ref(fig:chronology-valaste-2) leheküljel `r render_pageref("fig:chronology-valaste-2")` ja \@ref(fig:chronology-valaste-3) leheküljel `r render_pageref("fig:chronology-valaste-3")` on võrdluseks 2025. a detsembri oluliselt suurem langeva vee hulk. See juga pole looduslik, vaid on maaparandustööde tulemus.
+
+```{r label = "chronology-valaste-1", echo=FALSE, fig.cap = "Vaade Valaste joale 2020."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-IMG_20200902_171714.jpg")
+
+```
+
+```{r label = "chronology-valaste-2", echo=FALSE, fig.cap = "Vaade Valaste joale 2025.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/valaste-juga-IMG_20251219_134706_1.jpg")
+
+```
+
+```{r label = "chronology-valaste-3", echo=FALSE, fig.cap = "Vaade Valaste joale ajutiselt suletud ohtliku õpperaja mitteohtlikust osast."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-IMG_20251219_134949.jpg")
+
+```
+
+Juba eelnenud nädala pühapäevast saadik oli mul nohu. Kui saatsin selles reedes inimesele, kes mind järgmiseks päevaks oli külla kutsunud - terje tammekivile - pildi \@ref(fig:chronology-valaste-3) leheküljel `r render_pageref("fig:chronology-valaste-3")` koopia, vastas ta:
+
+> sa pidid ju haige olema aga kool juba labi
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- WhatsAppi[@whatsapp_app] sõnum terje tammekivilt  14:10 ')`
+
+```{r label = "chronology-valaste-4", echo=FALSE, fig.cap = "Maailma kõrgeim juga Eestis."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-keel-IMG_20251219_135008.jpg")
+
+```
+
+> ei näe, et haige, keel suust väljas
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- WhatsAppi sõnum terje tammekivile  14:11 ')`
+
+> haige on kodus mitte ei kolla juhasid mooda
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- WhatsAppi sõnum terje tammekivilt  14:12')`
+
+[]{#chronology-valaste-canyon}
+
+Valaste joa juures on silt, et õpperada[@puhkaeestis_valaste_matka_opperada] on ajutiselt suletud ja selle läbimine on ohtlik. Kuna mingit linti või muud kehalist takistust poldud paigaldatud, asusin seiklema, sest kas *ohtlik* tähendab, et see on ka minu jaoks ohtlik? Arvasin, et all mere ääres olev laudtee on niiske ilma tõttu libe, ent polnud. Kindlasti on see jäätununa libe. Laudtee oli täiendatud siltidega, millelt sai lugeda õppeteavet ümbritseva kohta (pilt \@ref(fig:chronology-valaste-5) leheküljel `r render_pageref("fig:chronology-valaste-5")`).
+
+```{r label = "chronology-valaste-5", echo=FALSE, fig.cap = "Valaste kanjon."}
+include_external_graphics("rmd/kronoloogia/valaste-kanjon-IMG_20251219_135511_1.jpg")
+
+```
+
+Pildil \@ref(fig:chronology-valaste-6) leheküljel `r render_pageref("fig:chronology-valaste-6")` on näha Valaste juga alt laudteelt, kui olin juba joa ületanud.
+
+```{r label = "chronology-valaste-6", echo=FALSE, fig.cap = "Valaste juga alt."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-eemalt-IMG_20251219_135717_1.jpg")
+
+```
+
+Narva-Jõesuu rannas demonstreeris üks kaasas olnud õpetaja, kuidas ta pärast õppenõukogu koosolekut alati vees käib ning tähtis ei olevat, kas paljajalu või soojustatud säärikutega. Et minu õppenõukogu koosolekud SPK's olid nüüdseks kõik lõppenud, läksin Valastes merre (pilt \@ref(fig:chronology-valaste-7) leheküljel `r render_pageref("fig:chronology-valaste-7")`).
+
+```{r label = "chronology-valaste-7", echo=FALSE, fig.cap = "Valaste meres.", out.height=".92\\textheight"}
+include_external_graphics("rmd/kronoloogia/valaste-meres-IMG_20251219_135856.jpg")
+
+```
+
+Edasi kõndisingi mere kallast mööda kividel, sest laudtee oli otsapidi seal. Mõtlesin, et kui oleks soe suvi, siis supleksin kindlasti, sest meri oli nii kutsuv (pilt \@ref(fig:chronology-valaste-8) leheküljel `r render_pageref("fig:chronology-valaste-8")`).
+
+```{r label = "chronology-valaste-8", echo=FALSE, fig.cap = "Valaste meri."}
+include_external_graphics("rmd/kronoloogia/valaste-meri-IMG_20251219_140131.jpg")
+
+```
+
+Esimene ohumärk võis olla kuivanud puu, mille juurte ja tüve vahelt leidsin kivilahmakaid (pilt \@ref(fig:chronology-valaste-9) leheküljel `r render_pageref("fig:chronology-valaste-9")`).
+
+```{r label = "chronology-valaste-9", echo=FALSE, fig.cap = "Langenud või uhutud kivid ja kuivanud puu."}
+include_external_graphics("rmd/kronoloogia/valaste-juurikas-IMG_20251219_140425_1.jpg")
+
+```
+
+Olin kõndinud juba päris tükk aega ronides aegajalt üle palkide ja mõnikord jalutades läbi madala vee lainete vahel. Meenus, et üleval olnud kaardile oli märgitud õpperaja või selle osa all pikkuseks \qty{700}{\m}. Võtsin lahti kaardid nutitelefonis ja võrreldes läbitud vahemaad mõõtkava joonlauaga olin justkui selle vahemaa juba läbinud ja Ontika ots õpperajal pidanuks paistma. Ma ei osanud seda ka kuskilt konkreetselt otsida.
+
+Nagu oli näha joa taga oleva seina läbilõikest, on maakoores üks kiht savi, mis paljandub otse rannal (pilt \@ref(fig:chronology-valaste-10) leheküljel `r render_pageref("fig:chronology-valaste-10")`). See savi on väga pehme.
+
+```{r label = "chronology-valaste-10", echo=FALSE, fig.cap = "Otsin koduteed."}
+include_external_graphics("rmd/kronoloogia/valaste-savi-IMG_20251219_140645_1.jpg")
+
+```
+
+> mis mottes
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- WhatsAppi sõnum terje tammekivilt  14:25')`
+
+Rannal vedeles kiiver. Võtsin kaasa, sest kui kellelgi seda vaja oli läinud, võis seda ka minul vaja minna - taaskasutus.
+
+> no siis pole vaga haige ju kui jouab kollata
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- WhatsAppi sõnum terje tammekivilt  14:26')`
+
+Jätkasin liikumist rannajoonel, kuni enam jätkata ei saanud, sest ees oli järsk kõrge kallas, mille vastu lainetas meri. Ronisin kuivanud puu kaudu ülespoole ja proovisin liikuda kõrgemal tasandil, ent vajusin sinisavi sisse. Kuna ma tagasi ei soovinud minna, otsisin, kuidas saan mööda vajuvaid kive siiski ülespoole liikuda. Avastasin, et astuda tasub samblale, sest selle all pole savi, vaid on kivi. Kui jõudsin savivööndist kõrgemale, otsustasin pissida, mida tehes märkasin eemal silte nagu [see, mida olin näinud õpperaja alguses](#chronology-valaste-canyon). Siltideni liikumine polnud sugugi lihtne, sest maastik pakub seal läbimiseks väljakutset. Kaks silti lebasid ämbril ja sealt algas mereni viiv lagunenud kivitrepp. Kuna Päikese loojanguni polnud palju aega jäänud, asusin liikuma vastassuunas piki Maasse torgatud loksuvaid toikaid, millel ilmselt kunagi oli laudtee (pildid \@ref(fig:chronology-ontika-1) leheküljel `r render_pageref("fig:chronology-ontika-1")` ja \@ref(fig:chronology-ontika-2) leheküljel `r render_pageref("fig:chronology-ontika-2")`).
+
+```{r label = "chronology-ontika-1", echo=FALSE, fig.cap = "Õpperaja leitud Ontika otsa juures."}
+include_external_graphics("rmd/kronoloogia/ontika-postid-IMG_20251219_143257_1.jpg")
+
+```
+
+```{r label = "chronology-ontika-2", echo=FALSE, fig.cap = "Toikad olid sobilikud maamärgid õpperajal liikumiseks."}
+include_external_graphics("rmd/kronoloogia/ontika-toikad-IMG_20251219_143438_1.jpg")
+
+```
+
+Õpperajalt leidsin ühe n-ö energiajoogi purgi ja võtsin selle kaasa, et see taaraautomaati pista. Looduses laguneks see 200 a (pilt \@ref(fig:chronology-ontika-3) leheküljel `r render_pageref("fig:chronology-ontika-3")`). 200 a pärast pole sellel üldse tähtsust, kas see purk siin vedeles, aga praegu küll.
+
+```{r label = "chronology-ontika-3", echo=FALSE, fig.cap = "Prügi metsas."}
+include_external_graphics("rmd/kronoloogia/ontika-prügi-IMG_20251219_143637_1.jpg")
+
+```
+
+Ühes kohas oli õpperaja ääres pink. Sealt edasi ma ei osanud kohe minna, sest ma ei näinud rohkem toikaid. Läksin korraks valli, millel olin, ja panga vahelisse kraavi, kuid seal ka polnud toikaid (pilt \@ref(fig:chronology-ontika-4) leheküljel `r render_pageref("fig:chronology-ontika-4")`).
+
+```{r label = "chronology-ontika-4", echo=FALSE, fig.cap = "Ontika pank."}
+include_external_graphics("rmd/kronoloogia/ontika-maastik-IMG_20251219_143728_1.jpg")
+
+```
+
+Ronisin tagasi üles ja mere suunas oli veel toikaid (pilt \@ref(fig:chronology-ontika-5) leheküljel `r render_pageref("fig:chronology-ontika-5")`).
+
+```{r label = "chronology-ontika-5", echo=FALSE, fig.cap = "Suves olevat siin palju kõrvenõgeseid ja ilmselt ka sääski."}
+include_external_graphics("rmd/kronoloogia/ontika-lotr-IMG_20251219_143732_2.jpg")
+
+```
+
+Ühes kohas olid juba pikemad toikad ja seal algas järsem tõus, mis ulatub seinani. Jah, sealt edasi ma enam rada ei näinud mitte üheski suunas. Kuulsin ainult, kuidas seinast vesi tilkus (pilt \@ref(fig:chronology-ontika-6) leheküljel `r render_pageref("fig:chronology-ontika-6")`).
+
+```{r label = "chronology-ontika-6", echo=FALSE, fig.cap = "Kuulsin tilkumist."}
+include_external_graphics("rmd/kronoloogia/ontika-tilkumine-IMG_20251219_144820_1.jpg")
+
+```
+
+Ilmselt oli raja otsas olnud trepp või redel, millest enam märkigi polnud. Endiselt ei tahtnud minna tagasi ja Päikese loojanguni oli jäänud veelgi vähem aega. Otsustasin liikuda veidi piki seina lääne poole. See oli paras väljakutse, sest kalle oli umbes \qty{45}{\degree} ja kivid olid pehmel pinnasel lahtised. Kuulsin ka enda taga kuskil üht kivilahmakat langemas ja libisemas. Kaasavõetud kiiver oli mul ohutusabinõuna pea küljes. Peagi nägin seinas kaldteed. Muidugi polnud see tee, vaid lihtsalt kaldpind. Et sinna jõuda, tuli ronida mööda kive kõrgemale. Ma ei riskinud mööda seina otse üles ronida, sest kivid olid lahti. Kaldpinnal olid puud. Ei saanud aru, kas need on elavad, aga need tundusid olevat tugevasti pinnases kinni. See oli koht, kus jätsin kaasavõetud purgi järgmiseks kahesajaks aastaks lagunema, sest purgiga ma ei saanud enam ronida. Vinnasin oma keha ühe lamava puu abil üles järgmise lamava puuni ja heitsin pilgu alla (pilt \@ref(fig:chronology-ontika-7) leheküljel `r render_pageref("fig:chronology-ontika-7")`). Kuulsin, kuidas auto mööda sõitis ja teadsin, et olen pääsenud ilma tagasi minemata (pildid \@ref(fig:chronology-ontika-8) leheküljel `r render_pageref("fig:chronology-ontika-8")` ja \@ref(fig:chronology-ontika-9) leheküljel `r render_pageref("fig:chronology-ontika-9")`).
+
+```{r label = "chronology-ontika-7", echo=FALSE, fig.cap = "Üles ronides vaade alla."}
+include_external_graphics("rmd/kronoloogia/ontika-alla-IMG_20251219_150244.jpg")
+
+```
+
+```{r label = "chronology-ontika-8", echo=FALSE, fig.cap = "Üles ronides vaade üles."}
+include_external_graphics("rmd/kronoloogia/ontika-üles-IMG_20251219_150251.jpg")
+
+```
+
+```{r label = "chronology-ontika-9", echo=FALSE, fig.cap = "Üles jõudnuna."}
+include_external_graphics("rmd/kronoloogia/ontika-üleval-IMG_20251219_150426.jpg")
+
+```
+
+Üleval olles leidsin ühe mudase autotee, mida mööda kõndides jõudsin sellesse kohta, kuhu olin alt tulnud pikkade toigaste järgi (pilt \@ref(fig:chronology-ontika-10) leheküljel `r render_pageref("fig:chronology-ontika-10")`). Kolm minutit enne Päikese loojangut[@timeanddate_sun_589827_2025_12].
+
+```{r label = "chronology-ontika-10", echo=FALSE, fig.cap = "Koht, kus õpperada on küll rõhtsalt olemas, kuid püstiselt mitte. Vaataja poolt paremal on tilkumine."}
+include_external_graphics("rmd/kronoloogia/ontika-kadunud-trepp-IMG_20251219_150637.jpg")
+
+```
+
+Tagasi jalutasin autotee ääres ja kuigi seal olulisi takistusi polnud, tundus tagasiminek kestvat kauem. Ometi ma kõndisin all üle tunni ja üleval vaid pool tundi, et jõuda tagasi joani (pildid \@ref(fig:chronology-valaste-11) leheküljel `r render_pageref("fig:chronology-valaste-11")`, \@ref(fig:chronology-valaste-12) leheküljel `r render_pageref("fig:chronology-valaste-12")` ja \@ref(fig:chronology-valaste-13) leheküljel `r render_pageref("fig:chronology-valaste-13")`).
+
+```{r label = "chronology-valaste-11", echo=FALSE, fig.cap = "Vaade Valaste joale ja trepile pärast Päikese loojangut."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-IMG_20251219_152657.jpg")
+
+```
+
+```{r label = "chronology-valaste-12", echo=FALSE, fig.cap = "Vaade autosillale."}
+include_external_graphics("rmd/kronoloogia/valaste-sild-IMG_20251219_152928.jpg")
+
+```
+
+```{r label = "chronology-valaste-13", echo=FALSE, fig.cap = "Vaade vastaspoole."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-IMG_20251219_152936_1.jpg")
+
+```
+
+Pilt \@ref(fig:chronology-valaste-14) leheküljel `r render_pageref("fig:chronology-valaste-14")` annab võrdlusmomendi viie aasta tagusest ajast.
+
+```{r label = "chronology-valaste-14", echo=FALSE, fig.cap = "Vaade vastaspoole 2020."}
+include_external_graphics("rmd/kronoloogia/valaste-juga-20200902_171910.jpg")
+
+```
+
+Kui auto juurde jõudsin, oli aeg ilma seikluspeatusteta sõita kodu juurde (pilt \@ref(fig:chronology-valaste-15) leheküljel `r render_pageref("fig:chronology-valaste-15")`).
+
+```{r label = "chronology-valaste-15", echo=FALSE, fig.cap = "Poolteist tundi vabas õhus päädis saviste säärikute ja pükstega ning rannast leitud kivi ja kiivriga."}
+include_external_graphics("rmd/kronoloogia/valaste-tulemus-IMG_20251219_153339_1.jpg")
+
+```
+
+Jaanuaris käisin veel kolm korda Narvas, et viia läbi eksamid (pildid \@ref(fig:chronology-Narva-1) leheküljel `r render_pageref("fig:chronology-Narva-1")`, \@ref(fig:chronology-Narva-2) leheküljel `r render_pageref("fig:chronology-Narva-2")` ja \@ref(fig:chronology-Narva-3) leheküljel `r render_pageref("fig:chronology-Narva-3")`).
+
+```{r label = "chronology-Narva-1", echo=FALSE, fig.cap = "Kuusk Raekoja platsil."}
+include_external_graphics("rmd/kronoloogia/narva-kuusk-DJI_20260114134303_0040_D.JPG")
+
+```
+
+```{r label = "chronology-Narva-2", echo=FALSE, fig.cap = "Muna kuusel Raekoja platsil."}
+include_external_graphics("rmd/kronoloogia/narva-kuusk-muna-DJI_20260114134319_0041_D.JPG")
+
+```
+
+```{r label = "chronology-Narva-3", echo=FALSE, fig.cap = "Raekoja platsi kuusk NK'ga."}
+include_external_graphics("rmd/kronoloogia/narva-kuusk-nk-DJI_20260114134340_0043_D.JPG")
+
+```

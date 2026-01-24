@@ -11,5 +11,7 @@ rmd_files: [
   "rmd/heiki-pille-endla.Rmd",
   "rmd/huumor.Rmd",
   "rmd/kiidud.Rmd",
+  "rmd/kronoloogia/kronoloogia.Rmd",
+  "rmd/tarkus.Rmd",
   "references.Rmd"
 ]

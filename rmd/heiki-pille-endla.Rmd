@@ -74,7 +74,7 @@ include_external_graphics("rmd/orange-1-camp.jpeg")
 
 ```
 
-```{r label = "planning-tennis-lesson", echo=FALSE, fig.cap = "Individuaalplaan ühe õpilase treenimiseks ühes õppesessioonis."}
+```{r label = "planning-tennis-lesson", echo=FALSE, fig.cap = "Individuaalplaan ühe õpilase treenimiseks ühes õppesessioonis.", out.height=".92\\textheight"}
 include_external_graphics("rmd/tennis-lesson-planner.jpeg")
 
 ```

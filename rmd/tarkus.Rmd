@@ -1,0 +1,39 @@
+# Tarkus
+
+## Sissejuhatus
+
+Juba ammu mõtlesin aegajalt läbi, mida ma tänases päevas õppisin. Nüüd otsustasin hakata õpitut üles tähendama. Kõik, mida me päevas kogeme, on hea või õppimiseks.
+
+## 2026
+
+## Jaanuar
+
+### 1
+
+Kas pole tore alustada ülestähendamist aasta esimeses päevas?
+
+Esimese asjana, mida ma õppisin täna, on, et ma suudan \qty{-7}{\degreeCelsius} korral rätiku peal end lumes pesta. Niisama lume peal ma ei talluks, sest see on valus. Pärast aastavahetuse seiklusorienteerumist[@seiklusministeerium_kuusalu_2025] tundsin, et pigem küürin oma keha, kui et sõidan kolmveerand tundi koju higist niiskena. Selleks asetasin lumele kaks käterätti: ühe kümbluseks, teise riietumiseks, mille juurde omakorda asetasin kõik puhtad riided ja kuivatusrätiku. Kodust oli mul kaasa võetud \qty{3}{\liter} kuuma vett, mis plastikpudelis küll pesuajaks veidi jahtunud oli, sest kui autosõidu kestel toimus jahtumine aeglaselt, jooksu kestel umbes kaks tundi jahtus vesi oluliselt kiiremini. Võtsin järkjärgult riietusesemed kehalt ning kui olin paljajalu, astusin kümblusrätikule. Kui olin alasti, kallasin vett järkjärgult eri kehaosadele alustades peast. Ma ei tundnud olulist keha jahtumist, sest vesi oli veel soojem kui toatemperatuuril või nii vähemalt tundus. Kui vesi oli otsas, kuivatasin keha alustades peast ja kattes pea paksu villase mütsiga, kuna pea kaudu jahtub keha kõige enam. Mul oli kaasas ka soe jook termoses, nii et rüüpasin seda nii enne kui pärast pesemist. Tagasisõidu kestel tundsin küll, et jalgadel on jahe, ent pidasin koduni vastu. Ilmselt olid jalad veidi märjad, kui pika aluspesu peale tõmbasin, ja villase voodriga saabastes[@baabuk_ice_wooler_navy_brown] ma ei kasutanud sokke.
+
+Koju jõudnuna jätkasin jupikaupa YouTube'i videote vaatamist. Lõpetasin suure võimsusega lambi video vaatamise ja sain teada, et lambi tegeliku ja märgitud eluea suhe on pöördvõrdeline selle lambi puhul kasutatava elektriliste potentsiaalide märgitud ja tegeliku erinevuse suhte 13. astmega[@youtube_zr_eZ_pLTNI]. Sellest johtuvalt võib lambi eluiga olla väga pikk, kui sellest voolab läbi väga vähe elektrit. Nii ei ole midagi imestada, et *Centennial Light* aastast 1901 siiamaani mõningate pausidega kestab. Selle hõõgniit on süsinikust ja lambi sisemus on täidetud lämmastikuga. Lamp on varugeneraatori toitel, nii et seda ei lülitata sisse-välja. Nimivõimsusest \qty{60}{\watt} on järel vaid \qty{4}{\watt}. Seega, kui õpetaja väga ei rapsi, peab kauem vastu ja kui õpetaja väga kaua vastu peab, siis ta suudab õpetada tühise osa esialgsest? See viimane ei ole küll tõsi, sest kui lamp ainult kulub, siis inimene ka õpib ja kogenud õpetajal on mõnus oma valdkonnas suvalisest asjast sujuvalt rääkida, iseasi, kas ta seda tehes ajakohaselt õpilaste taustaga arvestab.
+
+### 3
+
+Kirjutasin üles oma järjekordse unenäo[@kalmer_ace_2_medium] ja tuli juhtmõte lasta seda illustreerida ChatGPT'l[@openai_chatgpt]. Kui valisin *Images* ja kopeerisin sinna unenäo teksti, teostas ChatGPT esmalt hoopis psühhoanalüüsi, mis tundus nii väärtuslik, et kaasasin selle unenäo järele. Pilte tuli siiski muuta mitu korda ja ega lõpuks ükski pilt päris selline ei tulnud, nagu ma unes olukorda nägin, aga vähemalt on need naljakad. Võib-olla aitaks skeemi ettejoonistamine.
+
+### 9
+
+Minu aurupesuri põrandaotsiku lapp oli enda külge korjanud kuuma liimi. Arvasin, et saan selle küljest ära seda liimi kuumutades. Niimoodi liim küll sulas ja sain selle paberiga enamasti eemaldada, kuid ühtlasi sulasid ka pehmed lapi mikrokiududest karvad ja tahkusid jäigaks, mistõttu lõikasin selle koha üldse lapist välja. Nüüd päev hiljem loen toote kodulehelt, et triikida neid lappe ei tohi[@polti_vaporetto_paeu0324].
+
+### 10
+
+Öösöögi kõrvale olin just lõpetanud filmi *Flow* vaatamise lootes saada vastuse paljudele miks-küsimustele ja lõpuks ma ei saanudki neid vastuseid[@imdb_tt4772188]. Kogu film olevat tehtud *Blender*iga[@blender_software], loomade hääled olevat ehtsad, väljajäetud kaadreid ei olevat. Tahtsin teada, kas Jupiteris[@err_jupiter_video] on veel midagi lahedat vaadata, ja silma jäi filmi *Kati: Eine Kür, die bleibt*[@imdb_tt27686076] poster. Panin alguse mängima, et sealt siis teinekord edasi vaadata. Olin harjunud, et Saksamaa filmid on head. Ja nii oli ka seekord. Ma ei suutnud lõpuni peatada. Sain teada, et minu keha vanemate omanike üks lemmikiluuisutaja oli pärit alalt, mida nimetati Saksa Demokraatlikuks Vabariigiks, et tema elu jälgiti lapsest saadik pannes nt kirja, millal tal algas ja lõppes suguühe, samuti nipet-näpet veel tema elu ja saavutuste kohta. Hämmastavalt sarnased tegelaskujudele olid valitud ka näitlejad. Peategelast kehastav näitleja oskas küll ka uisutada, ent harjutas tundide ja kuude kaupa[@krone_3546313]. Lisaks harjutas ta peategelase kõnepruuki ja väliselt oli vaja kohendada ainult karvu. Keerulisemate uisutusstseenide jaoks kasutati Tšehhia olümpiakaadri iluuisutajatest dublante, kellele monteeriti järeltöötluses austerlanna Lavinia Nowaki eelnevalt kolmemõõtmelise skanneriga tehtud mudeli järgi põhinäitleja pea külge.
+
+YouTube oli mulle soovitanud ühe mehe video ja kuna selles seletati elementide tegemist piisavalt illustratiivselt ja selgelt[@youtube_lInXZ6I3u_I], otsustasin tolle mehe kõik viimase kahe aasta videod läbi vaadata ja kuulata. Järgmisest videost sain teada, et gluuonid levivad sama kiiresti kui footonid[@youtube_K_oxeG6LMO0].
+
+### 13
+
+Tankisin autot Harku järve ja Järvekalda tee juures olevas Krooningi[@krooning_veeb] ja tankur lõpetas, kui veidi üle poole paaki oli täis. Pärast avastasin, et mootor oli sisse lülitatud. Järelikult tekkis paagis täis paagile sarnane olukord, mis lülitas tankuri välja. See oli mul juba teine kord, kui unustasin mootori enne tankimist välja lülitada. Esimene kord oli Saue Krooningi tanklas paar aastat tagasi.
+
+### 24
+
+Saabus vajadus taas tankida. Meenus kontrollida, kui palju finantsvahendeid mu Krooningi kontol on. Märkasin, et järel olid ainult 59 senti. Seega oli 11 päeva tagasi katkenud tankimine mitte seetõttu, et mootor oli sisse lülitatud, vaid seetõttu, et finantsvahendid lõppesid.
