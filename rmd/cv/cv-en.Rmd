@@ -552,6 +552,9 @@ Euroopa sessioon: FuseNet õppevahendid & tõlked, EPFL (Šveits) tokamaki tuur,
 **26.08.2025.a-19.12.2025.a Sinimäe Põhikool, registrikood 75015893, asukoht Kesk 1, Sinimäe alevik, Narva-Jõesuu linn,  Ida-Virumaa; 40101[@a2025_sinime]**\
 õpetaja $(1{,}0\, \text{ametikohale})$.
 
+**3. veebruar 2026 Tallinna Tehnikaülikool**\
+*Arengurakett: Kui tehniline tarkus kohtub juhtimisoskustega*[@fontes_arengurakett_tehniline_juhtimine]
+
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):
 instructions;
