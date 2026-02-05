@@ -6,9 +6,9 @@ Juba ammu mõtlesin aegajalt läbi, mida ma tänases päevas õppisin. Nüüd ot
 
 ## 2026
 
-## Jaanuar
+### Jaanuar
 
-### 1
+#### 1
 
 Kas pole tore alustada ülestähendamist aasta esimeses päevas?
 
@@ -16,32 +16,42 @@ Esimese asjana, mida ma õppisin täna, on, et ma suudan \qty{-7}{\degreeCelsius
 
 Koju jõudnuna jätkasin jupikaupa YouTube'i videote vaatamist. Lõpetasin suure võimsusega lambi video vaatamise ja sain teada, et lambi tegeliku ja märgitud eluea suhe on pöördvõrdeline selle lambi puhul kasutatava elektriliste potentsiaalide märgitud ja tegeliku erinevuse suhte 13. astmega[@youtube_zr_eZ_pLTNI]. Sellest johtuvalt võib lambi eluiga olla väga pikk, kui sellest voolab läbi väga vähe elektrit. Nii ei ole midagi imestada, et *Centennial Light* aastast 1901 siiamaani mõningate pausidega kestab. Selle hõõgniit on süsinikust ja lambi sisemus on täidetud lämmastikuga. Lamp on varugeneraatori toitel, nii et seda ei lülitata sisse-välja. Nimivõimsusest \qty{60}{\watt} on järel vaid \qty{4}{\watt}. Seega, kui õpetaja väga ei rapsi, peab kauem vastu ja kui õpetaja väga kaua vastu peab, siis ta suudab õpetada tühise osa esialgsest? See viimane ei ole küll tõsi, sest kui lamp ainult kulub, siis inimene ka õpib ja kogenud õpetajal on mõnus oma valdkonnas suvalisest asjast sujuvalt rääkida, iseasi, kas ta seda tehes ajakohaselt õpilaste taustaga arvestab.
 
-### 3
+#### 3
 
 Kirjutasin üles oma järjekordse unenäo[@kalmer_ace_2_medium] ja tuli juhtmõte lasta seda illustreerida ChatGPT'l[@openai_chatgpt]. Kui valisin *Images* ja kopeerisin sinna unenäo teksti, teostas ChatGPT esmalt hoopis psühhoanalüüsi, mis tundus nii väärtuslik, et kaasasin selle unenäo järele. Pilte tuli siiski muuta mitu korda ja ega lõpuks ükski pilt päris selline ei tulnud, nagu ma unes olukorda nägin, aga vähemalt on need naljakad. Võib-olla aitaks skeemi ettejoonistamine.
 
-### 9
+#### 9
 
 Minu aurupesuri põrandaotsiku lapp oli enda külge korjanud kuuma liimi. Arvasin, et saan selle küljest ära seda liimi kuumutades. Niimoodi liim küll sulas ja sain selle paberiga enamasti eemaldada, kuid ühtlasi sulasid ka pehmed lapi mikrokiududest karvad ja tahkusid jäigaks, mistõttu lõikasin selle koha üldse lapist välja. Nüüd päev hiljem loen toote kodulehelt, et triikida neid lappe ei tohi[@polti_vaporetto_paeu0324].
 
-### 10
+#### 10
 
 Öösöögi kõrvale olin just lõpetanud filmi *Flow* vaatamise lootes saada vastuse paljudele miks-küsimustele ja lõpuks ma ei saanudki neid vastuseid[@imdb_tt4772188]. Kogu film olevat tehtud *Blender*iga[@blender_software], loomade hääled olevat ehtsad, väljajäetud kaadreid ei olevat. Tahtsin teada, kas Jupiteris[@err_jupiter_video] on veel midagi lahedat vaadata, ja silma jäi filmi *Kati: Eine Kür, die bleibt*[@imdb_tt27686076] poster. Panin alguse mängima, et sealt siis teinekord edasi vaadata. Olin harjunud, et Saksamaa filmid on head. Ja nii oli ka seekord. Ma ei suutnud lõpuni peatada. Sain teada, et minu keha vanemate omanike üks lemmikiluuisutaja oli pärit alalt, mida nimetati Saksa Demokraatlikuks Vabariigiks, et tema elu jälgiti lapsest saadik pannes nt kirja, millal tal algas ja lõppes suguühe, samuti nipet-näpet veel tema elu ja saavutuste kohta. Hämmastavalt sarnased tegelaskujudele olid valitud ka näitlejad. Peategelast kehastav näitleja oskas küll ka uisutada, ent harjutas tundide ja kuude kaupa[@krone_3546313]. Lisaks harjutas ta peategelase kõnepruuki ja väliselt oli vaja kohendada ainult karvu. Keerulisemate uisutusstseenide jaoks kasutati Tšehhia olümpiakaadri iluuisutajatest dublante, kellele monteeriti järeltöötluses austerlanna Lavinia Nowaki eelnevalt kolmemõõtmelise skanneriga tehtud mudeli järgi põhinäitleja pea külge.
 
 YouTube oli mulle soovitanud ühe mehe video ja kuna selles seletati elementide tegemist piisavalt illustratiivselt ja selgelt[@youtube_lInXZ6I3u_I], otsustasin tolle mehe kõik viimase kahe aasta videod läbi vaadata ja kuulata. Järgmisest videost sain teada, et gluuonid levivad sama kiiresti kui footonid[@youtube_K_oxeG6LMO0].
 
-### 13
+#### 13
 
 Tankisin autot Harku järve ja Järvekalda tee juures olevas Krooningi[@krooning_veeb] ja tankur lõpetas, kui veidi üle poole paaki oli täis. Pärast avastasin, et mootor oli sisse lülitatud. Järelikult tekkis paagis täis paagile sarnane olukord, mis lülitas tankuri välja. See oli mul juba teine kord, kui unustasin mootori enne tankimist välja lülitada. Esimene kord oli Saue Krooningi tanklas paar aastat tagasi.
 
-### 23
+#### 23
 
 Saabus vajadus taas tankida. Meenus kontrollida, kui palju finantsvahendeid mu Krooningi kontol on. Märkasin, et järel olid ainult 59 senti. Seega oli kümme päeva tagasi katkenud tankimine mitte seetõttu, et mootor oli sisse lülitatud, vaid seetõttu, et finantsvahendid lõppesid.
 
-### 24
+#### 24
 
 Siiamaani kasutasin mõiste *juhuslik* asemel mõistet *pseudojuhuslik*, sest minu meelest pole siin maailmas midagi juhuslikku. Kuulan vahel taustaks ja vahel jälgin Hannah Fry ja Michael Stevensi vestlusi, millest ühest korjasin üles selgituse, et juhuslik on nähtus, mille algoritm pole teada[@youtube_tiXIOpq_tQ0]. Seega, kui sündmus pole minu jaoks kindel või võimatu, siis see ongi juhuslik minu jaoks, maailma jaoks aga pseudojuhuslik.
 
-### 25
+#### 25
 
 Sedapuhku oli õhutemperatuur maksimaalselt \qty{-11}{\degreeCelsius}. Nii väikese õhutemperatuuri korral jooksmine ja lumel pesemine oli minu jaoks esmakordne. Olin ladunud ülakeha katteks neli kihti, mis oli jooksu alguses tore, aga tunnise jooksu teises pooles hakkasin higistama ja siis enam nii tore polnud. Oli tuulevaikne. Jalgade katteks olid lühikesed ja pikad aluspüksid kaetuna kolmveerandpükste ja säärekaitsmetega. See kombinatsioon sobis algusest lõpuni. Sedapuhku kasutasin topeltsokke: varvassokkide peal olid labaksokid, mille sain kunagi auhinnaks TLÜ Global-Positioning-System-kunstiteoste tegemise võistluse võitjana. Ka see kombinatsioon sobis hästi mahtudes mu naelikutesse. Kaela ja pea katteks kasutasin õhukest balaklaavat, ühe suuruse võrra liiga suurt meriinovillast mütsi ja meriinovillast torusalli, mille tõmbasin osaliselt üle pea. Kuna juba jooksu alguses hakkas sellega palav, lükkasin torusalli alla kaela ümber. Jooksu teises pooles tundsin liigset külma, kuna higine keha jahtus just kaela piirkonnas. Jooksu lõpus tundsin ka veidi liigset külma otsaesises. Kuna kõige tundlikumad on mu pöidlad ja nimetissõrmed, kasutasin sedapuhku käelabade katmiseks kolme kihti: aluseks orienteerumissõrmikud, mille peal meriinovillased ratturikindad, kõige peal orienteerumislabakud. Vaatamata sellele kombinatsioonile, olid enamus jooksu mu pöidlad valusad ja liikusid kehvasti ning veel paar päeva hiljem on mul valusad kõvemad nahakohad nimetatud neljal sõrmel, kuigi nimetissõrmed valu ei tajunud. Metsas kohtasin jääd, mis praksus, kui sinna peale astusin. Üks ala tundus olevat soine ja arvasin, et sellise külmaga poleks probleem sealt lihtsalt üle joosta. Kui täpsemalt vaatlesin, nägin vaba vett, mis tuleneb ilmselt sellest, et Maa seest tulev põhjavesi on soe[@chatgpt_shared_69781edd]. Pärast pesemist läksin randa jalutama, et teha kindlaks, kas saaksin merel uisutada. Minu üllatuseks oli vaatamata mitmepäevasele sellisele külmale meri lainetav, mis tuleneb ilmselt sellest, et vesi on suure soojusmahtuvusega ja pole seal veel jõudnud jahtuda ka selle ajaga.
+
+### Veebruar
+
+### 1
+
+Õhutemperatuur oli umbes sama mis nädal tagasi. Proovisin seekord suusatamise kindaid ja ei pannud sinna alla midagi - näpud ei hakanud valutama.
+
+### 5
+
+YouTube oli pakkunud mulle vaatamiseks Eesti Muusikaauhindade *Vennaskonna* popurrii[@youtube_xsF1XqfD_KY], millest tundsin ära viiuldajanaise, kelle kontserdil olin ma käinud, kui ta oli Antsud Metal Projecti[@antsud_metal_project] koosseisus.
