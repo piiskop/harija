@@ -55,3 +55,7 @@ Sedapuhku oli õhutemperatuur maksimaalselt \qty{-11}{\degreeCelsius}. Nii väik
 ### 5
 
 YouTube oli pakkunud mulle vaatamiseks Eesti Muusikaauhindade *Vennaskonna* popurrii[@youtube_xsF1XqfD_KY], millest tundsin ära viiuldajanaise, kelle kontserdil olin ma käinud, kui ta oli Antsud Metal Projecti[@antsud_metal_project] koosseisus.
+
+### 12
+
+Kunagi kaalusin osta üht Dacia autot[@dacia_history]. Teadsin, et Dacia autosid toodeti algselt Rumeenias. Nüüd, kui lugesin filmitehnoloogia ajaloo kohta[@precinema_900], sain teada, et Dacia tähendabki Rumeeniat.
