@@ -59,3 +59,10 @@ YouTube oli pakkunud mulle vaatamiseks Eesti Muusikaauhindade *Vennaskonna* popu
 ### 12
 
 Kunagi kaalusin osta üht Dacia autot[@dacia_history]. Teadsin, et Dacia autosid toodeti algselt Rumeenias. Nüüd, kui lugesin filmitehnoloogia ajaloo kohta[@precinema_900], sain teada, et Dacia tähendabki Rumeeniat.
+
+Vaadates üle *bookdown*i genereeritud allikate loendit märkasin, et osadel veebilehtede kirjetel oli märge, millal sealt teave minu mällu salvestati, osadel mitte. Selgus, et kui aasta atribuut pole BibTeX'i kirjes määratud, see kuvatakse, muidu mitte. See on selgitatav sellega, et lugejat huvitab, kui vana hangitud info on ja kui autor on aasta märkinud, see ongi teada, muidu hinnatakse infohankija järgi.
+
+### 13
+
+Eesti on teadusjõukuselt Islandi ja Singapuri järel kolmandal kohal[@allik_saarma_realo_2025]. Teadusjõukust näitab viidete arv teadusartikli kohta.
+

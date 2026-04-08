@@ -1,6 +1,10 @@
 # Kronoloogia
 
+## Mis?
+
 2025 lõpetasin õpetamise kolmes koolis ja asusin õpetama kahte kooli. Kirjeldan järgnevalt fototõendite alusel seda protsessi.
+
+## 2025
 
 Kuna üks nendest kahest koolist - Sinimäe Põhikool (SPK)[@sinimae_kool] - asus Sillamäele lähemal kui Narvale, otsustasin hakata ööbima Sillamäes[@sillamae_linn]. Esimese ööbimiskoha valisin hinna järgi kõige odavama kasutades Booking.comi[@viru_pst_20_hotel]. Olin küll arvestanud, eelmise õppeaasta hinnaga 20 eurot ööbimise eest jätkata ning kauplesin selle hüvitamise ka töölepingusse, ent Sillamäes nii odavalt ma ühtki ööbimiskohta ei leidnud. Kõige odavam oli 25 eurot öö kohta ja maksin kohe ära kolme esimese järjestikuse ööbimise eest. Mulle vastati inglise keeles ja leppisime kokku saabumisaja. Kui jõudsin kohale, tuli koridoris oodata (joonis \@ref(fig:chronology-accommodation-1-hallway) leheküljel `r render_pageref("fig:chronology-accommodation-1-hallway")`). 
 
@@ -1564,7 +1568,9 @@ include_external_graphics("rmd/kronoloogia/valaste-tulemus-IMG_20251219_153339_1
 
 ```
 
-Jaanuaris käisin veel kolm korda Narvas, et viia läbi eksamid (pildid \@ref(fig:chronology-Narva-1) leheküljel `r render_pageref("fig:chronology-Narva-1")`, \@ref(fig:chronology-Narva-2) leheküljel `r render_pageref("fig:chronology-Narva-2")` ja \@ref(fig:chronology-Narva-3) leheküljel `r render_pageref("fig:chronology-Narva-3")`).
+## 2026
+
+Jaanuaris käisin veel kolm korda Narvas, et viia läbi eksamid (pildid \@ref(fig:chronology-Narva-1) leheküljel `r render_pageref("fig:chronology-Narva-1")`, \@ref(fig:chronology-Narva-2) leheküljel `r render_pageref("fig:chronology-Narva-2")`, \@ref(fig:chronology-Narva-3) leheküljel `r render_pageref("fig:chronology-Narva-3")`),  \@ref(fig:chronology-Narva-4) leheküljel `r render_pageref("fig:chronology-Narva-4")`),  \@ref(fig:chronology-Narva-5) leheküljel `r render_pageref("fig:chronology-Narva-5")`),  \@ref(fig:chronology-Narva-6) leheküljel `r render_pageref("fig:chronology-Narva-6")`) ja \@ref(fig:chronology-train-time) leheküljel `r render_pageref("fig:chronology-train-time")`).
 
 ```{r label = "chronology-Narva-1", echo=FALSE, fig.cap = "Kuusk Raekoja platsil."}
 include_external_graphics("rmd/kronoloogia/narva-kuusk-DJI_20260114134303_0040_D.JPG")
@@ -1578,5 +1584,25 @@ include_external_graphics("rmd/kronoloogia/narva-kuusk-muna-DJI_20260114134319_0
 
 ```{r label = "chronology-Narva-3", echo=FALSE, fig.cap = "Raekoja platsi kuusk NK'ga."}
 include_external_graphics("rmd/kronoloogia/narva-kuusk-nk-DJI_20260114134340_0043_D.JPG")
+
+```
+
+```{r label = "chronology-Narva-4", echo=FALSE, fig.cap = "Paul Kerese kujule olid toodud lilled."}
+include_external_graphics("rmd/kronoloogia/narva-paul-keres-IMG_20260107_133725_1.jpg")
+
+```
+
+```{r label = "chronology-Narva-5", echo=FALSE, fig.cap = "Vaade linnusele teelt NK juurest."}
+include_external_graphics("rmd/kronoloogia/narva-revel-IMG_20260107_134255_1.jpg")
+
+```
+
+```{r label = "chronology-Narva-6", echo=FALSE, fig.cap = "Elektriline lumememm Aleksander Puškini tänavas[@wikipedia_puskini_tanav]."}
+include_external_graphics("rmd/kronoloogia/narva-led-lumememm-IMG_20260107_181342_1.jpg")
+
+```
+
+```{r label = "chronology-train-time", echo=FALSE, fig.cap = "Mis aeg oli jäädvustamise hetkes ja milliste jaamade külastamine sellele kronoloogiliselt järgnes?"}
+include_external_graphics("rmd/kronoloogia/rong-aeg-IMG_20260107_210607_1.jpg")
 
 ```
