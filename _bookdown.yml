@@ -1,4 +1,4 @@
-book_filename: "cv"
+book_filename: "harija"
 new_session: false
 delete_merged_file: true
 language:
@@ -13,5 +13,6 @@ rmd_files: [
   "rmd/kiidud.Rmd",
   "rmd/kronoloogia/kronoloogia.Rmd",
   "rmd/tarkus.Rmd",
+  "rmd/uni.Rmd",
   "references.Rmd"
 ]

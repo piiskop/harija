@@ -1,0 +1,26 @@
+# Unenäod
+
+## 2026-4-10
+
+Olin taas õpetamas koolis, kust mind oli eelnevas õppeaastas irrutatud. Õpetasin geograafiat. Oli vaja mingit asja ajada väljaspool õpperuumi ja jätsin õpilased omapäi. Vahepeal lõppes õppesessioon ja lootsin, et õpilased said hakkama. Trepil kohtusin õppejuhiga Marika ja arvasin, et ta ei suhtu sellesse olukorda hästi. Meenus, et olen juba mitmendat päeva tööl ja mul pole töölepingut. Küsisin seda talt. Ütlesin, et ma ei teadnud, et sellesse kooli tagasi tulen lisades: "Ma enne ei jätka, kui on tööleping." Mööda koridori jalutades küsisin talt, kus on käimla. Ta osutas klaasustele, milleni olime jõudnud (joonis \@ref(fig:dream-Marika-toilet)). Uste kohal olid universaalsed käimlasümbolid: vasakul kolmnurk tipuga all, paremal kolmnurk tipuga üleval, kummagi kolmnurga kohal ring. Sümbolid olid musta värvi. Sisenesin meestekäimlasse. Kohe vasakul märkasin mitme kraaniga laedušši, millest langes vesi. Järgmisena istus üks alasti mees kõvastunud sugutiga, kes kaldus tema keha suhtes paremale. Minu ees laius suur murukattega hoov, milles oli ilmselt palju ruudukujulise põhjapindalaga pissimise kohti. Mõni mees lõpetas ja lahkus, mõni tuli eemalt keskele, kus langes vesi - ilmselt käsi pesema. Ma seisin pehmel alal, mis oli vesine ja liivane ja kiviklibune. Mõtlesin, et läheksin kaugele, aga kõik kohad olid avatud.
+
+```{r label="dream-Marika-toilet", echo=FALSE, fig.cap="Saabumine käimla juurde[@openai_chatgpt]."}
+include_external_graphics("rmd/administrator-speaking-with-injured-student.png")
+
+```
+
+## 2026-4-24
+
+Õpperuumi saabusid õpilased ja naisõpetaja jagas neile sooritatud testi lehti tagasi. Ta ei teadnud kõigi õpilaste nimesid. Kuulsin nime Tatjana. Keegi vist oli ka Maia ja õpetaja juhtis tähelepanu, et õpilane oli lehele kirjutanud: "Maiitea" (joonis \@ref(fig:dream-maiitea) leheküljel `r render_pageref("fig:dream-maiitea")`).
+
+```{r label="dream-maiitea", echo=FALSE, fig.cap="Õpilastele hinnatud soorituste lehtede edastamine[@openai_chatgpt]."}
+include_external_graphics("rmd/maiitea-chatGPt-20260426124154.png")
+
+```
+
+Viisin tudengitele läbi esimest testi. Meenus, et teise testi aja kohta mul info puudus ja tahtsin seda üliõpilastelt küsida. Kui nad olid enamasti lahkunud, tuli meelde ja pöördusin enda taga oleva prillidega neiu poole, kes oli ka esimese testi kohta midagi oma kaaslastelt küsinud. Ma nimelt ise ei saanud tudengitele teadet saata. Neiu oli nõus seda tegema. Samas, too neiu ei pidanud selles testis üldse osalema. Peagi ta sai aru, miks - ta oli sassi ajanud: "Pidin hoopis teises testis osalema." - "Mis see teine oli?" - "Ei, hoopis loengus pidin olema. Peaasi," näitas ta mulle oma A3-kaustikust teksti (joonis \@ref(fig:dream-brain-electromagnetism) leheküljel `r render_pageref("fig:dream-brain-electromagnetism")`). Näha olid ka ajuskeemid. Ütlesin, et need teemad saab ühendada ja siis saab veel paremini aru: "Ajus on ka elektriimpulsid." Siis ta lülitas projektori kaudu ekraanile ühed näidisülesanded, milles olid plussid ja miinused rohelisel taustal, ja ülesandeid nendel lehekülgedel oli viis. Läksin lähemalt uurima ja siis saabus teine õpetaja - vanemaealine prillidega naisõpetaja. Ma ütlesin, et lähen toon nutitelefoni ja teen pildi sellest, mis ekraanil. Kui nutitelefoni olin haaranud ja hakanud seda sättima, et pilti teha, oli ta juba jõudnud arvuti lahti ühendada ja pilt kadus. Proovis siis tagasi saada. See oli kaasaskantav arvuti, mille alumine osa oli nagu kaasaegne süler, aga selle peal olid veel jäme ekraan, objektiiv ja muud vidinad, nii et see polnud lapik, vaid vägagi ruumiline ese. Kirjeldasin seda eset talle ühe sõnaga ja leidsin siis parema sõna - "kohmakas". Selle peale pöördus naine vahepeal ruumi tulnud kolmanda naisolevuse poole, kes oli meie kolleeg: "Mõtle, ta ütles mulle: "Kohmakas."!" Selgitasin, et seda ütlesin arvuti kohta ja jõudsin siis järeldusele, et nii öeldaksegi pigem inimese kohta.
+
+```{r label="dream-brain-electromagnetism", echo=FALSE, fig.cap="Anomaalne süler[@openai_chatgpt]."}
+include_external_graphics("rmd/ajuelekter-chatGPt-2026042524.png")
+
+```
