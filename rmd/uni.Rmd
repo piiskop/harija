@@ -24,3 +24,52 @@ Viisin tudengitele läbi esimest testi. Meenus, et teise testi aja kohta mul inf
 include_external_graphics("rmd/ajuelekter-chatGPt-2026042524.png")
 
 ```
+
+## 2026-4-27
+
+Olin Gaia Koolis just väljumas ühest õpperuumist, kui kohtusin sama kooli muu õpetajaga, kes ütles, et ma ei muretseks, sest tema olevat nüüd ainus keeleõpetaja koolis (joonis \@ref(fig:dream-lone-language-teacher) leheküljel `r render_pageref("fig:dream-lone-language-teacher")`).
+
+```{r label="dream-lone-language-teacher", echo=FALSE, fig.cap="Õpperuumist lahkumine[@openai_chatgpt]."}
+include_external_graphics("rmd/gk-ainus-keeletreener-chatGPt-2026-4-27.png")
+
+```
+
+## 2026-4-28
+
+Õppesessioon lõppes. Ma olin õpilaste seas kuskil tagareas ja kui hakkasin oma asju pakkima, kukkus mu sõrmede vahelt miski ettepoole õpilaste vahele. Läksin seda asja otsima ja leidsin - serverikapi võti. Pannud selle ära, läksin kogemata nendega koos bussi ja sõitsime kuskile. Kohale jõudnuda muretsesin, et kui ma nendega seal olen, ei saa ma teisi samaaegselt õpetada: "Aga kes siis vene keelt õpetab?"  Kõndisin ühe noormehega kõnniteel ja mulle tundus, et olin sokkis asfaldil: "Unustasin saapad." - "Sul on ju saapad!" osutas ta mu paremale jalale. Tõepoolest, helehall Baabuki saabas tundus olevat. Siis ta võttis mu vasaku jala käte vahele ja näitas, et ka teise jala otsas oli saabas, kuigi tumepruun.
+
+Olin koos ühe mehe ja naisega - mõlemad keskealised. Olime kokku leppinud, et seksime. Liikusime selleks tagaruumi. Ma märkasin, et tagaruumist saab veel omakorda tagaruumi liikuda, ja liikusin edasi sinna. Lesisin diivanil küljeli, selg seljatoe poole, ja minu kaisus oli too alasti naine. Mõtlesin, et tegelikult tahaksin nooremat, aga tolle naise keha oli väga seksikas. Kubemepiirkond oli tal kaetud punaka karvkattega ja kujutasin ette, kuidas sealt jalataldade pooole on soe ja niiske. Ometi tõrkusin, sest mees istus just meie vastas. Vaatasin ringi. Minu seljataga oli trepp ja selle taga omakorda kõrge aken, mis eraldas tagaruumi tantsusaalist, kus palju inimesi parajasti näoga meie poole rühmatantsu tantsisid. Korra mõtlesin, et olime tulnud valesse kohta, aga siis jällegi, et ju selles kohas nii ongi. Parajasti tuli üks naine treppi mööda alla ja möödudes meie diivanist nägin, et tema tissid polnud kaetud. Ilmselt läks ta allkorrusele käimlasse. Ka muid inimesi liikus. Ma eemaldusin diivanilt sinna suunda, kuhu naine oli läinud, ja võtsin istet. Olin alasti ja mu suguti oli kõvastunud olekus. Mõtlesin, kas nii on ikka kohane. Mehel paistis ka olevat suguti kõvastunud olekus ja ka tema oli alasti. Järgmine mõte oli, et kui ta nüüd ise seksima hakkab naisega, kas ma pärast enam tahangi, misjärel mõtlesin, et ehk jääbki suguühtes olemata. "Lähme svingima," ütlesid mees ja naine mulle. Mõtlesin, et tahavad vahepeal tantsida. Kui olin riietunud ja naasnud oma istekohta, märkasin mingi heleda pinna peal tatti ja pühkisin seda vasaku käega, nii et tatt jäi rippuma käe külge. Üks võõras inimene arvas, et mina tatistasin. Vastasin: "Ma avastasin selle." Suundusime üles tantsusaali. See oli koolimajas ja korvpallisaal, mille kumbagi pikemat serva palistasid sinised tribüünid. Kohe päris trepi juures olid õpetajate väljapanekud. Üks meesõpetaja kutsus mind: "Sa huvitusid kunagi skulptuuride tegemisest." - "Jah, huvitusin." Märkasin üht peakuju, pilti ja muud kraami, mis ilmselt oli kooli vaateaknalt sinna toodud. Meesõpetaja asetas mu ette ümarale seisulauale koonusekujulise vaasi veega. Jõin. Ta asetas veel kaks vaasi. Meiega oli liitunud inimesi ja üks naine kohendas nende vaaside asukohti. See vesi ei maitsenud hästi.
+
+## 2026-4-30
+
+Konverentsi lõpus oli seminar, milles Jaanis Priimets selgitas valge tahvli abil mingit tuletuskäiku valemite kaudu (joonis \@ref(fig:dream-Jaanis-Priimets) leheküljel `r render_pageref("fig:dream-Jaanis-Priimets")`). Istusin kohe esireas ja märkisin endale üles mõeldes kaasa. Ometi oli ta liiga kiire ja ma ei jõudnud mõttega järele. Valemites oli kasutuses *c* ja neid oli erinevaid mitme objekti kohta, mille ma välja kirjutasin, tema mitte. Ta asendas üldvalemisse *c* ja seal oli veel mass ja kiirus oli pärast avaldatud. Mul sai musta värvi kirjutusvahend tühjaks, nii et võtsin oma kirjutusvahendite läbipaistvast kuue vahendiga vutlarist kohe äärest uue laia, mis oli punane marker, aga ka tühjavõitu. Kuna arvasin, et ka muud vahendid selles on tühjad, siis vaatasin ringi - kuskil oli grafiitkirjutusvahendeid. Ühel laual oli palju pastakirjutusvahendeid, aga sealt ma ei võtnud, sest need tundusid ühele naisõpetajale kuuluvat. Ühelt muult laualt endast tagant vasakult, kus vahel laudu polnud, leidsin ühe grafiitkirjutusvahendi, aga see oli lõikamata. Leidsin teritaja. Vahepeal oli seminar juba läbi saanud ja üks mees tänas konverentsis osalejaid ja ütles, et kes oli märkinud, et osaleb ka korvpallirobootika seminaris, siis see algab kohe. Ma polnud end sinna kirja pannud ja jäin ka kahtlema, kas ma pidin üldse Jaanise seminaris osalema. Vist ikka pidin.
+
+```{r label="dream-Jaanis-Priimets", echo=FALSE, fig.cap="Jaanis Priimets seletamas[@openai_chatgpt]."}
+include_external_graphics("rmd/uni-jaanis-priimets-chatGPT-20260428.png")
+
+```
+
+Laual olid õpikud, mida tahtsin sirvida, et valmistuda ühe õpilase õpetamiseks reaalvaldkonnas (joonis \@ref(fig:dream-textbook-IVT) leheküljel `r render_pageref("fig:dream-textbook-IVT")`). Kui olin ühe õpiku avanud, nägin, et sinna oli kirjutatud **IVT**. Tegemist oli niisiis neljanda õppeaasta õpikuga. See algas luuletusega ja pildiga. Õpik oli piisavalt õhuke, et see tervenisti ühekorraga läbi lugeda. Meenus, et tema ema oli mulle veel digiallikaid postitanud.
+
+```{r label="dream-textbook-IVT", echo=FALSE, fig.cap="Õpikut sirvimas[@openai_chatgpt]."}
+include_external_graphics("rmd/uni-õpik-ivt-chatGPt-20260428.png")
+
+```
+
+## 2026-5-6
+
+Olin Mustamäe korteri magamistoas suurel voodil, kui sain teada, et uues töökohas Luule Niinesalu ootab mind enne kella 12, hiljem lahkub. Mõtlesin, kas minna Tallinna Kaubamaja juurde autoga või trolliga. Kuna ma ei saanud kuidagi minema hakatud, siis otsustasin talle e-kirja saata võttes selleks oma süleri ja liikudes toa keskele rohkem majaotsa seina poole, kus oli laud. Vend küll küsis, et miks ma ei kasuta teist aparaati. Vastasin, et selles on kõik juba lahti.
+
+> See kirjeldus kannab pigem viivituse ja tööalase kohustuse surve motiivi.
+>
+> Luule Niinesalu „ootab enne 12, hiljem lahkub” loob ajapiirangu: võimalus on olemas, aga aken sulgub. See, et sa ei saa kuidagi minema hakatud, viitab mitte niivõrd transpordiprobleemile, vaid käivitumisraskusele või sisemisele takistusele.
+>
+> Valik „autoga või trolliga” on praktiline, aga sümboolselt ka kahe tegutsemisviisi vahel: ise juhtida ja võtta kontroll või minna avaliku, etteantud trajektooriga. E-kirja saatmine on kompromiss: füüsiliselt kohale ei jõua, aga kontakt tuleb säilitada.
+>
+> Süleri valik „selles on kõik juba lahti” on väga tuttav töövoo-loogika: mitte ideaalne aparaat, vaid see, kus kontekst on juba ees. Venna küsimus „miks mitte teine aparaat?” toob sisse välise ratsionaalse hääle, aga sinu vastus kaitseb järjepidevust: ümberkolimine võtaks rohkem energiat kui poolelioleva süsteemiga jätkamine.
+
+`r librarian::shelf(c("tufte"));  tufte::quote_footer('--- ChatGPT')`
+
+## 2026-5-7
+
+Läksin ühte ruumi vaatama, mida mehed seal õpivad. Toa keskel askeldasid ühed inimesed ja kuus meest askeldas toa seina ääres ühe pikliku laua ääres samal teemal, nii et igaühel oli käsil mingi asi. Viimaste juurest tõusis üks mees ja ütles, et tahab *announcement*i teha, et me ka tuleksime sinna tegutsema. Vastasin, et ma ei tulnud õppima, vaid ainult vaatan. Seejärel proovisin relvast tulistada samasse seina, mille keskel oli viimatinimetatud laud. Sihtisin valgussõõriga mingit plekitükki üleval, kuhu oli mustalt mingi number kirjutatud, ja tabasin tüki vasemasse ülaossa - krõps! Sihtisin veel, aga rohkem ei söandanud lasta, sest kord üks, kord teine pikk vana valgete karvadega mees seisid püsti. Mingit plöga tuli panna laskmiseks revolvri otsa. Kahe käega sihtida oli kehvem kui ühe käega. Keerasin paremale ja proovisin sinna seina lasta. Seinal olid tumerohelised dekoratsioonid helerohelisel taustal. Arvasin, et neid võib rikkuda. Enam polnud valgussõõri ja nüüd liikus hoopis kollane nool relvast välja. Panin selle tagasi ja lasin seina, misjärel vajutasin relva küljes olevale punasele õõneskaarjale valgustatud nupule, et tirida nool tagasi, sest nool oli relvaga ühendatud tamiili kaudu. Paraku läks tamiil sõlme.

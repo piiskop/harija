@@ -619,6 +619,19 @@ include_external_graphics("rmd/cv/pimekamber-IMG_20260305_165735.jpg")
 
 ```
 
+**15. apr 2026 9:30 kuni 16:00 TalTechi inseneriteaduskond**\
+*Inseneeria inspiratsioonipäev õpetajatele*[@taltech2026inseneeria] (joonis \@ref(fig:CV-TUT-inspiration-2026) leheküljel `r render_pageref("fig:CV-TUT-inspiration-2026")`).
+
+```{r label="CV-TUT-inspiration-2026", echo=FALSE, fig.cap="Jootsin vilkuvate lampide konstruktsiooni."}
+include_external_graphics("rmd/cv/õpetajate-inspiratsioonipäev-20260415.jpg")
+
+```
+
+Valgustatud joonlaud, Folkrace.
+
+**2026-04-16 10:00-15:30 Tallinna Tehnikaülikool**\
+*TalTechi füüsikapäev*.
+
 **created instructions:** [*development
 environment*](https://medium.com/arvutiteadus/õppekeskkonna-seadistamine-b88c6656ea80):
 instructions;
