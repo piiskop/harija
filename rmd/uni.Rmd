@@ -73,3 +73,147 @@ Olin Mustamäe korteri magamistoas suurel voodil, kui sain teada, et uues töök
 ## 2026-5-7
 
 Läksin ühte ruumi vaatama, mida mehed seal õpivad. Toa keskel askeldasid ühed inimesed ja kuus meest askeldas toa seina ääres ühe pikliku laua ääres samal teemal, nii et igaühel oli käsil mingi asi. Viimaste juurest tõusis üks mees ja ütles, et tahab *announcement*i teha, et me ka tuleksime sinna tegutsema. Vastasin, et ma ei tulnud õppima, vaid ainult vaatan. Seejärel proovisin relvast tulistada samasse seina, mille keskel oli viimatinimetatud laud. Sihtisin valgussõõriga mingit plekitükki üleval, kuhu oli mustalt mingi number kirjutatud, ja tabasin tüki vasemasse ülaossa - krõps! Sihtisin veel, aga rohkem ei söandanud lasta, sest kord üks, kord teine pikk vana valgete karvadega mees seisid püsti. Mingit plöga tuli panna laskmiseks revolvri otsa. Kahe käega sihtida oli kehvem kui ühe käega. Keerasin paremale ja proovisin sinna seina lasta. Seinal olid tumerohelised dekoratsioonid helerohelisel taustal. Arvasin, et neid võib rikkuda. Enam polnud valgussõõri ja nüüd liikus hoopis kollane nool relvast välja. Panin selle tagasi ja lasin seina, misjärel vajutasin relva küljes olevale punasele õõneskaarjale valgustatud nupule, et tirida nool tagasi, sest nool oli relvaga ühendatud tamiili kaudu. Paraku läks tamiil sõlme.
+
+## 2026-5-11
+
+Pidin õpetama ühekorraga kolmanda ja neljanda kooliastme õpilasi. Üks neiu väitis, et matemaatika ei olevat kohustuslik. Lükkasin väite ümber. Peaaegu kõik õpilased lahkusid sellest ruumist. Läksin otsima ja selgus, et nad läksid ühe muu meesõpetaja ruumi. Ütlesin valjusti õpilastele, et nad minu ruumi tuleksid, kus õpetame matemaatikat, füüsikat ja informaatikat. Selle peale liikus enamus õpilasi minu ruumi, nii et sinna jäid vaid üksikud. Minu ruumis ütles üks gümnaasiumiastme õpilane, et kitsas matemaatika ei olevat talle kohustuslik. Väitsin, et on küll. Tema väitis vastu, et ei ole. Ütlesin: "Sul on muidugi õigus, et sa ei pea kohal käima, aga eksam tuleb sul ikka sooritada."
+
+## 2026-5-12
+
+Läksin Venemaale õpetama. Olles sisenenud ühte kahe sissepääsuga ruumi vestlesin kohaliku naisega, kes ütles: " .. место .. " (joonis \@ref(fig:dream-teaching-in-RUS) leheküljel `r render_pageref("fig:dream-teaching-in-RUS")`). Ukseava kaudu sisenes minuga koos tulnud naine, kes parandas: "Нет! Вместе!" Ei tohtivat sõna lõppeda о'ga. Ma siiski selgitasin, et see oli: "На место." Selle peale minu kaaslane rahunes. Liikusime kõrvalseina ukseava kaudu järgmisse ruumi kiikama. Mina jäin ukseavasse passima. Toa vasakus osas oli keskel diivanilaud, mida ümbritsesid diivanid. Minupoolse seina pool oleval diivanil lösutas valge maikaga mees: arvasin, et kohalik õpetaja, kes siin majutub. Kartsin, et mind pannakse samasse ruumi majutuma. Samas, tehtav.
+
+```{r label="dream-teaching-in-RUS", echo=FALSE, fig.cap="Ruumi plaan[@openai_chatgpt]."}
+include_external_graphics("rmd/komposiit_pilt_unenao_ruumiplaan.png")
+
+```
+
+## 2026-5-13
+
+Olin õpperuumis üsna eesotsas ja vasakul, kui üks meesõpilane minust tagapoolt paremalt küsis, kas NATO peaks minema Venemaale tuumarelva varastama. "Uuringud on näidanud, et kasulikum on osta uus," vastas prillidega meesõpetaja, kes oli õpperuumi eesosas. Hakkasin panema oma asju punasesse matka seljakotti, sest õppesessioon lõppes. Aega oli ainult kümme minutit enne järgmist. Väljusin viimasena kabinetist koridorid ja pöördusin paremale. Vastu tuli muid õpilasi. Teadsin, et järgmine õppesessioon on ruumis 515 ja täna, teisipäevas ongi ainult kuus õppesessiooni, millest kaks veel järel, ning juba 14:15 on tänaseks kool läbi. Ma siiski ei leidnud ruumi 515, vaid olid juba kahega algavad tunnused. Muretsesin, kas peaksin alt läbi minema, võtme võtma ja eelmise kabineti ukse lukustama, sest olin viimane. Samuti muretsesin, kuhu minna käimlasse.
+
+## 2026-5-19
+
+Kaljo oli Kaarlelt võtnud viimase saadud tasu valuutas ja Kaarle nõudis seda tagasi. Ma ütlesin Kaarlele, et saab tagasi siis, kui tal on vaja osta midagi, mis on tõesti vajalik. Kaljo tõi siiski selle tagasi ja asetas lauanurgale. Kupüürid olid musta värvi lukuga vutlaris, mis nägi välja nagu mu mikrofoni oma (joonis \@ref(fig:dream-Kaarle-pouch) leheküljel `r render_pageref("fig:dream-Kaarle-pouch")`). Selle peal oli Kaarle puidust tükkidega kaelakee. Veidi hiljem läks Kaarle välja ja klaasukse juures kurtis, et treener olevat tal soovitanud end kolm nädalat järjest traumeerida, saavutamaks paremat taset, ja ta küsis mult nõu. Ütlesin, et treener ilmselt ei kasutaks seda väljendit. Kaarle väitel üks teine poiss seetõttu juba loobunud. Läksime maja kaudu otsast juurest välja ja jalutasime ümber maja otsa. Kaarle kurtis, et kui ta kolm aastat seal ära on ja tagasi tuleb, pole kellegagi mängida. Mõtlesin, et ärritaks teda vähe, sest tal kaasa siin. Vastasin, et ta ei peagi tagasi tulema, vaid võib sinna jääda või edasi liikuda. "Kindlasti leidub ka siin tennisemängijaid," sõnasin. "Kindlasti oleks ka Sinimäes olnud, aga seal mul polnudki aega otsida." Märkasime, et ülejärgmisest võsast mees fotografeerib meid. Kaarle kiirustas sinna, mina ka. Kaarle ronis üles teiste sekka ja muutus muuks inimeseks, mina kiikasin teisel pool seina olevat varjualust.
+
+```{r label="dream-Kaarle-pouch", echo=FALSE, fig.cap="Vutlar[@openai_chatgpt]."}
+include_external_graphics("rmd/uni-kaarle-vutlar-chatGPt-2026-5-19.png")
+
+```
+
+## 2026-5-24
+
+Jaanis Priimets oli meile just ülesande andnud. Ütlesin talle: "Mul on ettepanek, et me maksame sulle ja need, kes ära teevad, saavad selle endale." Jaanis naeratas selle peale mittenõustuvalt.
+
+## 2026-6-3
+
+Suures tumedas saalis istus minu kõrval neiu, kellel olid vihikusse tehtud suured punased arvud, mis tähistasid tempot: *2000*, *180*, *180*... Neiu laulis neid laule. Kuna ta oli prantslanna, siis tahtsin talle öelda: "C'etais pour moi très difficult a l'ecole, mais maintenant, c'est très facile." Ta avastas vea ja eemaldas ühe nulli *2000*'st. Need numbrid olid vist kleebitud sinna. Ma ei jõudnud talle midagi öelda, kui ta tõusis ja lahkus. Tüdruk minu ees ütles hõikas talle: "Er ist Deutscher!" Selle peale kiikas ta nurga tagant, nii et ainult peanupp paistis, aga paistsid veel kaks peanuppu, kellest üks kuulus ta poisssõbrale. Nupud kadusid ja ilmusid uuesti. Siis tuli ta nurga tagant välja ja märkasin, et ta polnudki nii ilus, kui olin teda kõrvalt märganud. Ta nägi välja nagu Šveitsi mirjam. Ta ütles midagi, aga lärmi oli nii palju, et ma ei kuulnud. Selle peale ma ütlesin talle: "Was?" ja tegin vasaku käe nimetissõrmega kutsuvat liigutust. Ta tuli lähemale ja ütles: "Du hast doch nicht "Was?" gesagt?!" - "Das hat er," vastas teine neiu. Selle peale proovisin minu kõrval olnud neiule öelda seda prantsuskeelset lauset.
+
+## 2026-6-11
+
+Kaljo ja Kaarle hüüdsid mind, et tuleksin appi. Nad tegelesid õppimisega. Läksin Kaarle tuppa ja ei leidnud neid sealt. Käisin korteris ka muudes kohtades. Naisolevuste tubadesse ainult kiikasin. Lõpuks läksin uuesti Kaarle tuppa, sest arvasin, et kuulsin hääli tagaruumist, mille uks oli ühine Kaarle toaga. See ruum oli nagu laoruum, üsna tühi. Mul oli käes hall Nokia 3110 eksemplar ja nägin, et sõnum oli tulnud ja ekraanil oli:
+
+> Männik.
+
+Saalis istusin korraks õpilane juuli reiele. Läksin seejärel paremale tagapoole pingiritta istuma. Minu kõrvale tahtis istet võtta üks poissõpilane, kellel valge riietus. Kaasõpilased arvasid ja minagi keeldusin teda sinna lubamast. Poiss ütles enda kaitseks:
+
+> Mul on läbipaistvad püksid.
+
+Mulle tundus, et olin saanud õpilastele autoriteediks.
+
+## 2026-6-14
+
+Sisenesin õpperuumi, milles õpilased olid sooritamas minu käsul testi, mille keegi muu õpetaja oli nad tegema pannud. Õpilased olid mu peale pahased. Asusin neid pika sinikollase kummist joonlauaga nüpeldama mõeldes, et keegi võib mind peksmises süüdistada.
+
+## 2026-6-24
+
+Ühe eesti keele naisõpetajaga uurisime kollase viski pudelit, kuhu oli peale kirjutatud:
+
+> Tetrauch
+
+(joonis \@ref(fig:dream-Tetrauch) leheküljel `r render_pageref("fig:dream-Tetrauch")`).
+
+```{r label="dream-Tetrauch", echo=FALSE, fig.cap="Tetrauch[@openai_chatgpt;@aifaceswap_multiple_face_swap]."}
+include_external_graphics("rmd/uni-tetrauch.jpg")
+
+```
+
+Ütlesin selle talle ette. Tema väitis, et seda hääldatakse:
+
+> Tetraihh.
+
+Ülejäänud pikem nimi sisaldas ka tühikuid ning nende asemel olid alakriipsud.
+
+Sinimäe Põhikooli meesskaudiga istusime mingi musta värvi asja juures vastastikku, nii et asi oli meie vahel. Ma puhusin sellelt asjalt prahti ära. Ta aitas ka puhuda. Ütles, et Kultuurifirmas ei puhastatagi arvuteid, ainult aegajalt mopiga.
+
+## 2026-7-15
+
+Kooli juht oli valmis alustama koosolekut õpetajatega eraldi ruumis. Plaanisin osaleda, ent ma olin raporteerinud ühe dokumendi kasutamise sõrmejäljega, mistõttu tahtsin eelnevalt selle dokumendi leida ja kaasa võtta. Suundusin seda dokumenti otsima. See oli nagu juhiluba, aga samas kaante vahel (joonis \@ref(fig:dream-school-leader) leheküljel `r render_pageref("fig:dream-school-leader")`). Kui olin leidnud, oli koosolek juba toimunud. Arvasin, et see on minu jaoks paha lugu, ent juht ütles: "Ütlesin, et sa oled hõivatud." Ma polnud selle peale tulnud, et juht võib mind ise päästa. Teatasin talle, et minu raport on valmis. "Ei ole ju!" ütles ta mulle vastu. "Allajoonitud ja mahatõmmatud peab olema. Iga ülesanne peab olema allkirjastatud." Tõesti, paberil oli iga ülesande kohta pikk alakriips, millele järgnes märgistuskast. "Kuidas ma samas failis igat ülesannet digiallkirjastan?"
+
+```{r label="dream-school-leader", echo=FALSE, fig.cap="Päästja koolijuht[@openai_chatgpt]."}
+include_external_graphics("rmd/uni-koolijuht.png")
+
+```
+
+## 2026-7-28
+
+Kuna oli kakahäda, tahtsin minna hädast lahti saama kooli esimese korruse käimlasse. Kui jõudsin selle sissepääsu juurde, avastasin, et on järjekord. Parajasti tuli üks naine välja ja pakkus meile paberit. Minu ees seisev mees oli just endale mingi osa paberit võtnud, kui kord oli minu käes. Naise käes oli justnagu hoopis kile, mitte paber, aga paber paistis olevat kile sees. Ei teadnud, kui palju võtta. Loobusin ja kõndisin neljandale korrusele. Märkasin, et seal on ka käimlad, kuigi lastele. Koridori otsas olid järjest kolm kitsast ust, millest kahele vasakpoolsemale koridorist vaadatuna olid märgitud käimla kolmnurgad. Keskmise ees istus üks poiss ja kui tema juurde jõudsin, oli ta äkki kadunud - ilmselt keskmisse boksi. Avasin märgistamata ukse ja seal oligi käimla. Sisenesin. Sees oli minu jaoks hästi vähe ruumi. Koridori teiselt poolt uste vastast avanes uks ja üks õpetaja tuli välja lükates minu kabineti ukse kinni. Paraku oli selle ukse riiv katki. Hakkasin pusima seda riivi korda teha võttes riivi tervenisti oma kätte ukse küljest ära. Tükk tegu oli teisest aastast metallitüki läbisaamisega ja see siiski õnnestus. Kui olin riivi peale tõmmanud, oli ukse asemel justkui musta värvi topeltnöör. Seega ei sobinud boks sugugi kakamiseks ja tuli edasi otsida võimalust. Hiljem rõõmustusin, kui nägin ühes ruumis prillauda kaanega. Kohe pidin pettuma, sest potti polnud ja tegemist oli auguga põrandas, mis mulle ei meeldinud.
+
+## 2026-7-30
+
+Saabunud oli valge kuusnurkse põhjaga püstprisma, mille põhi oli nagu korrapärane kuusnurk, aga ühed vastasküljed olid oluliselt pikemad muudest, nii et jättis plasku mulje. Uurisin seda õpilasega ja püüdsin seletada, et tegemist on tennisereketi käepideme mudeliga saamata ise aru, kuidas see seda on. Asja liigutades ilmusid eri kohtadesse musta värvi selgete nurkadega sümbolid - kolmnurgad, ristkülikud, kuusnurk - ilmselt vastavalt sellele, kuidas asja paigutada. Ma ei mõistnud nende sümbolite tähendusi. Arvasin, et see tuleb panna konvereile, kus see lõigatakse parajateks juppideks. Valge konveier oli ka saabunud: valge rõhtne liist püstises asendis soontega oli ühendatud masina üldosaga. Samas, sinna pandi muid asju.
+
+## 2026-8-1
+
+Õpilased valmistasid teatrirõdul oma asju ette. Ma liikusin rõdu serva, kus oli laud, tegelesin seal ja jõin viskit. Käisin vahepeal keskel pingirivide vahel vaatamas teiste asju. Peagi õpetaja teatas, et nüüd on aeg tehtu üle vaadata ja asus teatrirõdult suurele ekraanile projitseerima õpilaste loomingut. Ma mõtlesin, kas minna oma nurka, ja kahtlesin, kas sealt näeb hästi. Ei tihanud minna, aga siiski võtsin julguse kokku ja läksin, et välja selgitada. Laua juures oli juba üks mees ja kui ma oma viskiklaasi otsisin, siis selgus, et ta oli sinna viskile piima peale valanud arvates, et klaas oli tühi. Piim ei segunenud viskiga, vaid täitis klaasi selle ümber jättes viski keskele. Keerutasin oma käes ja oli näha, kuidas eri vedelikud hõljusid. Näitasin seda ka mõnele õpilasele selgitades juurde.
+
+Kui olin naasnud rõdu keskele, nägin suurel ekraanil lähenemas laeva, mille kuju moondus. Minu ümber tulid muud inimesed ja kuna ma olin pikali, ei näinud enam läbi seisvate inimeste, mis ekraanil toimub. Üks neid inimesi oli mihkel matiisen. Ütlesin talle: "See laeva moonutus on palju parem kui Jami kontsert," mille peale ta vaatas mulle ülevalt alla ajates suu suurelt lahti ja vihaselt torusse, nii et nägin justkui hambaid, keda polnud. Selgitasin: "Jami kontsertidel pole "show"-d." Ta vastas kähku: "Siin on."
+
+## 2026-8-5
+
+Füüsikaõpetajate sündmusel kaido reivelt küsis mult, kui kaugele ta peab liikuma, olles ühenduses lindiga, mis oli omakorda ühendatud posti külge. Mõtlesin, et tegemist on massi ja kauguse ülesandega. Üks muu meesõpetaja ütles, et ehk on vaja õhu sisaldust arvutada.
+
+Muud õpilased valmistusid teatrietenduseks. Üks õpetaja meenutas maria klenskajat. Ta kandis prille ja oli noorem. Ta laulis ühe muu naisõpetajaga ühise mikrofoni juures duetti. Taamal laulsid kaks muud naisõpetajat samamoodi. Kuna mängiti "Kevade"-t, siis keegi neist meenutas filmi-Teelet.
+
+## 2026-8-6
+
+Õpetasin naisele, kellega päriselt viimati paaristantsu harjutasin ja kellele väga minu tehtud keerutused olid meeldinud, kuidas salsas keerutusi teha: "See on nagu batšaatas. Kui tõmban ühele poole, keerad sinnapoole, kui tõmban teisele poole, keerad sinnapoole." Ta kippus vahel valesse suunda keerutama ja oli koba, nii et vajus mulle peale ja siis ma embasin tema pehmet mustaga kaetud keha.
+
+## 2026-9-5
+
+### Soojusefekt
+
+kaido reivelt ütles, et toimib, kui aine soojusefekti eirata. Üks muu õpetaja kinnitas.
+
+### Sünnipäev
+
+Koridoris oli palju õpetajaid. Minu poolt piki koridori pikemat külge vaadatuna paremal olid muude seas kaks naisõpetajat, keda teadsin. Üks ütles teisele, kellel parasjagu sünnipäev, et ta olevat vanem. Sünnipäevalisel oli nagu missil lint üll. Tema vastas seina pool näoga tema poole seisis minu jaoks võõras naisõpetaja. Arvasin, et too on humanitaariast, sest ma polnud teda varem näinud. Ilus naine. Õnnitles sünnipäeva last andes talle paremalt poolt põsemusi. Endal olid huuled justkui värskelt erkpunaseks värvitud. Mõtlesin, kas jätab jälgi. Sünnipäeva laps ütles talle, et nad olevat ühevanused. Sünnipäeva laps liikus meie poole ja kui ta täpselt minu ees seisis, otsustasin, et kuna ta mulle meeldib, siis ei jäta teda kallistamata. Embasin teda, nii et parem käsi ülevalt, vasak alt, ja tema mind vastu. Ütlesin samaaegselt: "Palju õnne! Mitte sünnipäeva puhul, vaid lihtsalt niisama."
+
+## 2026-9-6
+
+### Funktsioonid
+
+Arvutiõppes üks neiu oli juba rohkem ära teinud, kui vaja, sest ta tahtis ka ECMAScripti funktsioonidena proovida.
+
+### Libistamine
+
+Õppelaagris oli reivo maasik nii purjus, et lõbusalt lükkas laual esemeid, mis põrkusid nutitelefonide vastu ja panid nutitelefonid libisema, kaasa arvatud minu oma, mis oli ekraaniga üleval pool. Üks muu õpetaja veel küsis talt, et mida ta teeb.
+
+## 2026-9-29
+
+Koolis olid karmid korraldused. Üks keskealine valgete lokkidega naisõpetaja liikus ja tegi head nägu. Nägin teda hiljem tema ema embuses ning ta nägu oli ärevalt naeratav.
+
+Pärnu maantee poolt üle Vabaduse väljaku Kaarli Puiesteele ja sealt vastassuunas liikus tumerohelisi tanke ja soomukeid hästi kiiresti, vaheldudes tavaliste sõiduvahenditega. Kiriku suunas liiguti mõlemalt poolt pargisaart ja vastu ainult paaril real sealt, kust ikka, aga liiklus oli korraldatud läbisegi ja kõik nagu teadsid, kuidas sõita. Oli alanud Venemaa okupatsioon.
+
+Kiriku poolt liikus ringis punt rahvariietes inimesi lauldes. Nende järele tuli hobusel mees, kes neid piitsutama hakkas. Tundsin temas ära egon nuteri. Kui ta oli hobuselt alla roninud, pussitas keegi teda ja ta huultelt nõrgus mitu vereoja. Äkitselt tõmbas ta revolvri ja tulistas Pärnu maantee pool kõrgendikul olevat meest, kes langes. Seejärel liikus tema suunas noor sale naisturvatöötaja hõbehallis kostüümis, millel logo nagu National Agency for Space and Astronomy oma. Ta sai mehelt järgmised kaks kuuli, mis läbisid ta keha rindkerest üks vasakult kõrgemalt, teine paremalt madalamalt, nii et vereplekid olid näha. Selle tabamuse peale naine pöördus seljaga laskja poole ja hakkas nagu kukkuma. Ootasin, et ta kukuks, aga ta ikka ei kukkunud. Laskja jalutas temani ja ütles: "Ah jalg!" Nimelt oli naise parem jalg lahases ja ta hoidis seda normaalasendi suhtes enama kui täisnurga all üleval ega saanud seetõttu kukkuda. Laskja võttis jala hoidmise üle ja naine langes.
+
+### 2026-10-6
+
+Rahvas istus ja minu juures oli üks neiu, kelle puhul ma mõtlesin, et ta võiks minu põlvedele istet võtta, kui ta seda tegig. Ta tagumik ja jalad olid teksapükstes. Hiljem hakkasin siduma enda jalanõu paela ja see jalanõu oli nagu valge kinkekarp valge laia paelaga, nii et üks noor naine minust minu vaates paremal ei saanud aru ja möönas, et see on kindlasti mõeldud noorele naisele (kingituseks).
+
+### 2026-10-10
+
+Üks naine ütles, et pärast kooli vahetamist olid õnnelal (urb) kätel peksujäljed, mida ta varrukatega varjas.
+
+### 2026-10-11
+
+Läksime einar vellendiga abistama üht neidu matemaatikaõppimises. einar oli lasknud meile joogid tellida ja noor naine ettekandjana tõi joogid: kummalegi kaks pudelit. Ma oleksin küll midagi muud tahtnud, aga käis kah. Esimene jook oli suhkruroost tehtud. Võtsime neiu vihiku lahti. See oli kõvade kaantega ja vähemalt *B2*-suuruses, kenasti täis joonistatud. Küsisin neiu kaasõpilaselt, kas kuidas see kotti mahub. Too näitas, et kaenla all tassitakse.

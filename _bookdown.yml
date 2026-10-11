@@ -9,6 +9,7 @@ rmd_files: [
   "rmd/cv/cv-en.Rmd",
   "rmd/kompetentsid.Rmd",
   "rmd/heiki-pille-endla.Rmd",
+  "rmd/soovitusi-õppimiseks.Rmd",
   "rmd/huumor.Rmd",
   "rmd/kiidud.Rmd",
   "rmd/kronoloogia/kronoloogia.Rmd",
